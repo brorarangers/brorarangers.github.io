@@ -1,0 +1,52 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
+    <div class="row">
+    <div class="container">
+        <div class="col s12">
+            <h3 class="center">RESULTS GRAPHIC</h3>
+        </div>
+
+        <div class="col s12">
+    {% assign posts = site.posts | where: "section", "match" %}
+            <ul class="container">
+                {% for post in posts limit: 2 %}
+                <li>
+                    <h5><a class="{{ site.primary_team_colour }}-text" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <p>{{ post.excerpt | strip_html }}</p>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+    </div>
+    </div>
+    <div class="row">
+    <div class="container">
+        <div id="fix" class="col s12">
+            <table id="fixtures" class="striped"></table>
+        </div>
+    </div>
+    </div>
+</main>
+    <footer>
+        {% include mainjs.html %}
+        <!-- JS for Google Sheet: Sheetrock -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
+        <script>
+        $(document).ready(function(){
+                <!-- Sheetrock variables -->
+                    var fixtures = '{{ site.fixtures }}';
+
+                $(".button-collapse").sideNav();
+                // Load next fixture.
+                $('#fixtures').sheetrock({
+                    url: fixtures,
+                    query: "select E,A,B,C,D,H,I,F where B != 'vs' order by E desc",
+                    labels: ['Date','Home','H','Away','A','AET','Pens','Comp']
+                });
+            });
+        </script>
+    </footer>
+</body>

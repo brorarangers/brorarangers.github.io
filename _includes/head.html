@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+        <meta name="description"
+      content={% if page.description %}"{{ page.description }}"{% else %}"{{ site.description }}"{% endif %}>
+        <meta name="author" content="http://digitalreedom.me">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% if page.og %}
+        <!-- Twitter Cards -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+        <meta name="twitter:description" content="{{ page.og-description | append: ' #'}}{{ site.twitter-hashtag }}">
+        <!-- Facebook Open Graph -->
+        <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+        <meta property="og:description" content="{{ page.og-description | append: ' #'}}{{ site.twitter-hashtag }}">
+        {% if page.opengraph-image %}
+        <meta name="twitter:image" content="{{ site.baseurl }}/images/{{ post.image }}">    {% endif %}
+        {% endif %}
+        <!-- CSS files -->
+        <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/css/materialize.css"  media="screen,projection"/>
+        <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/css/override.css"  media="screen,projection"/>
+    </head>

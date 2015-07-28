@@ -1,0 +1,12 @@
+<article class="z-depth-2">
+    {% assign posts = site.posts | where: "section", "news" %}
+    <ul class="collection-with-header">
+        <li class="collection-header"><h5 class="center"><strong>Latest News</strong></h5></li>
+    {% for post in posts limit:4 %}
+        <li class="collection-item">
+            <h6><a href="{{ post.url }}" class="{{ site.primary_team_colour }}-text"><strong> {{ post.title }}</strong></a></h6>
+            <p class="truncate">{{ post.excerpt | strip_html }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</article>

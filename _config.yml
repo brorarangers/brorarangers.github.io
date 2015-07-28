@@ -1,0 +1,53 @@
+# General Information
+name: Brora Rangers Football Club
+short_name: Brora Rangers
+description: The Official Brora Rangers Football Club Website
+email: brorarangersfc@highlandleague.com
+fixtures: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=0' #Google sheet with fixtures and results list
+table: 'https://docs.google.com/spreadsheets/d/1Hq-0ft8VTAPpNg_PrP-0myNk1BBm3zQpSsHBTUwWReY/edit#gid=1124428147' #Google sheet with League Table
+twitter: brorarangers #don't include @ symbol
+twitter-hashtag: COYR #don't include # symbol
+facebook:
+club_badge: /images/badge.png
+
+# Collections - club members
+collections:
+  first-team:
+    output: true
+    permalink: /first-team/:path/
+
+  youth-teams:
+    output: true
+    permalink: /youth-teams/:path/
+
+  ladies-team:
+    output: true
+    permalink: /ladies-team/:path/
+
+  backroom:
+    output: true
+    permalink: /backroom/:path/
+
+  sponsors:
+    output: true
+    permalink: /sponsors/:path/
+
+  legends:
+    output: true
+    permalink: /legends/:path/
+
+# Pricing info
+season_ticket: £135.00
+gold_card: £250.00
+hospitality: £80.00
+player_sponsor: £150.00
+supporters_club: £20.00
+
+
+# Website Configuration
+
+primary_team_colour: red
+secondary_team_colour: white
+
+# paginate: 20
+# paginate_path: "/archives/page:num/"

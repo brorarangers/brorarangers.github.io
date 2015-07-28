@@ -1,0 +1,11 @@
+name,link,menu
+Home, /, main
+News, /news/, main
+Fixtures, /fixtures/, main
+Results, /results/, main
+About Us, /about/, main
+First Team, /squad/ , secondary
+Youth Teams, /youth/ , secondary
+Ladies Team, /ladies/ , secondary
+Back Room, /backroom/ , secondary
+Sponsors, /sponsors/ , secondary
