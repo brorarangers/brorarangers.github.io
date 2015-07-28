@@ -19,8 +19,21 @@
             {% include winners.html %}
         </section>
     </div>
+    <div class="parallax-container hide-on-med-and-down">
+        <div class="parallax"><img src="{{ base.url }}/images/posts/2015-07-27-petrofac_cup.jpg"></div>
+    </div>
+    <div class="row">
+        <section class="col s12 m8 offset-m2">
+            {% include home-news.html %}
+        </section>
+    </div>
 </main>
     <footer>
         {% include mainjs.html %}
+        <script>
+            $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+        </script>
     </footer>
 </body>
