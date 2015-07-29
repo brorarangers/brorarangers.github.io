@@ -1,11 +1,11 @@
+{% assign posts = site.posts | where: "section", "next" %}
+    {% for post in posts limit: 1 %}
 <article class="card medium z-depth-2">
     <div class="waves-effect waves-block waves-light">
-        <img class="activator" height="250" src="/images/posts/2015-07-27-petrofac_cup.jpg">
+        <img class="activator" height="250" src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
     </div>
-    {% assign posts = site.posts | where: "section", "next" %}
-    {% for post in posts limit: 1 %}
     <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4"><strong>{{ post.title }}</strong> <i class="hoverable {{ site.primary_team_colour }}-text mdi-navigation-expand-less medium right"></i></span>
+        <span class="card-title activator grey-text text-darken-4"><h6><strong>{{ post.title }}</strong></h6> <i class="hoverable {{ site.primary_team_colour }}-text mdi-navigation-expand-less medium right"></i></span>
         <p><a href="/fixtures/" class="{{ site.primary_team_colour }}-text">Upcoming Fixtures</a></p>
     </div>
     <div class="card-reveal">

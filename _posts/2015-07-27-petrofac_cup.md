@@ -1,9 +1,10 @@
 ---
 section: match
 layout: post
-title: Petrofac Cup First Round - 25/07/2015
+title: Brora Rangers 0 - 1 Alloa Athletic
+image: true
 ---
-Brora made an early exit from this years Petrofac Challange Trophy at the hands of SPFL Championship side Alloa Athletic 1-0.
+Brora made an early exit from this years Petrofac Challange Trophy at the hands of SPFL Championship side Alloa Athletic.
 
 A 49th minute strike by Geoff Mitchell separated the teams. The general consensus from the Alloa travelling fans was that Brora were very unlucky not to take the tie into extra time at the very least.
 

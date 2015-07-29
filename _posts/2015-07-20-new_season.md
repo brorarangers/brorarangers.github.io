@@ -2,6 +2,7 @@
 section: news
 layout: post
 title: The New Season Begins
+image: yes
 ---
 That's the end of the Pre Season friendlies for Brora Rangers. 
 

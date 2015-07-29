@@ -2,7 +2,25 @@
 <body>
     <header  class="navbar-fixed">{% include nav.html %}</header>
 <main>
-{{ content }}
+    <div class="row">
+        <div class="center"><h3>{{ page.title }}</h3></div>
+    </div>
+    <div class="row">
+        <div class="container flow-text">
+        {{ page.excerpt }}
+        </div>
+    </div>
+    {% if page.image %}
+    <div class="row">
+        <div class="center"><img class="responsive-img" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+    </div>
+    {% endif %}
+    <div class="row">
+        <div class="container">
+        {{ content | remove: page.excerpt }}
+        </div>
+    </div>
+
 </main>
     <footer>
     {% include mainjs.html %}

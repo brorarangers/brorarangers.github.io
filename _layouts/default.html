@@ -19,13 +19,27 @@
             {% include winners.html %}
         </section>
     </div>
+    {% assign posts = site.posts | where: "section", "match" %}
+        {% for post in posts limit: 1 %}
     <div class="parallax-container hide-on-med-and-down">
-        <div class="parallax"><img src="{{ base.url }}/images/posts/2015-07-27-petrofac_cup.jpg"></div>
+        <div class="parallax"><img src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+        {% endfor %}
     </div>
     <div class="row">
         <section class="col s12 m8 offset-m2">
             {% include home-fixtures.html %}
         </section>
+    </div>
+    {% assign posts = site.posts | where: "section", "next" %}
+        {% for post in posts limit: 1 %}
+        {% if post.image %}
+    <div class="parallax-container hide-on-med-and-down">
+        <div class="parallax"><img src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+        {% elsif post.image == null %}
+    <div class="parallax-container hide-on-med-and-down">
+        <div class="parallax"><img src="/images/team.jpg"></div>
+        {% endif %}
+        {% endfor %}
     </div>
 </main>
     <footer>
