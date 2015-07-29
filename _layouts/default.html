@@ -30,7 +30,7 @@
             {% include home-fixtures.html %}
         </section>
     </div>
-    {% assign posts = site.posts | where: "section", "next" %}
+    {% assign posts = site.posts | where: "section", "news" %}
         {% for post in posts limit: 1 %}
         {% if post.image %}
     <div class="parallax-container hide-on-med-and-down">
