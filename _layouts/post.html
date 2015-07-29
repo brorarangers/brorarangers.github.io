@@ -1,4 +1,10 @@
 {% include head.html %}
-{% include nav.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
 {{ content }}
-{% include mainjs.html %}
+</main>
+    <footer>
+    {% include mainjs.html %}
+    </footer>
+</body>
