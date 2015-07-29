@@ -2,6 +2,7 @@
 section: next
 layout: post
 title: Lossiemouth vs Brora Rangers
+image: true
 ---
 Brora open their defence of the P&J Highland League against Lossiemouth on Wednesday evening.
 
