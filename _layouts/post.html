@@ -12,8 +12,9 @@
     </div>
     {% if page.image %}
     <div class="row">
-        <div class="center"><img class="responsive-img" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
-    </div>
+        <div class="center">
+            <img class="responsive-img" height="300" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+        </div>
     {% endif %}
     <div class="row">
         <div class="container">

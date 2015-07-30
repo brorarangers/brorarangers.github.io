@@ -4,6 +4,10 @@ h6  {
     font-size: 1.25rem;
 }
 
+article {
+    min-height: 400px;
+}
+
 .collection-with-header {
     padding: 0.8em;
 }
@@ -12,10 +16,23 @@ h6  {
     padding: 0.8em;
 }
 
-article {
-    min-height: 400px;
+.parallax-container  {
+    height: 350px;
 }
 
-.parallax-container  {
+.tab    {
+    font-size: 1.5em;
+}
+
+.valign {
+    padding-left: 10%;
+}
+
+#news   {
+    background-image: url(/images/news.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: sepia(10%);
+    -webkit-filter: sepia(20%);
     height: 350px;
 }
