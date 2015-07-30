@@ -1,12 +1,12 @@
 <nav>
     <div class="nav-wrapper {{ site.secondary_team_colour }}">
       <a href="/" class="right logo {{ site.primary_team_colour }}-text"><img height="56" src="{{ site.club_badge }}"></a>
-      <a href="#" data-activates="mobile-demo" class="button-collapse {{ site.primary_team_colour }}-text text-darken-2"><i class="mdi-navigation-menu"></i></a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse {{ site.primary_team_colour }}-text text-darken-4"><i class="mdi-navigation-menu"></i></a>
       <ul class="left hide-on-med-and-down">
         {% for nav_item in site.data.nav %}
         {% if nav_item.menu == " main" %}
             <li {% if page.url == nav_item.link %} class="active" {% endif %}>
-            <a class="{{ site.primary_team_colour }}-text text-darken-2" href="{{ nav_item.link }}"><strong>{{ nav_item.name }}</strong></a>
+            <a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ nav_item.link }}"><strong>{{ nav_item.name }}</strong></a>
             </li>
         {% endif %}
         {% endfor %}
@@ -15,7 +15,7 @@
         {% for nav_item in site.data.nav %}
         {% if nav_item.menu == " main" %}
             <li {% if page.url == nav_item.link %} class="active" {% endif %}>
-            <a href="{{ nav_item.link }}" class="{{ site.primary_team_colour }}-text  text-darken-2"><strong>{{ nav_item.name }}</strong></a>
+            <a href="{{ nav_item.link }}" class="{{ site.primary_team_colour }}-text  text-darken-4"><strong>{{ nav_item.name }}</strong></a>
             </li>
         {% endif %}
         {% endfor %}
