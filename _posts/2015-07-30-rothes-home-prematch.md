@@ -2,7 +2,7 @@
 section: next
 layout: post
 title: Brora Rangers vs Rothes
-date: Saturday 1st August
+match-date: Saturday 1st August
 image: true
 ---
 It's Flag Day at Dudgeon Park again on Saturday the 1st of August.

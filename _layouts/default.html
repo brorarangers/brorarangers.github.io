@@ -35,7 +35,7 @@
         {% if post.image %}
     <div class="parallax-container hide-on-med-and-down">
         <div class="parallax"><img src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
-        {% elsif post.image == null %}
+        {% elsif post.image == false %}
     <div class="parallax-container hide-on-med-and-down">
         <div class="parallax"><img src="/images/team.jpg"></div>
         {% endif %}

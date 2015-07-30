@@ -2,7 +2,7 @@
 section: news
 layout: post
 title: New Website & Programme on the Way
-image: false
+image: no
 ---
 The club are very anxious to communicate better with our supporters whether they are regulars at the matches or support Brora Rangers from afar.
 
