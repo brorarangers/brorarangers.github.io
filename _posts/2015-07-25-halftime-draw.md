@@ -1,5 +1,6 @@
 ---
-section: winners
+section: event
+subsection: winners
 layout: post
 title: Half Time 50/50 Draw
 ---

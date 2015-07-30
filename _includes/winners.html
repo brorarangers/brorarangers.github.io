@@ -1,5 +1,5 @@
 <article class="z-depth-2">
-    {% assign posts = site.posts | where: "section", "winners" %}
+    {% assign posts = site.posts | where: "subsection", "winners" %}
     <ul class="collection-with-header">
         <li class="collection-header"><h5 class="center"><strong>In It To Win It</strong></h5></li>
     {% for post in posts limit:3 %}
