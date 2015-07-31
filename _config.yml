@@ -49,5 +49,8 @@ supporters_club: £20.00
 primary_team_colour: red
 secondary_team_colour: white
 
+sass:
+    style: :compressed
+
 # paginate: 20
 # paginate_path: "/archives/page:num/"
