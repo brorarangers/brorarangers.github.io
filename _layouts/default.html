@@ -16,27 +16,16 @@
             {% include winners.html %}
         </section>
     </div>
-    {% assign posts = site.posts | where: "section", "match" %}
-        {% for post in posts limit: 1 %}
     <div class="parallax-container hide-on-med-and-down">
         <div class="parallax"><img src="/images/banner.jpg"></div>
-        {% endfor %}
     </div>
     <div class="row">
         <section class="col s12 m8 offset-m2">
             {% include home-fixtures.html %}
         </section>
     </div>
-    {% assign posts = site.posts | where: "section", "news" %}
-        {% for post in posts limit: 1 %}
-        {% if post.image %}
     <div class="parallax-container hide-on-med-and-down">
-        <div class="parallax"><img src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
-        {% elsif post.image == false %}
-    <div class="parallax-container hide-on-med-and-down">
-        <div class="parallax"><img src="/images/team.jpg"></div>
-        {% endif %}
-        {% endfor %}
+        <div class="parallax"><img src="/images/banner.jpg"></div>
     </div>
     <div class="row">
         <section class="col s12 m5 offset-m1">
