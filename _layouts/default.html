@@ -1,9 +1,9 @@
 {% include head.html %}
 <body>
-    <header  class="navbar">{% include nav.html %}</header>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
 <main>
     <div class="row">
-        <h3 class="center">MAIN WEBSITE GRAPHIC</h3>
+        {% include banner.html %}
     </div>
     <div class="row">
         <h5 class="center">MAIN SPONSORS LINKS</h5>
@@ -43,7 +43,7 @@
     </div>
     <div class="row">
         <section class="col s12 m5 offset-m1">
-            {% include home-map.html %}
+
         </section>
         <section class="col s12 m5">
             {% include home-hospitality.html %}
