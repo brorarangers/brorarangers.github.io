@@ -34,6 +34,12 @@ article {
     padding: 0.8em;
 }
 
+.activator:hover  {
+    filter: brightness(120%);
+    -webkit-filter: brightness(120%);
+
+}
+
 .parallax-container  {
     height: 550px;
     filter: grayscale(90%);
@@ -67,7 +73,6 @@ article {
     background-repeat: no-repeat;
     background-size: cover;
     height: 260px;
-    font-family: 'Roboto Slab', serif;
 }
 #banner-med   {
     padding-top: 20%;
@@ -77,7 +82,6 @@ article {
     background-repeat: no-repeat;
     background-size: cover;
     height: 360px;
-    font-family: 'Roboto Slab', serif;
 }
 #banner-large   {
     padding-top: 20%;
@@ -87,7 +91,6 @@ article {
     background-repeat: no-repeat;
     background-size: cover;
     height: 560px;
-    font-family: 'Roboto Slab', serif;
 }
 
 .blur {
