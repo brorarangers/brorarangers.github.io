@@ -1,3 +1,9 @@
-<div id="banner">
-
+<div id="banner-small" class="hide-on-med-and-up center">
+    <h3 class="red-text text-darken-4 blur">{{ site.name }}</h3>
+</div>
+<div id="banner-med" class="hide-on-large-only hide-on-small-only center">
+    <h2 class="red-text text-darken-4 blur">{{ site.name | upcase }}</h2>
+</div>
+<div id="banner-large" class="hide-on-med-and-down center">
+    <h1 class="red-text text-darken-4 blur">{{ site.name | upcase }}</h1>
 </div>
