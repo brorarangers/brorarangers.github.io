@@ -7,6 +7,8 @@ h1, h2, h3, h4, h5, h6  {
     height: 68px;
 }
 
+
+
 .side-nav {
     li {
         a   {
@@ -60,31 +62,27 @@ article {
 #banner-small   {
     padding-top: 20%;
     background-image: url(/images/banner.jpg);
-    background-color: #b71c1c;
+    //background-color: #b71c1c;
     background-blend-mode: screen;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: opacity(10);
-    -webkit-filter: opacity(10);
     height: 260px;
     font-family: 'Roboto Slab', serif;
 }
 #banner-med   {
     padding-top: 20%;
     background-image: url(/images/banner.jpg);
-    background-color: #b71c1c;
+    //background-color: #b71c1c;
     background-blend-mode: screen;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: opacity(10);
-    -webkit-filter: opacity(10);
     height: 360px;
     font-family: 'Roboto Slab', serif;
 }
 #banner-large   {
     padding-top: 20%;
     background-image: url(/images/banner.jpg);
-    background-color: #b71c1c;
+    //background-color: #b71c1c;
     background-blend-mode: screen;
     background-repeat: no-repeat;
     background-size: cover;
@@ -95,4 +93,7 @@ article {
 .blur {
   background: rgb(255,255,255); /* for IE */
   background: rgba(255,255,255,0.55);
+}
+nav {
+    opacity: 0.9;
 }
