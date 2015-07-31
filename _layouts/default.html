@@ -19,7 +19,7 @@
     {% assign posts = site.posts | where: "section", "match" %}
         {% for post in posts limit: 1 %}
     <div class="parallax-container hide-on-med-and-down">
-        <div class="parallax"><img src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+        <div class="parallax"><img src="/images/banner.jpg"></div>
         {% endfor %}
     </div>
     <div class="row">

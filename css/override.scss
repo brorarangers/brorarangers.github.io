@@ -42,6 +42,8 @@ article {
 
 .parallax-container  {
     height: 300px;
+    filter: hue-rotate(90);
+    -webkit-filter: hue-rotate(190);
 }
 
 .tab    {
