@@ -1,7 +1,7 @@
 {% assign posts = site.posts | where: "section", "match" %}
         {% for post in posts limit: 1 %}
 <article class="card medium z-depth-2">
-    <div class="waves-effect waves-block waves-light">
+    <div class="waves-effect waves-block waves-light overlay">
         <img class="activator" height="250" src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
     </div>
     <div class="card-content">

@@ -32,6 +32,7 @@ article {
 
 .card {
     padding: 0.8em;
+    margin: 1rem 0
 }
 
 .activator:hover  {
@@ -90,10 +91,23 @@ article {
     height: 560px;
 }
 
+
 .blur {
   background: rgb(255,255,255); /* for IE */
   background: rgba(255,255,255,0.85);
 }
+
+.overlay {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+.overlayed {
+   position: absolute;
+   top: 5px;
+   left: 0;
+   width: 100%;
+}
+
 nav {
     opacity: 0.9;
 }
