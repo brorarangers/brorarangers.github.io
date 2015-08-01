@@ -1,5 +1,5 @@
 ---
-title: Brora Rangers Latest News
+title: Latest News
 permalink: /news/
 layout: latest_news
 ---
