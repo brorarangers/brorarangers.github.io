@@ -8,9 +8,9 @@
     <div class="row">
         <div class="col s12">
             <ul class="tabs">
-                <li class="tab col s4"><a href="#club"><strong>Club</strong></a></li>
-                <li class="tab col s4"><a href="#match"><strong>Match</strong></a></li>
-                <li class="tab col s4"><a href="#events"><strong>Events</strong></a></li>
+                <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#club"><strong>Club</strong></a></li>
+                <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#match"><strong>Match</strong></a></li>
+                <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#events"><strong>Events</strong></a></li>
             </ul>
         </div>
         <div id="club" class="col s12">
@@ -19,7 +19,7 @@
                 <li><h4><strong>General News</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class="{{ site.primary_team_colour }}-text" href="{{ post.url }}"><strong> {{ post.title }}</strong></h5>
+                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></h5>
                         <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p></a>
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
