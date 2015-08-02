@@ -32,7 +32,7 @@
                 <li><h4><strong>Match Reports</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class="{{ site.primary_team_colour }}-text" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
                 {% endfor %}
@@ -44,7 +44,7 @@
                 <li><h4><strong>Events and Winners</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class="{{ site.primary_team_colour }}-text" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
                 {% endfor %}
