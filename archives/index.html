@@ -1,0 +1,42 @@
+---
+layout: archives
+title: News Archive
+description: News from Brora Rangers Football Club.
+---
+<!-- This loops through the paginated posts -->
+
+<div class="row">
+    <div class="container">
+        {% for post in paginator.posts %}
+    <div>
+  <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}">{{ post.title }}</a></h5>
+    </div>
+  <h6>
+    Posted on {{ post.date | date_to_string }}
+  </h6>
+  <div class="content">
+    {{ post.excerpt | strip_html }}
+  </div>
+
+{% endfor %}
+</div>
+</div>
+
+
+<div class="divider"></div>
+<!-- Pagination links -->
+<div class="row">
+    <section class="center">
+  {% if paginator.previous_page %}
+    <a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ paginator.previous_page_path }}">Previous</i></a>
+  {% else %}
+    <span></span>
+  {% endif %}
+  <span class="">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ paginator.next_page_path }}">Next</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+    </section>
+</div>
