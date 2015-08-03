@@ -77,13 +77,34 @@ article {
   background: rgba(255,255,255,0.85);
 }
 
-.filter {
-    background-image: url(/images/banner.jpg);
+.report {
+    background-image: url(/images/report.jpg);
+    background-size: 200%;
+    background-position: top;
+    background-color: #b71c1c;
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fixture {
+    background-image: url(/images/fixtures.jpg);
+    background-size: 200%;
+    background-position: top;
+    background-color: #b71c1c;
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hospitality {
+    background-image: url(/images/hospitality.jpg);
     background-size: 200%;
     background-position: center;
     background-color: #b71c1c;
     background-blend-mode: screen;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 nav {
