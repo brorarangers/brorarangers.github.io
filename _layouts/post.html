@@ -2,6 +2,13 @@
 <body>
     <header  class="navbar-fixed">{% include nav.html %}</header>
 <main>
+    {% if page.sub-section == 'sponsor' %}
+    <div class="row">
+        <div class="container">
+            <h6>Brora Rangers Sponsor Highlight</h6>
+        </div>
+    </div>
+    {% endif %}
     <div class="row">
         <div class="center"><h3>{{ page.title }}</h3></div>
     </div>
