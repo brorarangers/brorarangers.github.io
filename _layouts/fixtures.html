@@ -24,7 +24,7 @@
     <div class="row">
     <div class="container">
         <div id="fix" class="col s12">
-            <table id="fixtures" class="striped"></table>
+            <table id="fixtures" class="striped responsive-table"></table>
         </div>
     </div>
     </div>
@@ -55,8 +55,8 @@
                 // Load next fixture.
                 $('#fixtures').sheetrock({
                     url: fixtures,
-                    query: "select A,B,C,E,G,F where B = 'vs'",
-                    labels: ['Home','vs','Away','Date','Kick Off','Comp']
+                    query: "select E,A,B,C,G,F where B = 'vs'",
+                    labels: ['Date','Home','vs','Away','Kick Off','Comp']
                 });
             });
         </script>
