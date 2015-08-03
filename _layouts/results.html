@@ -10,7 +10,7 @@
         <div class="col s12">
     {% assign posts = site.posts | where: "section", "match" %}
             <ul class="container">
-                {% for post in posts limit: 3 %}
+                {% for post in posts limit: 1 %}
                 <li>
                     <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
                     <h6 class="center-align"> {{ post.match-date }}</h6>
@@ -34,7 +34,7 @@
         <div class="col s12">
     {% assign posts = site.posts | where: "section", "match" %}
             <ul class="container">
-                {% for post in posts limit: 5 offset: 3 %}
+                {% for post in posts limit: 5 offset: 1 %}
                 <li>
                     <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
                     <h6 class="center-align"> {{ post.match-date }}</h6>
@@ -60,8 +60,8 @@
                 // Load next fixture.
                 $('#fixtures').sheetrock({
                     url: fixtures,
-                    query: "select E,A,B,C,D,H,I,F where B != 'vs' order by J desc",
-                    labels: ['Date','Home','H','Away','A','AET','Pens','Comp']
+                    query: "select E,F,A,B,C,D,H,I where B != 'vs' order by J desc",
+                    labels: ['Date','Comp','Home','H','Away','A','AET','Pens']
                 });
             });
         </script>
