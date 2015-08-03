@@ -3,6 +3,7 @@ section: next
 layout: post
 title: Lossiemouth vs Brora Rangers
 image: true
+match-date: Wednesday 29th July
 ---
 Brora open their defence of the P&J Highland League against Lossiemouth on Wednesday evening.
 
