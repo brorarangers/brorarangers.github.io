@@ -52,5 +52,5 @@ secondary_team_colour: white
 sass:
     style: :compressed
 
-paginate: 5
+paginate: 20
 paginate_path: "/archives/page:num/"
