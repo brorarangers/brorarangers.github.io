@@ -10,7 +10,7 @@
             <ul class="tabs">
                 <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#club"><strong>Club</strong></a></li>
                 <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#match"><strong>Match</strong></a></li>
-                <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#events"><strong>Events</strong></a></li>
+                <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#event"><strong>Events</strong></a></li>
             </ul>
         </div>
         <div id="club" class="col s12">
@@ -38,7 +38,7 @@
                 {% endfor %}
             </ul>
         </div>
-        <div id="events" class="col s12">
+        <div id="event" class="col s12">
     {% assign posts = site.posts | where: "section", "event" %}
             <ul class="container">
                 <li><h4><strong>Events and Winners</strong></h4></li>

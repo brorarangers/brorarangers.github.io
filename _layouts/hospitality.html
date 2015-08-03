@@ -1,0 +1,35 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
+    <div class="row">
+        {% include sub-banner.html %}
+    </div>
+    <div class="row">
+        <section class="container">
+        <p class="flow-text">{{ site.name }} have several ways to make Match Day that little bit special.</p>
+        </section>
+    </div>
+    <div class="row">
+        <section class="col s12 m4">
+            {% include season-ticket.html %}
+        </section>
+        <section class="col s12 m4">
+            {% include gold-card.html %}
+        </section>
+        <section class="col s12 m4">
+            {% include match-hospitality.html %}
+        </section>
+
+    </div>
+</main>
+    <footer>
+        {% include footer.html %}
+        {% include mainjs.html %}
+        <script>
+            $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+        </script>
+    </footer>
+</body>
