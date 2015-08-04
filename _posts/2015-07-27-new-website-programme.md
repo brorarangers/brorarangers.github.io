@@ -3,6 +3,8 @@ section: news
 layout: post
 title: New Website & Programme on the Way
 image: yes
+og: yes
+opengraph-image: yes
 og-description: Brora Rangers Football Club are making inroads into a digital revolution to match their onfield ambitions
 ---
 The club are very anxious to communicate better with our supporters whether they are regulars at the matches or support Brora Rangers from afar.
