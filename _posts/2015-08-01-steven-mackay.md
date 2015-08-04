@@ -3,7 +3,7 @@ section: news
 sub-section: spotlight
 layout: post
 title: Steven Mackay
-image: no
+image: yes
 ---
 All the stuff from the programme
 
