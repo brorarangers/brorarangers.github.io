@@ -3,6 +3,8 @@ name: Brora Rangers Football Club
 short_name: Brora Rangers
 description: The Official Brora Rangers Football Club Website
 email: brorarangersfc@highlandleague.com
+
+#Google Drive Sheet location
 fixtures: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=0' #Google sheet with fixtures and results list
 table: 'https://docs.google.com/spreadsheets/d/1Hq-0ft8VTAPpNg_PrP-0myNk1BBm3zQpSsHBTUwWReY/edit#gid=1124428147' #Google sheet with League Table
 twitter: brorarangers #don't include @ symbol
