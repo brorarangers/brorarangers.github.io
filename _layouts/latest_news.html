@@ -16,10 +16,16 @@
         <div id="club" class="col s12">
     {% assign posts = site.posts | where: "section", "news" %}
             <ul id="club-list" class="container">
-                <li><h4><strong>General News</strong></h4></li>
+
                 {% for post in posts limit: 10 %}
                 <li>
+                {% if post.sub-section == 'spotlight' %}
+                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> The Man in Red - {{ post.title }}</strong></h5>
+                {% elsif post.sub-section == 'sponsor' %}
+                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> Sponsor Spotlight - {{ post.title }}</strong></h5>
+                {% else %}
                     <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></h5>
+                {% endif %}
                         <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p></a>
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
