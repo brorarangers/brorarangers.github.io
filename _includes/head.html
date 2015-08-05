@@ -5,7 +5,7 @@
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
         <meta name="description"
       content={% if page.description %}"{{ page.description }}"{% else %}"{{ site.description }}"{% endif %}>
-        <meta name="author" content="http://digitalreedom.me">
+        <meta name="author" content="{{ site.website }} - @{{ site.twitter }}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {% if page.og %}
         <!-- Twitter Cards -->
