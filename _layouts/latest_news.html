@@ -35,10 +35,10 @@
         <div id="match" class="col s12 m7 l8">
     {% assign posts = site.posts | where: "section", "match" %}
             <ul class="container">
-                <li><h4><strong>Match Reports</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
+                    <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p>
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
                 {% endfor %}
@@ -47,10 +47,10 @@
         <div id="event" class="col s12 m7 l8">
     {% assign posts = site.posts | where: "section", "event" %}
             <ul class="container">
-                <li><h4><strong>Events and Winners</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
+                    <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p>
                     <p>{{ post.excerpt | strip_html }}</p>
                 </li>
                 {% endfor %}
