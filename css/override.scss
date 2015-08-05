@@ -1,13 +1,31 @@
 ---
 ---
+// Typography
 h1, h2, h3, h4, h5, h6  {
     font-family: 'Roboto Slab', serif;
 }
+
+h6  {
+    font-size: 1.25rem;
+}
+
+// html
+article {
+    min-height: 400px;
+}
+
+nav {
+    opacity: 0.9;
+}
+
+td:first-of-type    {
+    font-weight: 800;
+}
+
+// Materialize overrides
 .logo  {
     height: 68px;
 }
-
-
 
 .side-nav {
     li {
@@ -15,15 +33,6 @@ h1, h2, h3, h4, h5, h6  {
             font-size: 1.3rem;
         }
     }
-}
-
-
-h6  {
-    font-size: 1.25rem;
-}
-
-article {
-    min-height: 400px;
 }
 
 .collection-with-header {
@@ -43,6 +52,7 @@ article {
     padding-left: 10%;
 }
 
+// Site specific
 .blur {
   background: rgb(255,255,255); /* for IE */
   background: rgba(255,255,255,0.85);
@@ -118,10 +128,3 @@ article {
     background-size: cover;
 }
 
-nav {
-    opacity: 0.9;
-}
-
-td:first-of-type    {
-    font-weight: 800;
-}

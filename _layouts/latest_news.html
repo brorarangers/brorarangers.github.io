@@ -6,14 +6,14 @@
         {% include sub-banner.html %}
     </div>
     <div class="row">
-        <div class="col s12">
+        <div class="col s12 m7">
             <ul class="tabs">
                 <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#club"><strong>Club</strong></a></li>
                 <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#match"><strong>Match</strong></a></li>
                 <li class="tab col s4 {{ site.primary_team_colour }}-text text-darken-4"><a href="#event"><strong>Events</strong></a></li>
             </ul>
         </div>
-        <div id="club" class="col s12">
+        <div id="club" class="col s12 m7">
     {% assign posts = site.posts | where: "section", "news" %}
             <ul id="club-list" class="container">
 
@@ -32,7 +32,7 @@
                 {% endfor %}
             </ul>
         </div>
-        <div id="match" class="col s12">
+        <div id="match" class="col s12 m7">
     {% assign posts = site.posts | where: "section", "match" %}
             <ul class="container">
                 <li><h4><strong>Match Reports</strong></h4></li>
@@ -44,18 +44,25 @@
                 {% endfor %}
             </ul>
         </div>
-        <div id="event" class="col s12">
+        <div id="event" class="col s12 m7">
     {% assign posts = site.posts | where: "section", "event" %}
             <ul class="container">
                 <li><h4><strong>Events and Winners</strong></h4></li>
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
-                    <p class="grey-text text-lighten-1">{{ post.excerpt | strip_html }}</p>
+                    <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5> {{ post.date | date: '%-d %B' }}
+                    <p>{{ post.excerpt | strip_html }}</p>
                 </li>
                 {% endfor %}
             </ul>
         </div>
+            <section class="hide-on-small-only">
+                <div class="row center">
+                    <br>
+                    <h5 class="center-align {{ site.primary_team_colour }}-text text-lighten-2">Around the Grounds</h5>
+                    {% include twitter.html %}
+                </div>
+            </section>
     </div>
     <div class="row">
         <section class="container center">
