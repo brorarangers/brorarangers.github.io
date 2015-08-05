@@ -1,5 +1,5 @@
 ---
-title: Hospitality and Match Day Specials
+title: Match Day Specials
 permalink: /hospitality/
 layout: hospitality
 ---

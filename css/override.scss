@@ -18,8 +18,22 @@ nav {
     opacity: 0.9;
 }
 
+th  {
+    color: #b71c1c;
+    text-align: center;
+}
+
+td  {
+    text-align: center;
+}
+
 td:first-of-type    {
     font-weight: 800;
+}
+
+table.striped>tbody>tr:nth-child(odd) {
+    background-color: #b71c1c;
+    color: white;
 }
 
 // Materialize overrides
