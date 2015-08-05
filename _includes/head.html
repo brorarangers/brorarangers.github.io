@@ -17,7 +17,7 @@
         <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
         <meta property="og:description" content="{{ page.description | append: ' #'}}{{ site.twitter-hashtag }}">
         {% if page.opengraph-image %}
-        <meta name="twitter:image" content="{{ site.baseurl }}/images/post/2015-07-27-new-website-programme.jpg }}">
+        <meta name="twitter:image" content="{{ site.baseurl }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg }}">
         {% endif %}
         {% endif %}
         <!-- CSS files -->
