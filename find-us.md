@@ -1,7 +1,7 @@
 ---
 title: Brora Village
 permalink: /brora/
-layout: default
+layout: latest_news
 ---
 Plenty to do and easy to get here blah, blah, blah.
 
