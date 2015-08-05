@@ -16,8 +16,10 @@
         <!-- Facebook Open Graph -->
         <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
         <meta property="og:description" content="{{ page.description | append: ' #'}}{{ site.twitter-hashtag }}">
-        {% if page.opengraph-image %}
+        {% if page.image %}
         <meta name="twitter:image" content="{{ site.website }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
+        {% else %}
+        <meta name="twitter:image" content="{{ site.website }}/images/banner.jpg">
         {% endif %}
         {% endif %}
         <!-- CSS files -->
