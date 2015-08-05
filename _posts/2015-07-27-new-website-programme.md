@@ -1,10 +1,12 @@
 ---
-section: news
-layout: post
+section: news   #can be news/match/next/event
+subsection:    #can be sponsor/spotlight/winners
+layout: post    #always post
+match-date:     #only needed if section is match
 title: New Website & Programme on the Way
 description:  Brora Rangers Football Club are making inroads into a digital revolution to match their onfield ambitions
-image: yes
-og: yes
+image: yes      #image to mirror post name.jpg
+og: yes         #for Twitter and Facebook content
 ---
 The club are very anxious to communicate better with our supporters whether they are regulars at the matches or support Brora Rangers from afar.
 

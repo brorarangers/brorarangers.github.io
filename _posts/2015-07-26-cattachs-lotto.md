@@ -2,7 +2,11 @@
 section: event
 subsection: winners
 layout: post
+match-date:
 title: Cattachs Lotto
+description: Don't miss out on your chance to win the Cattachs Lotto. There's a Jackpot of £5000 siting waiting for a lucky winner.
+image: no
+og: yes
 ---
 Winning numbers this week were 3,4,7,8 & 12.
 

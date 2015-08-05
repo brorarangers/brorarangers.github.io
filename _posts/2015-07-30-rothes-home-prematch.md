@@ -2,8 +2,10 @@
 section: next
 layout: post
 title: Brora Rangers vs Rothes
+description: Brora Rangers meet Rothes FC in their first home League game of the new season. The presentation of the League Champions Flag will take place shortly before the 3pm kick off.
 match-date: Saturday 1st August
 image: true
+og: yes
 ---
 It's Flag Day at Dudgeon Park again on Saturday the 1st of August. Brora welcome Rothes for our first home game of the season. 
 

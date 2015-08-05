@@ -1,8 +1,12 @@
 ---
 section: match
+subsection:
 layout: post
+match-date: 25th July 2015
 title: Brora Rangers 0 - 1 Alloa Athletic
+description: Alloa Athletic travelled to Brora Rangers for the first round of this season's Petrofac Training Cup. Some exciting attacking football from the Highland League Champions led to a thrilling game.
 image: true
+og: yes
 ---
 Brora made an early exit from this years Petrofac Challange Trophy at the hands of SPFL Championship side Alloa Athletic.
 

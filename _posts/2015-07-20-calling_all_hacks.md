@@ -1,7 +1,11 @@
 ---
 section: news
+subsection:
 layout: post
 title: Calling all would be "Hacks"
+description: Interested in a career in Sports Journalism? Or just keen to tell the world about Brora Rangers match day exploits? We are looking for a match reporter ...
+image: no      #image to mirror post name.jpg
+og: yes         #for Twitter and Facebook content
 ---
 Going forward Brora Rangers will be launching a new match day programme and looking to substantially increase our exposure in the local press.
 

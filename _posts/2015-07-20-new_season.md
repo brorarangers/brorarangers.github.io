@@ -1,8 +1,11 @@
 ---
 section: news
+subsection:        
 layout: post
 title: The New Season Begins
+description: Brora Rangers finish their pre-season friendly matches with a goaless draw against Clyde FC
 image: yes
+og: yes
 ---
 That's the end of the Pre Season friendlies for Brora Rangers. 
 

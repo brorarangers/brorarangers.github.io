@@ -1,8 +1,11 @@
 ---
 section: news
+subsection:
 layout: post
 title: British Blind Sport Fundraising Challenge
+description: You've a chance of catching John Latham at a football ground near you as he takes on an unusual challenge to raise money for British Blind Sport
 image: true
+og: true
 ---
 John Latham is on a monster tour of all the SPL, Championship, League 1 and 2, Highland and Lowland League grounds this month.
 
