@@ -1,7 +1,7 @@
 ---
-title: Brora Village
+title: Find Us
 permalink: /brora/
-layout: latest_news
+layout: brora
 ---
 Plenty to do and easy to get here blah, blah, blah.
 
