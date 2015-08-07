@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Squad
 layout: sheetrock-test
-permalink: /test/
+permalink: /squad/
 ---
