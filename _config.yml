@@ -7,37 +7,11 @@ website: http://brorarangers.github.io
 
 #Google Drive Sheet location
 fixtures: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=0' #Google sheet with fixtures and results list
-table: 'https://docs.google.com/spreadsheets/d/1Hq-0ft8VTAPpNg_PrP-0myNk1BBm3zQpSsHBTUwWReY/edit#gid=1124428147' #Google sheet with League Table
+squad: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=172930968' #Google sheet with 1st team squad and stats
 twitter: brorarangers #don't include @ symbol
 twitter-hashtag: COYR #don't include # symbol
 facebook:
 club_badge: /images/badge.png
-
-# Collections - club members
-collections:
-  first-team:
-    output: true
-    permalink: /first-team/:path/
-
-  youth-teams:
-    output: true
-    permalink: /youth-teams/:path/
-
-  ladies-team:
-    output: true
-    permalink: /ladies-team/:path/
-
-  backroom:
-    output: true
-    permalink: /backroom/:path/
-
-  sponsors:
-    output: true
-    permalink: /sponsors/:path/
-
-  legends:
-    output: true
-    permalink: /legends/:path/
 
 # Pricing info
 season_ticket: £135.00
