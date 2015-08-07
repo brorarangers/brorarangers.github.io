@@ -8,15 +8,19 @@
 
     <div class="row">
     <div class="container">
-        <div class="col s3">
-            <div id="stats">
-                <script id="stats-template" type="text/x-handlebars-template">
-                    {% raw %}
-
-                        <span>{{cells.First}}</span>{{cells.Name}}
-
-                    {% endraw %}
-                </script>
+        <div class="col s6">
+            <div>
+                <ul class="collection">
+                    {% for player in site.data.first-team %}
+                    <li class="collection-item avatar">
+                        <img src="/images/first_team/joe-malin.jpg" alt="" class="circle">
+                    <span class="title">{{ player.First_Name }} {{ player.Last_Name }}</span>
+      <p>{{ player.Bio }}  <br>
+         Second Line
+      </p>
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </div>
@@ -26,27 +30,12 @@
     <footer>
         {% include footer.html %}
         {% include mainjs.html %}
-        <!-- JS for Google Sheet: Sheetrock -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
-        <!-- JS for Google Sheet: Handlebars.s -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+
         <script>
         $(document).ready(function(){
-                <!-- Sheetrock variables -->
-                // Define spreadsheet URL.
-                    var fixtures = '{{ site.squad }}';
-
-                // Compile the Handlebars template for HR leaders.
-var HRTemplate = Handlebars.compile($('#stats-template').html());
 
                 $(".button-collapse").sideNav();
                 $('.modal-trigger').leanModal();
-                // Load Squad.
-                $('#stats').sheetrock({
-                        url: fixtures,
-                        query: "select A,B,C,D,E,F,G,H",
-                        rowTemplate: HRTemplate
-                });
             });
         </script>
     </footer>
