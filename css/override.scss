@@ -53,9 +53,13 @@ table.striped>tbody>tr:nth-child(odd) {
     padding: 0.8em;
 }
 
+.collapsible-header {
+    height: auto;
+}
 .collapsible-body img {
     max-height: 124px;
     float: right;
+    padding: 1em;
 }
 .card {
     padding: 0.8em;
@@ -93,6 +97,13 @@ table.striped>tbody>tr:nth-child(odd) {
             width: 100%;
             height: 100%;
         }
+.condensed  {
+    line-height: 0.5em;
+}
+
+.pad    {
+    padding: 0.5em 0.5em;
+}
 
 .hospitality {
     background-image: url(/images/hospitality.jpg);

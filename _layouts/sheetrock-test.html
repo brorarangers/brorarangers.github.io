@@ -5,30 +5,35 @@
     <div class="row">
         {% include sub-banner.html %}
     </div>
-
+    {% for player in site.data.first-team %}
     <div class="row">
     <div class="container">
-        <div class="col s12">
+        <div class="col s12 m6">
             <div>
                 <ul class="collapsible popout" data-collapsible="accordion">
-                    {% for player in site.data.first-team %}
                     <li>
                         <div class="collapsible-header">
-                        <h6 class="collapsible-header">{{ player.First_Name }} {{ player.Last_Name }}</h6>
+                        <h6 class="collapsible-header {{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}</h6>
+                            <p class="condensed">Appearances: {{ player.Total_Appearances }}</p>
+                            <p class="condensed">{% if player.Position == 'Goal' %}Goals Conceded: {{player.Total_Goals }} {% else %}Goals Scored {{ player.Total_Goals }} {% endif %}</p>
+                            <p class="condensed">Yellow Cards: {{ player.Yellow }}</p>
+                            <p class="condensed">Red Cards: {{ player.Red }}</p>
                         </div>
                         <div class="collapsible-body">
-                        <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="">
+                        <img class="hide-on-med-and-up" src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="">
                             <p>{{ player.Bio1 }}</p>
                             <p>{{ player.Bio2 }}</p>
                         </div>
                     </li>
-                    {% endfor %}
                 </ul>
             </div>
         </div>
     </div>
+        <div class="hide-on-small-only">
+            <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="" height="140" class="pad z-depth-1"><img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" height="140" class="pad z-depth-1">
+        </div>
     </div>
-
+                {% endfor %}
 </main>
     <footer>
         {% include footer.html %}
