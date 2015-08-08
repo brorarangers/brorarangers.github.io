@@ -8,16 +8,19 @@
 
     <div class="row">
     <div class="container">
-        <div class="col s6">
+        <div class="col s12">
             <div>
-                <ul class="collection">
+                <ul class="collapsible popout" data-collapsible="accordion">
                     {% for player in site.data.first-team %}
-                    <li class="collection-item avatar">
-                        <img src="/images/first_team/joe-malin.jpg" alt="" class="circle">
-                    <span class="title">{{ player.First_Name }} {{ player.Last_Name }}</span>
-      <p>{{ player.Bio }}  <br>
-         Second Line
-      </p>
+                    <li>
+                        <div class="collapsible-header">
+                        <h6 class="collapsible-header">{{ player.First_Name }} {{ player.Last_Name }}</h6>
+                        </div>
+                        <div class="collapsible-body">
+                        <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="">
+                            <p>{{ player.Bio1 }}</p>
+                            <p>{{ player.Bio2 }}</p>
+                        </div>
                     </li>
                     {% endfor %}
                 </ul>

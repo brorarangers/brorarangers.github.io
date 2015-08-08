@@ -1,6 +1,22 @@
-Position,First_Name,Last_Name,Starts,Subs,League Goals,Cup Goals,Yellow,Red,Bio
-Goal,Joe,Malin,3,0,0,2,0,0,Joe was the Supporters Player of the Year in our first League Championship winning season. 
-Goal,Steven,Martin,0,0,0,0,0,0
-Defence,John,Pickles,2,1,0,0,0,0
-Midfield,Gavin,Morrison,1,1,0,0,1,0
-Striker,Steven,Mackay,2,0,5,1,0,0
+Position,First_Name,Last_Name,Starts,Subs,League Goals,Cup Goals,Yellow,Red,Bio1,Bio2,TMIR
+Goal,Joe,Malin,3,0,0,2,0,0,"Joe was the Supporters Player of the Year in our first League Championship winning season. Last season he managed the incredible feat of only conceding 13 League goals ... unlucky for some, maybe, but certainly not for Brora.",Yet more interesting stuff about Joe ... ,No
+Goal,Steven,Martin,0,0,0,0,0,0,This is Steven's second spell at Brora Rangers and we are delighted to see him back after putting on some terrific displays for Strathspey Thistle prior to returning to Dudgeon Park last October,Yet more interesting stuff about Steven,No
+Defence,John,Pickles,2,1,0,0,0,0,"John signed at the start of this season from Orkney side Rendall FC. Usually slotting in at Right Back, John has terrific pace and an uncanny ability to read the game for a 21 year old",Yet more interesting stuff about John,No
+,Ally,Macdonald,3,0,0,0,0,0,"Ally is another face we'd seen in red at Dudgeon Park. Always keen to get forward, fans have been delighted to see Ally sign a new contract",More stuff ....,No
+,Colin,Williamson,3,0,0,0,0,0,"Colin joined us at the start of 2014 and quickly established himself as a fearless member of the back four. A broken collarbone saw Colin miss much of the end of our second League Championship, but a full recovery sees him as an ever present member of the starting 11.",More stuff ....,No
+,Grant,Munro,,,,,,,Short Bio,Additional info,No
+,Scott,Houston,,,,,,,Short Bio,Additional info,No
+,Dale,Gillespie,,,,,,,Short Bio,Additional info,No
+,Richard,Brittain,,,,,,,Short Bio,Additional info,No
+,Stuart,Kettlewell,,,,,,,Short Bio,Additional info,No
+Midfield,Gavin,Morrison,1,1,0,0,1,0,Short Bio,Additional info,No
+,Martin,Maclean,,,,,,,Short Bio,Additional info,No
+,Colin,Maclean,,,,,,,Short Bio,Additional info,No
+,Adam,Porrit,,,,,,,Short Bio,Additional info,No
+,Connor,Lyle,,,,,,,Short Bio,Additional info,No
+,Zander,Sutherland,,,,,,,Short Bio,Additional info,No
+,Paul,Brindle,,,,,,,Short Bio,Additional info,No
+,Scott,Graham,,,,,,,Short Bio,Additional info,No
+Striker,Steven,Mackay,2,0,5,1,0,0,Short Bio,Additional info,Yes
+,Lewis,Grant,,,,,,,Short Bio,Additional info,No
+,Andrew,Greig,,,,,,,Short Bio,Additional info,No
