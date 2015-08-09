@@ -8,7 +8,7 @@
     {% for player in site.data.first-team %}
     <div class="row">
     <div class="container">
-        <div class="col s12 m6">
+        <div class="col s12 m6 l4">
             <div>
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
@@ -29,8 +29,8 @@
             </div>
         </div>
     </div>
-        <div class="hide-on-small-only">
-            <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="" height="140" class="pad z-depth-1"><img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" height="140" class="pad z-depth-1">
+        <div class="col m6 hide-on-small-only">
+            <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="" height="140" class="pad z-depth-2"><img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" height="140" class="pad z-depth-2">
         </div>
     </div>
                 {% endfor %}
