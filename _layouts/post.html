@@ -39,7 +39,7 @@
     {% if page.image %}
     <div class="row">
         <div class="container center">
-            <img class="responsive-img" height="300" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg"></div>
+            <img class="responsive-img" height="400" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg" alt="{{page.description }}"></div>
         </div>
     {% endif %}
     <div class="row">
