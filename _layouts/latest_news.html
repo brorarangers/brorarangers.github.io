@@ -15,8 +15,9 @@
         </div>
         <div id="club" class="col s12 m7 l8">
     {% assign posts = site.posts | where: "section", "news" %}
+            <h5 class="center-align">Keep up to date with all the latest announcements from Dudgeon Park</h5>
+            <div class="divider"></div>
             <ul id="club-list" class="container">
-
                 {% for post in posts limit: 10 %}
                 <li>
                 {% if post.sub-section == 'spotlight' %}
@@ -28,30 +29,37 @@
                 {% endif %}
                         <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p></a>
                     <p>{{ post.excerpt | strip_html }}</p>
+                <div class="divider"></div>
                 </li>
                 {% endfor %}
             </ul>
         </div>
         <div id="match" class="col s12 m7 l8">
     {% assign posts = site.posts | where: "section", "match" %}
+            <h5 class="center-align">The latest reports from our recent matches</h5>
+            <div class="divider"></div>
             <ul class="container">
                 {% for post in posts limit: 10 %}
                 <li>
                     <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
                     <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p>
                     <p>{{ post.excerpt | strip_html }}</p>
+                    <div class="divider"></div>
                 </li>
                 {% endfor %}
             </ul>
         </div>
         <div id="event" class="col s12 m7 l8">
     {% assign posts = site.posts | where: "section", "event" %}
+            <h5 class="center-align">All the news of social events and our competition winners</h5>
+            <div class="divider"></div>
             <ul class="container">
                 {% for post in posts limit: 10 %}
                 <li>
                     <h5><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
                     <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p>
                     <p>{{ post.excerpt | strip_html }}</p>
+                    <div class="divider"></div>
                 </li>
                 {% endfor %}
             </ul>
