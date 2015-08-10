@@ -105,6 +105,11 @@ table.striped>tbody>tr:nth-child(odd) {
     margin: 0.5em 0.5em;
 }
 
+.post-image {
+    margin: 0px auto;
+    display:block
+}
+
 .hospitality {
     background-image: url(/images/hospitality.jpg);
     background-size: 200%;
@@ -170,8 +175,6 @@ table.striped>tbody>tr:nth-child(odd) {
     background-size: 200%;
     background-position: center;
     background-color: #b71c1c;
-    background-blend-mode: screen;
     background-repeat: no-repeat;
     background-size: cover;
 }
-

@@ -15,7 +15,7 @@ The goal-fest started in the 5th minute when Paul Brindle’s shot was blocked. 
 
 Brora threatened the overworked Rothes defence with each wave of attacks and in the 10th minute the 3rd goal arrived. Steven MacKay got off the mark converting Zander Sutherland’s inviting right wing cross from the six yard box.
 
-![Brora Celebrations]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-2.jpg){: .responsive-img}
+![Brora Celebrations]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-2.jpg){: .responsive-img .z-depth-2 .post-image}
 
 Rothes relieved the pressure with a rare beak when Dale Gillespie slipped in midfield and Joe Malin was called into action when he held a low drive from Craig MacMillan. Shortly afterwards Rothes defender Graham Shand came off with what looked like a groin strain to be replaced by Gary Gallacher.
 The onslaught continued and a Gavin Morrison drive from 25 yards flashed past the right hand post and a Greig drive was well held by Rothes keeper Mackie. It was Sutherland’s turn next to have a shot turned past the post for a corner before Gavin Morrison tried his luck again and almost deceived the keeper.
