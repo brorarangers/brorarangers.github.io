@@ -4,6 +4,7 @@ subsection:
 layout: post
 title: Brora turn on the style of Champions
 description: Brora Rangers run riot after unfurling the Champions flag to celebrate their first home Highland League game of the new season 
+match-date: 1st August 2015
 image: true
 og: yes
 ---

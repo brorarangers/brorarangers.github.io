@@ -4,6 +4,7 @@ subsection:
 layout: post
 title: Brora continue smart start to season
 description: Brora Rangers continue to make a strong start to their defence of the Highland League crown as they travel to Buckie Thistle and return with 3 points and two hat tricks.
+match-date: 8th August 2015
 image: true #images match file name.
 og: yes
 ---
