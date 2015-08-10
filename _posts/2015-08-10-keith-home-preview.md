@@ -13,3 +13,4 @@ Keith have had a promising start to the season with victories over Rothes and Bu
 
 The Maroons come to Brora on the back of a 3-0 defeat to Cove Rangers and will no doubt be fired up for the second of three games on the trot against title contenders.
 
+The weather forecast looks promising, so why don't you put a note in your diary and come to shout on The Cattachs as they continue their quest for a 3rd successive League title? 
