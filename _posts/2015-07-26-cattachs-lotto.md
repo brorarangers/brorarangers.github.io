@@ -4,7 +4,7 @@ subsection: winners
 layout: post
 match-date:
 title: Cattachs Lotto
-description: Don't miss out on your chance to win the Cattachs Lotto. There's a Jackpot of £5000 siting waiting for a lucky winner.
+description: Don't miss out on your chance to win the Cattachs Lotto. There's a Jackpot of £5000 sitting waiting for a lucky winner.
 image: no
 og: yes
 ---
