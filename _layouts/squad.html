@@ -19,8 +19,19 @@
                         <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
                             <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
                             <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" class="responsive-img">
-                            <p class="condensed {{ site.secondary_team_colour }}-text">{{ player.Starts }}</p>
-                            <p class="condensed {{ site.secondary_team_colour }}-text">{{ player.Subs }}</p>
+        <div class="divider"></div>
+            <ul class="container">
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Starts > '0' %}{{ player.Starts }} Starts{% endif %}</li>
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Subs > '0' %}{{ player.Subs }} Subs{% endif %}</li>
+                        {% if player.Position == "Goal" %}
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Total_Goals > '0' %}{{ player.Total_Goals }} Goals conceded{% endif %}</li>
+                        {% else %}
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Total_Goals > '0' %}{{ player.Total_Goals }} Goals scored{% endif %}</li>
+                        {% endif %}
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Yellow > '0' %}{{ player.Yellow }} Yellow{% endif %}</li>
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Red > '0' %}{{ player.Red }} Red{% endif %}</li>
+            </ul>
+        <div class="divider"></div>
                             <p class="{{ site.secondary_team_colour }}-text">{{ player.Bio2 }}</p>
                         </div>
                     </li>
