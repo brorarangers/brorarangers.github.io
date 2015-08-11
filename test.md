@@ -1,5 +1,5 @@
 ---
 title: Squad
-layout: sheetrock-test
+layout: squad
 permalink: /squad/
 ---
