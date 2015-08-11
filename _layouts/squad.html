@@ -12,7 +12,7 @@
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
                         <div class="collapsible-header center">
-                        <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="" height="140" class=" pad z-depth-2 circle">
+                        <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="60" class=" pad z-depth-2 circle">
                         <h6 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}</h6>
                             <p class="condensed flow-text"><strong>Appearances: {{ player.Total_Appearances }}</strong></p>
                         </div>
