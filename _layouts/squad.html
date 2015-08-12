@@ -40,7 +40,7 @@
         </div>
         <!-- Tablet display -->
         <div class="col m5 hide-on-small-only">
-            <div>
+            <div class="container">
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
                         <div class="collapsible-header center">
@@ -49,7 +49,7 @@
                             <p class="condensed flow-text"><strong>Appearances: {{ player.Total_Appearances }}</strong></p>
                         </div>
                         <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
-                            <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
+                       container      <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
                             <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" class="responsive-img">
         <div class="divider"></div>
 
@@ -60,6 +60,11 @@
             </div>
         </div>
         <div class="col m7 hide-on-small-only">
+            {% if player.Sponsor %}
+            <p>Sonsored by {{ player.Sponsor }}</p>
+            {% else %}
+            <p>Available to Sponsor</p>
+            {% endif %}
             <ul class="horizontal">
                 <li class="flow-text">
                     {% if player.Starts > '0' %}{{ player.Starts }} Starts{% endif %}
