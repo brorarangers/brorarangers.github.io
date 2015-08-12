@@ -70,6 +70,16 @@
                 </ul>
             </div>
         </div>
+        <div class="col m6">
+            <ul class="horizontal">
+                <li class="flow-text">
+                    {% if player.Starts > '0' %}{{ player.Starts }} Starts - {% endif %}
+                </li>
+                <li class="flow-text">
+                    {% if player.Subs > '0' %}{{ player.Subs }} Subs{% endif %}
+                </li>
+            </ul>
+        </div>
     </div>
                 {% endfor %}
 </main>

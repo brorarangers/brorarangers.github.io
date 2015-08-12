@@ -110,6 +110,10 @@ table.striped>tbody>tr:nth-child(odd) {
     display:block
 }
 
+.horizontal li  {
+    display: inline;
+}
+
 .hospitality {
     background-image: url(/images/hospitality.jpg);
     background-size: 200%;
