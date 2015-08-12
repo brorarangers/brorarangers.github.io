@@ -39,7 +39,7 @@
             </div>
         </div>
         <!-- Tablet display -->
-        <div class="col m6 hide-on-small-only">
+        <div class="col m5 hide-on-small-only">
             <div>
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
@@ -52,32 +52,28 @@
                             <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
                             <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" class="responsive-img">
         <div class="divider"></div>
-            <ul class="container">
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Starts > '0' %}{{ player.Starts }} Starts{% endif %}</li>
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Subs > '0' %}{{ player.Subs }} Subs{% endif %}</li>
-                        {% if player.Position == "Goal" %}
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Total_Goals > '0' %}{{ player.Total_Goals }} Goals conceded{% endif %}</li>
-                        {% else %}
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Total_Goals > '0' %}{{ player.Total_Goals }} Goals scored{% endif %}</li>
-                        {% endif %}
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Yellow > '0' %}{{ player.Yellow }} Yellow{% endif %}</li>
-                <li class="{{ site.secondary_team_colour }}-text">{% if player.Red > '0' %}{{ player.Red }} Red{% endif %}</li>
-            </ul>
-        <div class="divider"></div>
+
                             <p class="{{ site.secondary_team_colour }}-text">{{ player.Bio2 }}</p>
                         </div>
                     </li>
                 </ul>
             </div>
         </div>
-        <div class="col m6 hide-on-small-only">
+        <div class="col m7 hide-on-small-only">
             <ul class="horizontal">
-                <li class="flow-text">
-                    {% if player.Starts > '0' %}{{ player.Starts }} Starts - {% endif %}
+                <li class="">
+                    {% if player.Starts > '0' %}{{ player.Starts }} Starts{% endif %}
                 </li>
-                <li class="flow-text">
+                <li class="">
                     {% if player.Subs > '0' %}{{ player.Subs }} Subs{% endif %}
                 </li>
+                {% if player.Position == "Goal" %}
+                <li class="{{ site.primary_team_colour }}-text">{% if player.Total_Goals > '0' %} {{ player.Total_Goals }} Goals conceded{% endif %}</li>
+                        {% else %}
+                <li class="{{ site.primary_team_colour }}-text">{% if player.Total_Goals > '0' %} {{ player.Total_Goals }} Goals scored{% endif %}</li>
+                        {% endif %}
+                <li class="yellow-text text-accent-4">{% if player.Yellow > '0' %}{{ player.Yellow }} Yellow{% endif %}</li>
+                <li class="red-text text-accent-4">{% if player.Red > '0' %}{{ player.Red }} Red{% endif %}</li>
             </ul>
         </div>
     </div>
@@ -86,11 +82,5 @@
     <footer>
         {% include footer.html %}
         {% include mainjs.html %}
-
-        <script>
-        $(document).ready(function(){
-
-                $(".button-collapse").sideNav();
-        </script>
     </footer>
 </body>
