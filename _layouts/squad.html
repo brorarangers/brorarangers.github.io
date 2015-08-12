@@ -39,33 +39,15 @@
             </div>
         </div>
         <!-- Tablet display -->
-        <div class="col m5 hide-on-small-only">
+        <div class="col m12 hide-on-small-only">
             <div class="container">
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
-                        <div class="collapsible-header center">
+                        <div class="collapsible-header">
                         <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="90" class=" pad z-depth-2 circle">
-                        <h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}</h5>
-                            <p class="condensed flow-text"><strong>Appearances: {{ player.Total_Appearances }}</strong></p>
-                        </div>
-                        <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
-                       container      <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
-                            <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}-action.jpg" alt="" class="responsive-img">
-        <div class="divider"></div>
+                            <h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}{% if player.Sponsor %}<span style="font-size: 1.1rem;float:right;"> Sponsored by {{ player.Sponsor }}{% else %}   Available to Sponsor{% endif %}</span></h5>
 
-                            <p class="{{ site.secondary_team_colour }}-text">{{ player.Bio2 }}</p>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="col m7 hide-on-small-only">
-            {% if player.Sponsor %}
-            <p>Sonsored by {{ player.Sponsor }}</p>
-            {% else %}
-            <p>Available to Sponsor</p>
-            {% endif %}
-            <ul class="horizontal">
+            <ul class="horizontal center">
                 <li class="flow-text">
                     {% if player.Starts > '0' %}{{ player.Starts }} Starts{% endif %}
                 </li>
@@ -77,10 +59,23 @@
                         {% else %}
                 <li class="flow-text">{% if player.Total_Goals > '0' %} {{ player.Total_Goals }} Goals scored{% endif %}</li>
                         {% endif %}
-                <li class=" flow-text">{% if player.Yellow > '0' %}{{ player.Yellow }}<i class="material-icons yellow-text text-accent-4">stay_primary_portrait</i>{% endif %}</li>
-                <li class=" flow-text">{% if player.Red > '0' %}{{ player.Red }}<i class="material-icons red-text text-accent-4">stay_primary_portrait</i>{% endif %}</li>
             </ul>
+                        </div>
+                        <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
+                            <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
+        <div class="divider"></div>
+            <ul class="horizontal">
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Total_Appearances > '0' %} {{ player.Total_Appearances }} Total Appearances{% endif %}</li>
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Yellow > '0' %} {{ player.Yellow }} Yellow{% endif %}</li>
+                <li class="{{ site.secondary_team_colour }}-text">{% if player.Red > '0' %} {{ player.Red }} Red{% endif %}</li>
+            </ul>
+                            <p class="{{ site.secondary_team_colour }}-text">{{ player.Bio2 }}</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
+
     </div>
                 {% endfor %}
 </main>
