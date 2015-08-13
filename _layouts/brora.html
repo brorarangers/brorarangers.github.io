@@ -25,7 +25,7 @@
                 // Basic options for a simple Google Map
                 // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
                 var mapOptions = {
-                    zoom: 8,
+                    zoom: 6,
                     center: new google.maps.LatLng(58.0085117, -3.859619), // Dudgeon Park
                     mapTypeId: google.maps.MapTypeId.ROAD,
                     styles: [
@@ -126,6 +126,7 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(58.0085117, -3.859619),
                     map: map,
+                    animation: google.maps.Animation.DROP,
                     title: 'Dudgeon Park'
                 });
             }
