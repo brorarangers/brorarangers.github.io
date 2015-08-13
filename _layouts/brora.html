@@ -6,8 +6,25 @@
         {% include sub-banner.html %}
     </div>
     <div class="row">
-        <div class="col s10 offset-s1">
-            <div id="map"></div>
+        <div class="col s10 offset-s1 m6 l4 offset-l2">
+            <div class="z-depth-2" id="map"></div>
+        </div>
+        <div class="col s12 m6 l4">
+            <article class="card">
+                <div class="card-content {{ site.primary_team_colour }}-text">
+              <span class="card-title grey-text text-darken-4">Getting here</span>
+              <p class="grey-text text-darken-4">Sitting 100 yards from the A9 on the south of the village, finding us certainly isn't difficult.</p>
+                <p class="grey-text text-darken-4">Whether travelling by car, train, coach or supporters bus, let us help you get here.</p>
+            </div>
+            <div class="card-action">
+              <form action="http://maps.google.com/maps" method="get" target="_blank">
+   <label for="saddr">Enter your location</label>
+   <input type="text" name="saddr" />
+   <input type="hidden" name="daddr" value="Dudgeon Park Brora KW9 6QH" />
+   <input type="submit" value="Get directions" class="waves-effect waves-light btn" />
+</form>
+            </div>
+            </article>
         </div>
     </div>
 </main>
