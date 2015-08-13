@@ -76,6 +76,11 @@ table.striped>tbody>tr:nth-child(odd) {
 }
 
 // Site specific
+#map {
+    width: auto;
+    height: 500px;
+}
+
 .blur {
   background: rgb(255,255,255); /* for IE */
   background: rgba(255,255,255,0.85);
