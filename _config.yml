@@ -8,6 +8,10 @@ website: http://brorarangers.github.io
 #Google Drive Sheet location
 fixtures: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=0' #Google sheet with fixtures and results list
 squad: 'https://docs.google.com/spreadsheets/d/1Fxm6FxSu4W6wZfIfiO8vd5xKN-MybdTFDFmwHRnO-QM/edit#gid=172930968' #Google sheet with 1st team squad and stats
+
+#Google API
+api: AIzaSyBVDGAYElUnb2L7RQNM5NjnClnUkw6eZsU
+
 twitter: brorarangers #don't include @ symbol
 twitter-hashtag: COYR #don't include # symbol
 facebook:
