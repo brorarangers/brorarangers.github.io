@@ -11,16 +11,6 @@
         {% endfor %}
         </ul>
     </section>
-    <section class="col s6 m3">
-        <ul class="">
-        {% for nav_item in site.data.nav %}
-            {% if nav_item.menu == " secondary" %}
-            <li {% if page.url == nav_item.link %} class="active" {% endif %}>
-            <a class="{{ site.secondary_team_colour }}-text" href="{{ nav_item.link }}"><strong>{{ nav_item.name }}</strong></a>
-            </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
-    </section>
+
     </div>
 </div>
