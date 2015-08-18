@@ -1,0 +1,33 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
+    <div class="row">
+        {% include sub-banner.html %}
+    </div>
+    <div class="row">
+    <div class="container">
+        <div class="col s12">
+    {% assign posts = site.posts | where: "section", "match" %}
+            <ul class="container">
+                {% for post in posts %}
+                <li>
+                    <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
+                    <h6 class=""> {{ post.match-date }} <strong style="float:right;"> {{ post.match-score }}</strong></h6>
+                    <p>{{ post.excerpt | strip_html }}<a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> ... Read full report</strong></a></p>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    </div>
+
+
+
+</main>
+    <footer>
+        {% include footer.html %}
+        {% include mainjs.html %}
+
+    </footer>
+</body>

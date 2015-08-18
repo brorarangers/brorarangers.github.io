@@ -13,8 +13,8 @@
                 {% for post in posts limit: 1 %}
                 <li>
                     <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
-                    <h6 class="center-align"> {{ post.match-date }}</h6>
-                    <p>{{ post.excerpt | strip_html }}</p>
+                    <h6 class=""> {{ post.match-date }} <strong style="float:right;"> {{ post.match-score }}</strong></h6>
+                    <p>{{ post.excerpt | strip_html }}<a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> ... Read full report</strong></a></p>
                 </li>
                 {% endfor %}
             </ul>
@@ -37,13 +37,21 @@
                 {% for post in posts limit: 5 offset: 1 %}
                 <li>
                     <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
-                    <h6 class="center-align"> {{ post.match-date }}</h6>
-                    <p>{{ post.excerpt | strip_html }}</p>
+                    <h6 class=""> {{ post.match-date }} <strong style="float:right;"> {{ post.match-score }}</strong></h6>
+                    <p>{{ post.excerpt | strip_html }}<a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> ... Read full report</strong></a></p>
                 </li>
                 {% endfor %}
             </ul>
         </div>
     </div>
+    </div>
+    <div class="row">
+        <div class="col s6 container center">
+            <a href="/prematch/" class="{{ site.primary_team_colour }} darken-4 waves-effect waves-light btn">Season Previews</a>
+        </div>
+        <div class="col s6 container center">
+            <a href="/reports/" class="{{ site.primary_team_colour }} darken-4 waves-effect waves-light btn">Season Reports</a>
+        </div>
     </div>
 </main>
     <footer>

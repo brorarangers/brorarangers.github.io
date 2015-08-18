@@ -5,6 +5,7 @@ layout: post
 title: Classy Brora warm to task
 description: 3 goals, 3 points and a winning start for Brora Rangers as Joe Malin chalks up his first League clean sheet of the 2015/16 season
 match-date: 29th July 2015
+match-score: Lossie 0-3 Brora
 image: true
 og: yes
 ---

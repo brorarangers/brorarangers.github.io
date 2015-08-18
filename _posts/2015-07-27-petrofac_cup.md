@@ -5,6 +5,8 @@ layout: post
 match-date: 25th July 2015
 title: Alloa deny brave Brora
 description: Alloa Athletic travelled to Brora Rangers for the first round of this season's Petrofac Training Cup. Some exciting attacking football from the Highland League Champions led to a thrilling game.
+match-date: 25th July 2015
+match-score: Brora 0-1 Alloa
 image: true
 og: yes
 ---

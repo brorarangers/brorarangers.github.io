@@ -41,8 +41,8 @@
             <ul class="container">
                 {% for post in posts limit: 10 %}
                 <li>
-                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
-                    <p class="red-text text-lighten-1">{{ post.date | date: '%-d %B' }}</p>
+                    <h5><a class=" {{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></span></h5>
+                    <p class="red-text text-lighten-1">{{ post.match-date | date: '%-d %B' }} <strong style="float:right;"> {{ post.match-score }}</strong></p>
                     <p>{{ post.excerpt | strip_html }}</p>
                     <div class="divider"></div>
                 </li>
@@ -66,8 +66,12 @@
         </div>
             <section class="hide-on-small-only">
                 <div class="row center">
+                    <div class="divider white"></div>
                     <br>
-                    <h5 class="center-align {{ site.primary_team_colour }}-text text-darken-2">Hot off the Press</h5>
+                    <div class="divider white"></div>
+                    <br>
+                    <div class="divider white"></div>
+                    <a href="https://twitter.com/brorarangers" class="center-align {{ site.primary_team_colour }}-text text-darken-2"><h5>Hot off the Press</h5></a>
                     {% include twitter.html %}
 
                 </div>
