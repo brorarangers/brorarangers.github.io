@@ -13,7 +13,8 @@
                 {% for post in posts %}
                 <li>
                     <h5 class="center-align"><a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> {{ post.title }}</strong></a></h5>
-                    <h6 class=""> {{ post.match-date }} <strong style="float:right;"> {{ post.match-score }}</strong></h6>
+                    <h6 class="center-align">{{ post.match-score }}</h6>
+                    <p class="right-align"> {{ post.match-date }} </p>
                     <p>{{ post.excerpt | strip_html }}<a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{ post.url }}"><strong> ... Read full report</strong></a></p>
                 </li>
                 {% endfor %}
