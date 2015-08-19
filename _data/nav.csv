@@ -3,9 +3,10 @@ Home, /, main
 News, /news/, main
 Fixtures, /fixtures/, main
 Results, /results/, main
-Find Us, /brora/, main
-Hospitality, /hospitality/, main
 Squad, /squad/, main
+Find Us, /brora/, main
+Tickets, /tickets/, main
+Sponsorship, /sponsorship/, main
 First Team, /squad/ , secondary
 Youth Teams, /youth/ , secondary
 Ladies Team, /ladies/ , secondary
