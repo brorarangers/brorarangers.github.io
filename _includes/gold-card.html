@@ -16,38 +16,39 @@
             <p>Fill in the form below and we'll get in touch with you</p>
             </div>
 <div>
-    <form class="col s12">
+    <form class="col s12" action="http://formspree.io/brorarangers@gmail.com" method="post">
         <div class="row">
         <div class="input-field col s6">
-            <input id="first_name" type="text" class="validate">
+            <input id="first_name" type="text" class="validate" name="First Name">
             <label for="first_name">First Name</label>
         </div>
         <div class="input-field col s6">
-            <input id="last_name" type="text" class="validate">
+            <input id="last_name" type="text" class="validate" name="Last Name">
             <label for="last_name">Last Name</label>
         </div>
         </div>
         <div class="row">
         <div class="input-field col s12">
-            <input id="email" type="email" class="validate">
+            <input id="email" type="email" class="validate" name="email">
             <label for="email">Email</label>
         </div>
         </div>
         <div class="row">
         <div class="input-field col s12">
-          <input id="tel" type="tel" class="validate">
+          <input id="tel" type="tel" class="validate" name="Telephone">
           <label for="tel">Contact telephone number</label>
         </div>
         </div>
         <div class="row">
           <p>
-      <input name="group1" type="radio" id="adult" />
+      <input name="gold_card_season_ticket" type="radio" id="adult" value="adult"/>
       <label for="adult">Adult: £300.00</label>
     </p>
     <p>
-      <input name="group1" type="radio" id="concession" />
-      <label for="concession">Concession (Over 60 or Under 16)</label>
+      <input name="gold_card_season_ticket" type="radio" id="concession" value="concession" />
+      <label for="concession">Concession (Over 60 or Under 16): £250.00</label>
     </p>
+            <button class="btn waves-effect waves-light {{ site.primary_team_colour }} darken-4" type="submit" name="action">Submit</button>
       </div>
 
     </form>
