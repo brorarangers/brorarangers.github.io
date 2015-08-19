@@ -33,9 +33,11 @@
     <footer>
         {% include footer.html %}
         {% include mainjs.html %}
+
         <script>
             $(document).ready(function(){
-      $('.parallax').parallax();
+                $(".button-collapse").sideNav();
+                $('select').material_select();
     });
         </script>
     </footer>
