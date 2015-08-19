@@ -19,17 +19,19 @@
     <form class="col s12" action="http://formspree.io/brorarangers@gmail.com" method="post">
         <div class="row">
         <div class="input-field col s6">
-            <input id="first_name" type="text" class="validate" name="First Name">
+            <input type="hidden" name="_subject" value="Gold Card Season Ticket request fron Brora Rangers Website" />
+            <input type="text" name="_gotcha" style="display:none" />
+            <input id="first_name" type="text" class="validate" name="First Name" required>
             <label for="first_name">First Name</label>
         </div>
         <div class="input-field col s6">
-            <input id="last_name" type="text" class="validate" name="Last Name">
+            <input id="last_name" type="text" class="validate" name="Last Name" required>
             <label for="last_name">Last Name</label>
         </div>
         </div>
         <div class="row">
         <div class="input-field col s12">
-            <input id="email" type="email" class="validate" name="email">
+            <input id="email" type="email" class="validate" name="email" required>
             <label for="email">Email</label>
         </div>
         </div>
@@ -41,12 +43,12 @@
         </div>
         <div class="row">
           <p>
-      <input name="gold_card_season_ticket" type="radio" id="adult" value="adult"/>
-      <label for="adult">Adult: £300.00</label>
+      <input name="gold_card_season_ticket" type="radio" id="gold_adult" value="adult"/>
+      <label for="gold_adult">Adult: £300.00</label>
     </p>
     <p>
-      <input name="gold_card_season_ticket" type="radio" id="concession" value="concession" />
-      <label for="concession">Concession (Over 60 or Under 16): £250.00</label>
+      <input name="gold_card_season_ticket" type="radio" id="gold_concession" value="concession" />
+      <label for="gold_concession">Concession (Over 60 or Under 16): £250.00</label>
     </p>
             <button class="btn waves-effect waves-light {{ site.primary_team_colour }} darken-4" type="submit" name="action">Submit</button>
       </div>
