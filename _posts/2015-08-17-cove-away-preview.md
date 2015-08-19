@@ -15,4 +15,6 @@ This time round both teams are making no secret of their desire to finish top co
 
 Brora may take some heart from a quick comparison of our opening games of the season against both Keith and Buckie where our scorelines have been slightly more impressive ... slightly.
 
+Cove come into this game after a narrow win over Strathspey Thistle on Wednesday night
+
 The Supporters Club are running a bus to Harlaw Park in Inverurie leaving Dudgeon Park at 10:00am ... get in touch if you want a seat to see what promises to be a thrilling game from two high scoring sides.
