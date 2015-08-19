@@ -1,41 +1,41 @@
-Home,Home_Score,Away,Away_Score,Date,Competition,Kick_Off,AET,Pens,Match,Hospitality
-Brora Rangers,0,ICT,3,01-07-2015,Friendly,19:45,,,1,no
-Woodside Amateurs,1,Brora Rangers,5,04-07-2015,Friendly,15:00,,,2,no
-Brora Rangers,0,Morton FC,1,11-07-2015,Friendly,15:00,,,3,no
-Brora Rangers,0,Clyde FC,0,18-07-2015,Friendly,15:00,,,4,no
-Brora Rangers,1,Wick Academy,1,22-07-2015,North of Scotland Cup,20:00,-,2 - 4,5,no
-Brora Rangers,0,Alloa Athletic,1,25-07-2015,Petrofac Training Cup,15:00,,,6,no
-Lossiemouth,0,Brora Rangers,3,29-07-2015,League,20:00,,,7,no
-Brora Rangers,11,Rothes,0,01-08-2015,League,15:00,,,8,no
-Buckie Thistle,1,Brora Rangers,8,08-08-2015,League,15:00,,,9,no
-Brora Rangers,4,Keith,1,15-08-2015,League,15:00,,,10,no
-Cove Rangers,vs,Brora Rangers,,22-08-2015,League,15:00,,,11,no
-Fraserburgh,vs,Brora Rangers,,29-08-2015,League,15:00,,,12,no
-Brora Rangers,vs,Clachnacuddin,,05-09-2015,League,15:00,,,13,no
-Nairn County,vs,Brora Rangers,,09-09-2015,League,20:00,,,14,no
-Brora Rangers,vs,Formartine Utd,,12-09-2015,League,15:00,,,15,yes
-Fort William,vs,Brora Rangers,,19-09-2015,League,15:00,,,16,no
-Brora Rangers,vs,Turriff Utd,,03-10-2015,League,15:00,,,17,yes
-Huntly,vs,Brora Rangers,,07-10-2015,League,20:00,,,18,no
-Brora Rangers,vs,Strathspey Thistle,,10-10-2015,League,15:00,,,19,yes
-Brora Rangers,vs,Forres Mechanics,,17-10-2015,League,15:00,,,20,yes
-Scottish Cup Round 2,vs,To be drawn,,24-10-2015,Scottish Cup,15:00,,,21,no
-Brora Rangers,vs,Wick Academy,,31-10-2015,League,15:00,,,22,yes
-Deveronvale,vs,Brora Rangers,,07-11-2015,League,15:00,,,23,no
-Brora Rangers,vs,Lossiemouth,,14-11-2015,League,15:00,,,24,yes
-Rothes,vs,Brora Rangers,,21-11-2015,League,15:00,,,25,no
-Brora Rangers,vs,Buckie Thistle,,28-11-2015,League,15:00,,,26,yes
-Keith,vs,Brora Rangers,,05-12-2015,League,15:00,,,27,no
-Brora Rangers,vs,Cove Rangers,,12-12-2015,League,15:00,,,28,yes
-Brora Rangers,vs,Fraserburgh,,19-12-2015,League,15:00,,,29,yes
-Clachnacuddin,vs,Brora Rangers,,26-12-2015,League,15:00,,,30,no
-Brora Rangers,vs,Nairn County,,02-01-2016,League,15:00,,,31,yes
-Formartine Utd,vs,Brora Rangers,,09-01-2016,League,15:00,,,32,no
-Brora Rangers,vs,Fort William,,16-01-2016,League,15:00,,,33,yes
-Turriff Utd,vs,Brora Rangers,,23-01-2016,League,15:00,,,34,no
-Huntly,vs,Brora Rangers,,30-01-2016,League,15:00,,,35,no
-Strathspey Thistle,vs,Brora Rangers,,13-02-2016,League,15:00,,,36,no
-Forres Mechanics,vs,Brora Rangers,,20-02-2016,League,15:00,,,37,no
-Brora Rangers,vs,Inverurie Loco Works,,19-03-2016,League,15:00,,,38,yes
-Wick Academy,vs,Brora Rangers,,02-04-2016,League,15:00,,,39,no
-Brora Rangers,vs,Deveronvale,,16-04-2016,League,15:00,,,40,yes
+Home,Home_Score,Away,Away_Score,Date,Competition,Kick_Off,AET,Pens,Match,Hospitality,Ball,Mascot
+Brora Rangers,0,ICT,3,01-07-2015,Friendly,19:45,,,1,no,no,no
+Woodside Amateurs,1,Brora Rangers,5,04-07-2015,Friendly,15:00,,,2,no,no,no
+Brora Rangers,0,Morton FC,1,11-07-2015,Friendly,15:00,,,3,no,no,no
+Brora Rangers,0,Clyde FC,0,18-07-2015,Friendly,15:00,,,4,no,no,no
+Brora Rangers,1,Wick Academy,1,22-07-2015,North of Scotland Cup,20:00,-,2 - 4,5,no,no,no
+Brora Rangers,0,Alloa Athletic,1,25-07-2015,Petrofac Training Cup,15:00,,,6,no,no,no
+Lossiemouth,0,Brora Rangers,3,29-07-2015,League,20:00,,,7,no,no,no
+Brora Rangers,11,Rothes,0,01-08-2015,League,15:00,,,8,no,no,no
+Buckie Thistle,1,Brora Rangers,8,08-08-2015,League,15:00,,,9,no,no,no
+Brora Rangers,4,Keith,1,15-08-2015,League,15:00,,,10,no,no,no
+Cove Rangers,vs,Brora Rangers,,22-08-2015,League,15:00,,,11,no,no,no
+Fraserburgh,vs,Brora Rangers,,29-08-2015,League,15:00,,,12,no,no,no
+Brora Rangers,vs,Clachnacuddin,,05-09-2015,League,15:00,,,13,no,yes,yes
+Nairn County,vs,Brora Rangers,,09-09-2015,League,20:00,,,14,no,no,no
+Brora Rangers,vs,Formartine Utd,,12-09-2015,League,15:00,,,15,yes,yes,yes
+Fort William,vs,Brora Rangers,,19-09-2015,League,15:00,,,16,no,no,no
+Brora Rangers,vs,Turriff Utd,,03-10-2015,League,15:00,,,17,yes,yes,yes
+Huntly,vs,Brora Rangers,,07-10-2015,League,20:00,,,18,no,no,no
+Brora Rangers,vs,Strathspey Thistle,,10-10-2015,League,15:00,,,19,yes,yes,yes
+Brora Rangers,vs,Forres Mechanics,,17-10-2015,League,15:00,,,20,yes,yes,yes
+Scottish Cup Round 2,vs,To be drawn,,24-10-2015,Scottish Cup,15:00,,,21,no,no,no
+Brora Rangers,vs,Wick Academy,,31-10-2015,League,15:00,,,22,yes,yes,yes
+Deveronvale,vs,Brora Rangers,,07-11-2015,League,15:00,,,23,no,no,no
+Brora Rangers,vs,Lossiemouth,,14-11-2015,League,15:00,,,24,yes,yes,yes
+Rothes,vs,Brora Rangers,,21-11-2015,League,15:00,,,25,no,no,no
+Brora Rangers,vs,Buckie Thistle,,28-11-2015,League,15:00,,,26,yes,yes,yes
+Keith,vs,Brora Rangers,,05-12-2015,League,15:00,,,27,no,no,no
+Brora Rangers,vs,Cove Rangers,,12-12-2015,League,15:00,,,28,yes,yes,yes
+Brora Rangers,vs,Fraserburgh,,19-12-2015,League,15:00,,,29,yes,yes,yes
+Clachnacuddin,vs,Brora Rangers,,26-12-2015,League,15:00,,,30,no,no,no
+Brora Rangers,vs,Nairn County,,02-01-2016,League,15:00,,,31,yes,yes,yes
+Formartine Utd,vs,Brora Rangers,,09-01-2016,League,15:00,,,32,no,no,no
+Brora Rangers,vs,Fort William,,16-01-2016,League,15:00,,,33,yes,yes,yes
+Turriff Utd,vs,Brora Rangers,,23-01-2016,League,15:00,,,34,no,no,no
+Huntly,vs,Brora Rangers,,30-01-2016,League,15:00,,,35,no,no,no
+Strathspey Thistle,vs,Brora Rangers,,13-02-2016,League,15:00,,,36,no,no,no
+Forres Mechanics,vs,Brora Rangers,,20-02-2016,League,15:00,,,37,no,no,no
+Brora Rangers,vs,Inverurie Loco Works,,19-03-2016,League,15:00,,,38,yes,yes,yes
+Wick Academy,vs,Brora Rangers,,02-04-2016,League,15:00,,,39,no,no,no
+Brora Rangers,vs,Deveronvale,,16-04-2016,League,15:00,,,40,yes,yes,yes
