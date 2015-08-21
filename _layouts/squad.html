@@ -14,7 +14,7 @@
                         <div class="collapsible-header center">
                         <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="70" class=" pad z-depth-2 circle">
                         <h6 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}</h6>
-                            <p class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text"><strong>Appearances: {{ player.Total_Appearances }}</strong></p>
+                            <span class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text">{{ player.Starts }} Starts<i class="{{ site.primary_team_colour }}-text text-darken-4 mdi-navigation-expand-more medium right"></i></span>
                         </div>
                         <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
                             <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
@@ -53,7 +53,7 @@
                     <div class="collapsible-header">
                         <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="70" class=" pad z-depth-2 circle">
                         <h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}<span style="font-size:0.7em;float:right;">{{ player.Total_Appearances }} appearances this season</span> </h5>
-                        <p class="{{ site.primary_team_colour }}-text text-darken-4 condensed">{% if player.Sponsor %}Sponsored by {{ player.Sponsor }}{% else %}Available to Sponsor{% endif %}</p>
+                        <span style="font-size:1em;" class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text">Sponsored by {{ player.Sponsor }}<i class="material-icons right">expand_more</i></span>
                     </div>
                     <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
                         <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
@@ -87,7 +87,7 @@
                     <div class="collapsible-header">
                         <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="70" class=" pad z-depth-2 circle">
                         <h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}<span style="font-size:0.7em;float:right;">{{ player.Total_Appearances }} appearances this season</span> </h5>
-                        <p class="{{ site.primary_team_colour }}-text text-darken-4 condensed">{% if player.Sponsor %}Sponsored by {{ player.Sponsor }}{% else %}Available to Sponsor{% endif %}</p>
+                        <span style="font-size:1.2em;" class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text">{{ player.Position }}<i class="material-icons">expand_more</i></span>
                     </div>
                     <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
                         <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
