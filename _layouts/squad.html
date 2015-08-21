@@ -80,14 +80,14 @@
     </div>
             <!-- Large display -->
     <div class="row">
-        <div class="col l6 offset-l3 hide-on-med-and-down">
+        <div class="col l8 offset-l2 hide-on-med-and-down">
             <ul class="collapsible popout" data-collapsible="accordion">
 
                 <li>
                     <div class="collapsible-header">
                         <img src="/images/first_team/{{ player.First_Name }}-{{player.Last_Name }}.jpg" alt="{{ player.First_Name }} {{player.Last_Name }}" style="float:left;" height="70" class=" pad z-depth-2 circle">
                         <h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ player.First_Name }} {{ player.Last_Name }}<span style="font-size:0.7em;float:right;">{{ player.Total_Appearances }} appearances this season</span> </h5>
-                        <span style="font-size:1.2em;" class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text">{{ player.Position }}<i class="material-icons">expand_more</i></span>
+                        <span style="font-size:1.2em;" class="{{ site.primary_team_colour }}-text text-darken-4 condensed flow-text">Sponsored by {{ player.Sponsor }}<i class="material-icons">expand_more</i></span>
                     </div>
                     <div class="collapsible-body {{ site.primary_team_colour }} darken-4">
                         <p class="flow-text {{ site.secondary_team_colour }}-text">{{ player.Bio1 }}</p>
