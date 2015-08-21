@@ -2,19 +2,20 @@
         {% for post in posts limit: 1 %}
 <article class="card medium z-depth-2">
     <div class="waves-effect waves-block waves-light overlay">
-        <img class="activator" height="250" style="background-image: url(/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-filter.jpg);background-size: 200%;background-position: top;background-color: #b71c1c;background-blend-mode: screen;background-repeat: no-repeat;background-size: cover;" src="/images/transparent-report.png">
+        <!--<img class="activator filter" height="250" src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">-->
+        <img class="activator" height="250" style="background-image: url(/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-filter.jpg);background-size: 200%;background-position: center;background-color: #b71c1c;background-blend-mode: screen;background-repeat: no-repeat;background-size: cover;" src="/images/transparent-report.png">
     </div>
     <div class="card-content">
         <span class="card-title activator grey-text text-darken-4"><h6><strong>{{ post.title }}</strong></h6> <i class="hoverable {{ site.primary_team_colour }}-text text-darken-4 mdi-navigation-expand-less medium right"></i></span>
-        <h5>The Man in Red</h5>
+        <h5>The Man In Red</h5>
     </div>
     <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4"><h6>Throughout the season we feature the people who make Brora Rangers the Club we are; players, backroom staff and supporters.</h6> <i class="mdi-navigation-close right {{ site.primary_team_colour }}-text text-darken-4"></i></span>
+        <span class="card-title grey-text text-darken-4"><h6>The people who make Brora Rangers Football Club the most exciting club to be involved with in the Highland League; Players, Management, Coaches, Board members, Supporters. We are the Man in Red</h6> <i class="mdi-navigation-close right {{ site.primary_team_colour }}-text text-darken-4"></i></span>
 
             <div>
-                <h6>Our current Man in Red is ...</h6>
-                <h5>{{ post.title }}</h5>
-            {{ post.content | truncatewords: 20 }}
+                <h6>This month ...</h6>
+                <a href="{{ post.url }}" class="{{ site.primary_team_colour }}-text text-darken-4"><h5 class="{{ site.primary_team_colour }}-text text-darken-4">{{ post.title }}</h5></a>
+            {{ post.excerpt }}
             </div>
         <div>
             <p><a href="{{ post.url }}" class="{{ site.primary_team_colour }}-text text-darken-4">Read the full article</a></p>
