@@ -1,12 +1,12 @@
 Position,First_Name,Last_Name,Starts,Subs,Total_Appearances,League_Goals,Cup_Goals,Total_Goals,Yellow,Red,Bio1,Bio2,TMIR,Sponsor
-Goal,Joe,Malin,6,0,6,1,2,3,0,0,"Joe was the Supporters Player of the Year in our first League Championship winning season. Last season he managed the incredible feat of only conceding 13 League goals ... unlucky for some, maybe, but certainly not for Brora.",Yet more interesting stuff about Joe ... ,No,Liam Mackenzie & David Dowling
-Goal,Steven,Martin,0,6,6,0,0,0,0,0,This is Steven's second spell at Brora Rangers and we are delighted to see him back after putting on some terrific displays for Strathspey Thistle prior to returning to Dudgeon Park last October,Yet more interesting stuff about Steven,No,Cairngorm Group
-Defence,John,Pickles,1,0,1,0,0,0,0,0,"John signed at the start of this season from Orkney side Rendall FC. Usually slotting in at Right Back, John has terrific pace and an uncanny ability to read the game for a 21 year old",Yet more interesting stuff about John,No,Ben Mackay Jnr
-Defence,Ally,Macdonald,4,2,6,0,0,0,0,0,"Ally is another face we'd seen in red at Dudgeon Park. Always keen to get forward, fans have been delighted to see Ally sign a new contract",More stuff ....,No,Shaun Carrison
-Defence,Colin,Williamson,6,0,6,0,0,0,0,0,"Colin joined us at the start of 2014 and quickly established himself as a fearless member of the back four. A broken collarbone saw Colin miss much of the end of our second League Championship, but a full recovery sees him as an ever present member of the starting 11.",More stuff ....,No,Rossy & Carl
-Defence,Grant,Munro,5,1,6,0,0,0,0,0,Short Bio,Additional info,No,Ben Mackay Snr
+Goal,Joe,Malin,6,0,6,1,2,3,0,0,"Joe was the Supporters Player of the Year in our first League Championship winning season. Last season he managed the incredible feat of only conceding 13 League goals ... unlucky for some, maybe, but certainly not for Brora.","Joe signed in July '13 and has been ever present between the sticks since then. Hero of penalty shoot-outs and often the man who has secured the points in important games, Sometimes in football the buck stops with the Goalie. And Joe stops.",No,Liam Mackenzie & David Dowling
+Goal,Steven,Martin,0,6,6,0,0,0,0,0,This is Steven's second spell at Brora Rangers and we are delighted to see him back after putting on some terrific displays for Strathspey Thistle prior to returning to Dudgeon Park last October,"Given Joe's record since joining Brora, it can't be easy",No,Cairngorm Group
+Defence,John,Pickles,1,0,1,0,0,0,0,0,"John signed at the start of this season from Orkney side Rendall FC. Usually slotting in at Right Back, John has terrific pace and an uncanny ability to read the game for a 21 year old","John took a nasty knock right at the start of the season, so we have been denied seeing the best of him for a few weeks ... except those who witnessed his game against us.",No,Ben Mackay Jnr
+Defence,Ally,Macdonald,4,2,6,0,0,0,0,0,"Ally is another face we'd seen in red at Dudgeon Park. Always keen to get forward, fans have been delighted to see Ally sign a new contract","Having returned from the US, Ally put pen to paper again for Brora in August. ",No,Shaun Carrison
+Defence,Colin,Williamson,6,0,6,0,0,0,0,0,"Colin joined us at the start of 2014 and quickly established himself as a fearless member of the back four. A broken collarbone saw Colin miss much of the end of our second League Championship, but a full recovery sees him as an ever present member of the starting 11.",Colin arrived in January 2014 ... and has lived up to the reputation he built for himself at Clachnacuddin. Quick to snuff out threats from the opposition and just as quick to snatch the opportunity to score some vital goals throughout last season.,No,Rossy & Carl
+Defence,Grant,Munro,5,1,6,0,0,0,0,0,Grant's experience over the past 2 seasons was invaluable in the success of Brora Rangers. ,Additional info,No,Ben Mackay Snr
 Defence,Scott,Houston,5,0,5,0,0,0,1,0,Short Bio,Additional info,No,BRFC Social Club
-Midfield,Dale,Gillespie,6,0,6,1,0,1,0,0,Short Bio,Additional info,No,Jimmy Murray
+Midfield,Dale,Gillespie,6,0,6,1,0,1,0,0,Short Bio,Additional info,Yes,Jimmy Murray
 Midfield,Richard,Brittain,1,5,6,0,0,0,0,0,Short Bio,Additional info,No,The Carters
 Midfield,Stuart,Kettlewell,2,4,6,1,0,1,0,0,Short Bio,Additional info,No,Lacey & Aiden Maclennan
 Midfield,Gavin,Morrison,3,1,4,0,0,0,1,0,Short Bio,Additional info,No,Pictii Photography
@@ -14,9 +14,9 @@ Midfield,Gavin,Morrison,3,1,4,0,0,0,1,0,Short Bio,Additional info,No,Pictii Phot
 ,Colin,Maclean,0,3,3,0,0,0,0,0,Short Bio,Additional info,No,John & Catherine Rose / Laurence Macrae
 ,Adam,Porrit,0,5,5,0,0,0,0,0,Short Bio,Additional info,No,Trevor Sutherland
 ,Connor,Lyall,0,0,0,0,0,0,0,0,Short Bio,Additional info,No,Katie Powell
-,Zander,Sutherland,6,0,6,6,0,6,0,0,Short Bio,Additional info,No,Milo Jay Ainsworth
+,Zander,Sutherland,6,0,6,6,0,6,0,0,Short Bio,Additional info,No,Milo Jay Ainsworth & Wii Fish
 ,Paul,Brindle,4,2,6,4,0,4,0,0,Short Bio,Additional info,No,Adrian Boyle
-,Scott,Graham,3,3,6,0,0,0,0,0,Short Bio,Additional info,No,
+,Scott,Graham,3,3,6,0,0,0,0,0,Short Bio,Additional info,No,Kevin & Deirdre Mackay
 Striker,Steven,Mackay,5,0,5,9,1,10,0,0,Short Bio,Additional info,Yes,JD Consulting / Kyle Jack
 ,Lewis,Grant,2,3,5,0,0,0,0,0,Short Bio,Additional info,No,David Rose
 ,Andrew,Greig,4,2,6,4,0,4,0,0,Short Bio,Additional info,No,Janette Carrison
