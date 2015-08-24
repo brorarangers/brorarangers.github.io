@@ -8,4 +8,6 @@ description: Brora Rangers half time 50/50 draw was won this week by ...
 image: no
 og: yes
 ---
-This weeks 50/50 Draw was won by Suart Clark
+This weeks 50/50 Draw was won by Stuart Clark
+
+Publicity shy Stuart said, 'Please don't publish this on the website as I hope to keep it a secret from my family.' 
