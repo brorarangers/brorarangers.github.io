@@ -3,9 +3,9 @@
 <article class="card medium z-depth-2">
     <div class="waves-effect waves-block waves-light">
         {% if post.image %}
-        <img class="activator" height="250" style="background-image: url(/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-filter.jpg);background-size: 200%;background-position: top;background-color: #b71c1c;background-blend-mode: screen;background-repeat: no-repeat;background-size: cover;" src="/images/transparent-report.png">
+        <img class="activator" height="250" src="/images/transparent-report.png">
         {% else %}
-        <img class="activator" height="250" style="background-image: url(/images/preview.jpg);background-size: 200%;background-position: top;background-color: #b71c1c;background-blend-mode: screen;background-repeat: no-repeat;background-size: cover;" src="/images/transparent-report.png">
+        <img class="activator" height="250"src="/images/preview.jpg">
         {% endif %}
     </div>
     <div class="card-content">
