@@ -3,7 +3,7 @@
 <article class="card medium z-depth-2">
     <div class="waves-effect waves-block waves-light">
         {% if post.image %}
-        <img class="activator" height="250" src="/images/transparent-report.png">
+        <img class="activator" height="250" src="/images/posts/{{ post.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-filter.jpg">
         {% else %}
         <img class="activator" height="250"src="/images/preview.jpg">
         {% endif %}
