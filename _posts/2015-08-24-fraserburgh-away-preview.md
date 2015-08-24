@@ -3,7 +3,7 @@ section: next
 layout: post
 title: Fraserburgh vs Brora Rangers
 description: Brora Rangers take to the road for the second week running to take on Fraserburgh. 
-match-date: 
+match-date: 29th August 2015
 image: 
 og: yes
 ---
@@ -15,4 +15,4 @@ Fraserburgh themselves have had a mixed run of results so far this season, with 
 
 However, it would be a naive side that turns up to the Bellslea on Saturday expecting an easy game.
 
-The Supporters Club will be running a bus to the game. Get in touch to book your seat for another important match in Brora's attempt to clinch their 3rd successive League Championship.
+The Supporters Club will be running a bus to the match. Get in touch to book your seat for another important match in Brora's attempt to clinch their 3rd successive League Championship.
