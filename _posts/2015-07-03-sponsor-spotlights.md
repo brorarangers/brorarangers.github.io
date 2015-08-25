@@ -6,7 +6,7 @@ title: Brora Rangers Sponsor Spotlight
 image: no
 og: yes
 ---
-Brora Rangers Football Club are currently Sutherland's only representative in the Highland Football League. Our success over recent seasons has seen us make National headlines, both for competing against Championship sides Queen of the South and Alloa in the Scottish Cup and the Petrofac Training Cup respectively, and last seasons massive Pyramid Playoff against Montrose.
+Brora Rangers Football Club are currently Sutherland's only representative in the Highland Football League. Our success over recent seasons has seen us make National headlines, both for competing against Championship sides Queen of the South and Alloa in the Scottish Cup and the Petrofac Training Cup respectively, and last season's massive Pyramid Playoff against Montrose.
 
 We are an ambitious Club, and are grateful to the like minded businesses that support us. We want to see our success reflect on your success.
 
