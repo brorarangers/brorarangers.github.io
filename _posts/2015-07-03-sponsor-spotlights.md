@@ -10,7 +10,7 @@ Brora Rangers Football Club are currently Sutherland's only representative in th
 
 We are an ambitious Club, and are grateful to the like minded businesses that support us. We want to see our success reflect on your success.
 
-We want to give you more than link on our website, we want to drive business to your website, we want to put you in the spotlight.
+We want to give you more than a link on our website, we want to drive business to your website, we want to put you in the spotlight.
 
 Starting soon, we will have a regular feature here for our Sponsor Spotlight. As well as some great publicity, we can give you some insights into how many visitors read all about you.
 
