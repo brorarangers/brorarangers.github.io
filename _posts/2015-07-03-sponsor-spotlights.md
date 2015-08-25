@@ -2,7 +2,7 @@
 section: news
 sub-section: sponsor
 layout: post
-title: Brora Rangers Sponsor Spotlight
+title: Sponsor Spotlights
 image: no
 og: yes
 ---
