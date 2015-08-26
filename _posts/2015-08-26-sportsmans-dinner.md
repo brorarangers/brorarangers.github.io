@@ -10,7 +10,7 @@ og: yes         #for Twitter and Facebook content
 ---
 Fancy a great night out to kick off September? The Annual Sportsman's Dinner is in the Kingsmills Hotel, Inverness on Friday 4th September.
 
-If a 3 course meal, an auction with some fantastic items up for grabs, a comedian and then finishing the night dancing to the music of Torridon sounds like a great night out, [get in touch](mailto:brorarangers@gmail.com)
+If a 3 course meal, an auction with some fantastic items up for grabs, Andy Cameron cracking jokes and then finishing the night dancing to the music of Torridon sounds like a great night out, [get in touch](mailto:brorarangers@gmail.com)
 
 At £65.00 per head, great surroundings, excellent company and top entertainment, don't hang around ...
 
