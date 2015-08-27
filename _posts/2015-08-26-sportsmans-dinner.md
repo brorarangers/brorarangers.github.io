@@ -3,7 +3,7 @@ section: news   #can be news/match/next/event
 subsection:    #can be sponsor/spotlight/winners
 layout: post    #always post
 match-date:     #only needed if section is match
-title: Brora Rangers Sportsman's Dinner
+title: Brora Rangers Celebration Ball
 description:  Brora Rangers Football Club are hosting a Sportman's Dinner in the Kingsmills Hotel, Inverness on Friday 4th September. 
 image: yes      #image to mirror post name.jpg
 og: yes         #for Twitter and Facebook content
