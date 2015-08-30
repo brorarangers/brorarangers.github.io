@@ -31,5 +31,4 @@ Steven Mackay should have pulled one back when clear on goal but his effort summ
 As our shape disappeared so did our discipline and we picked up four unnecessary yellow cards. 
 
 A very rare set back for Brora and upon reflection one could argue that there was not three goals between the teams. However, Cove have signalled their intentions for the season and Brora will need a significant bounce back next week at Fraserburgh. 
-
-Full Match Report to follow 
+ 
