@@ -31,4 +31,6 @@ The Buckie goal signalled the changes for Brora, with Ally MacDonald and Martin 
 
 Brora played the remainder of the game out, knowing all three points were safely secured, but Steven Mackay still had time to score a further brace with a lovely header from a Morrison cross and a simple conversion, making it 4 on the day and 9 in the last two games for the leagues most prolific striker. 
 
+
+
 Three games into the season, a mood of optimism prevails around Dudgeon Park, but greater challenges lay ahead. However Brora will need to iron out some uncharacteristic sloppy defending which nearly cost them dear early in game and other opponents may be quicker to take advantage off. 
