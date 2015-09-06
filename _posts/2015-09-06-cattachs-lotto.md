@@ -11,7 +11,7 @@ og: yes
 
 ## 3 5 6 12 18
 
-This week's Bonus Winners of £50.00 each are **Dave Murdoch, Brora.**, and **Marie MacArthur, Golspie**
+This week's Bonus Winners of £50.00 each are **Dave Murdoch, Brora**, and **Marie MacArthur, Golspie**
 
 There was no Jackpot winner.
 
