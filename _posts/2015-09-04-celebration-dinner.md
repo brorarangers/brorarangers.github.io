@@ -1,5 +1,5 @@
 ---
-section: news   #can be news/match/next/event
+section: event   #can be news/match/next/event
 subsection:    #can be sponsor/spotlight/winners
 layout: post    #always post
 match-date:     #only needed if section is match
