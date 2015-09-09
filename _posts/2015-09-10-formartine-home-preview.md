@@ -12,7 +12,7 @@ In the third of the four games against the probable title challengers in the spa
 
 Formartine have made no secret of their intention to top the League by the end of this season with a new manager and a host of new signings.
 
-The Head to Head stats from the last few seasons are really out the window heading into this match with Richard Brittain's influence on the Brora really beginning to show on the pitch.
+The Head to Head stats from the last few seasons are really out the window heading into this match with Richard Brittain's influence on the Brora game really beginning to show on the pitch.
 
 Both sides come into Saturday's game on the back of Wednesday evening wins. Formartine held on to a 3 goal lead to run out eventual 4-3 winners over a battling Keith whilst Brora aapear to really have the wind in their sails with an emphatic 1-7 victory over Nairn at Station Park.
 
