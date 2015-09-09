@@ -31,7 +31,7 @@
         <meta property="og:type"   content="article" />
         {% if page.image %}
         <meta name="twitter:image" content="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
-        <meta property="og:image" content="{{ site.website }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
+        <meta property="og:image" content="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
         {% else %}
         <meta name="twitter:image" content="{{ site.website }}/images/banner.jpg">
         {% endif %}
