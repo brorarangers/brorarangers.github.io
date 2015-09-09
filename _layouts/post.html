@@ -53,6 +53,13 @@
         <h6 class="grey-text text-lighten-1 right-align">Posted on {{ page.date | date: '%-d %B' }}</h6>
         </div>
     </div>
+    <div class="row">
+        <section class="container">
+            <p class="flow-text">Share this on
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.website }}{{ page.url }}&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> and
+            <a href="https://facebook.com/sharer.php?u={{ site.website }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a></p>
+        </section>
+    </div>
 
 </main>
 <footer>
