@@ -4,7 +4,7 @@ layout: post
 title: Nairn County vs Brora
 description: A mid week fixture at Station Park sees Brora Rangers meet a strong Nairn County side for the first time this season.
 match-date: 9th September 2015
-image: 
+image: yes
 og: yes
 ---
 Nairn County have got off to a fine start this season with victories over Deveronvale, Lossiemouth, Rothes and Keith. 
@@ -13,5 +13,5 @@ Slip ups against Wick Academy and Buckie Thistle at either end of August see the
 
 Brora haven't lost a League game against Nairn since January 2013 in a tightly fought 3-4 game at Dudgeon Park, but it's all up for grabs again on Wednesday night as Brora try to build their winning streak back up again.
 
-Two things are certain, it won't be a dull game, and you won't be standing in the old Cowshed at Station Park.
+Whilst we aren't going to see Tokes celebrate as we did on our last vist, two things are certain, it won't be a dull game, and you won't be standing in the old Cowshed at Station Park.
 
