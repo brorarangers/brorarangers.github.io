@@ -3,7 +3,7 @@ section: news
 sub-section: spotlight
 layout: post
 title: Martin Maclean
-description: The Man in Red is Martin Maclean.
+description: The Man in Red is Martin Maclean. 
 image: yes
 og: yes
 ---
