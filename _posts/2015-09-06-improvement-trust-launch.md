@@ -12,7 +12,7 @@ Back at the start of June one of our supporters mooted the idea of starting a *f
 
 The purpose of the Trust is to stimulate and help fund ground improvements at Dudgeon Park. The Trust is administered by a team from the Supporters Club, and all those who contribute to the Trust have an equal vote in how the money is spent.
 
-You can read the [official documentation here](/downloads/BRIT%20core%20principles.pdf) and get in touch with the administration team on [fansbrit@btinternet.com](mailto:fansbrit@btinternet.com) or by filling in the contact form on our Home page.
+You can read the [official documentation here](/downloads/BRIT%20core%20principles.pdf) and get in touch with the administration team on [fansbrit@btinternet.com](mailto:fansbrit@btinternet.com) or by filling in the contact form on our [Home page](/#brit).
 
 This is a fantastic way to both show your support for Brora Rangers Football Club and have a say in future developments at Dudgeon Park.
 
