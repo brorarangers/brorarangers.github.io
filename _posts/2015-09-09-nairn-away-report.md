@@ -18,9 +18,9 @@ Speaking after his side clinched the title, cricket director Martyn Moxon compli
 
 The similarities between Yorkshire CCC and Brora Rangers are there to be seen, and never moreso than on Wednesday evening. 
 
-It was a cold autumnal night but Brora were red hot and Cattach supports left the ground buzzing after watching football of the very highest quality. 
+It was a cold autumnal night but Brora were red hot and Cattach supporters left the ground buzzing after watching football of the very highest quality. 
 
-Nairn started the match in high tempo and Githins had a shot narrowly miss the target, but that was to be the only serious assault on the Brora goal until the dying minutes of the match. 
+Nairn started the match in high tempo and Gethins had a shot narrowly miss the target, but that was to be the only serious assault on the Brora goal until the dying minutes of the match. 
 
 Steven Mackay opened the scoring after 13 mins and despite having 80% of the play and a dozen chances there were no further goals in the first half.
 
