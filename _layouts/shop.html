@@ -1,0 +1,53 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
+    <div class="row">
+        {% include banner.html %}
+    </div>
+    <div class="row">
+        <section class="col s12 m4">
+            <div class="simpleCart_shelfItem">
+                <h6 class="item_name"> Home Top </h6>
+                <p>  <input type="text" value="1" class="item_Quantity"><br>
+            <span class="item_price">40.00</span><br>
+            <a class="item_add" href="javascript:;"> Add to Cart </a></p>
+            </div>
+        </section>
+        <section class="col s12 m4">
+            <span class="simpleCart_quantity"></span> items - <span class="simpleCart_total"></span>
+            <a href="javascript:;" class="simpleCart_checkout">Checkout</a>
+            <a href="javascript:;" class="simpleCart_empty">Empty Cart</a>
+        </section>
+        <section class="col s12 m4">
+
+        </section>
+    </div>
+    <div class="row">
+        <section class="col s12 m4 offset-m2">
+
+        </section>
+        <section class="col s12 m4">
+
+        </section>
+    </div>
+    <div class="row">
+        <section class="col s12 m4">
+
+        </section>
+        <section class="col s12 m4">
+
+        </section>
+        <section class="col s12 m4">
+
+        </section>
+    </div>
+
+</main>
+    <footer>
+        {% include footer.html %}
+        {% include mainjs.html %}
+        {% include simplecartjs.html %}
+        {% include analytics.html %}
+    </footer>
+</body>
