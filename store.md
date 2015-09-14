@@ -1,5 +1,5 @@
 ---
-title: Brora Rangers Merchandise
+title: The Brora Rangers Shop
 layout: shop
 permalink: /shop/
 og: yes
