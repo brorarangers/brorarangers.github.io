@@ -1,0 +1,59 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main>
+    <div class="row">
+        {% include sub-banner.html %}
+    </div>
+    <div class="row">
+        <div class="container">
+        <p class="flow-text">Thanks for shopping! A quick check of everything in your basket and then head over to the checkout.</p>
+        </div>
+    </div>
+    <div class="row">
+
+    </div>
+</main>
+    <footer>
+        {% include footer.html %}
+        {% include mainjs.html %}
+        {% include simplecartjs.html %}
+        {% include analytics.html %}
+    </footer>
+    <script src="/js/bin/lightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
+    <!-- Load Handlebars.js from CloudFlare’s CDN. -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+    <script>
+        // Define spreadsheet URL.
+        var merch = '{{ site.merchandise }}';
+        // Compile the Handlebars template for HR leaders.
+var replicaTemplate = Handlebars.compile($('#replica-template').html());
+
+        // Load top five Jackets.
+            $('#replica').sheetrock({
+                url: merch,
+                query: "select B,D,E where A = 'Replica Kit' and G > 1 ",
+                rowTemplate: replicaTemplate
+            });
+    </script>
+
+
+<script>
+  simpleCart({
+    checkout: {
+      type: "PayPal",
+      email: "you@yours.com"
+    }
+  });
+    simpleCart.currency( "GBP" );
+</script>
+
+    <script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'showImageNumberLabel': false
+    })
+</script>
+
+</body>

@@ -8,7 +8,6 @@
     <div class="row">
         <div class="container">
         <p class="flow-text">Welcome to our Online Shop. Have a look through our merchandise, add whatever you fancy to your basket and then head over to the Checkout to pay by Debit / Credit card or a PayPal account.</p>
-
         </div>
     </div>
     <div class="row">
@@ -30,7 +29,8 @@
                     {% raw %}<h6 class="item_name"> {{cells.Item}} {{cells.Size}}</h6>
                     <a href="/images/merchandise/{{cells.Item}}.jpg" data-lightbox="{{cells.Item}}">
                     <img width="64" src="/images/merchandise/{{cells.Item}}.jpg"></a>
-                    <span class="item_price"><h5>£{{cells.Price}}</h5><a class="item_add" href="javascript:;"> Add to Basket </a></span><br>{% endraw %}
+                    <span class="item_price"><h5>£{{cells.Price}}</h5><a class="flow-text item_add" href="javascript:;"> Add to Basket </a></span><br>{% endraw %}
+                    <span class="simpleCart_quantity"></span> items - <span class="simpleCart_total"></span><a class="{{ site.primary_team_colour }}-text text-darken-4" href="/basket/"> View Basket</a>
                     <div class="divider"></div>
                 </li>
             </script>
