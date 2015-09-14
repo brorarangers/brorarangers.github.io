@@ -5,31 +5,36 @@
     <div class="row">
         {% include sub-banner.html %}
     </div>
+    <div class="row">
+        <div class="container">
+        <p class="flow-text">Welcome to our Online Shop. Have a look through our merchandise, add whatever you fancy to your basket and then head over to the Checkout to pay by Debit / Credit card or a PayPal account.</p>
 
+        </div>
+    </div>
     <div class="row">
     <div class="container col s12 m4 card medium">
         <section class="card-image">
             <img class="activator" width="210" src="/images/merchandise/replica.jpg">
         </section>
          <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Replica Kit<i class="material-icons right">more_vert</i></span>
-
+            <span class="card-title activator grey-text text-darken-4"><h6><strong>Replica Kit</strong></h6><i class="hoverable {{ site.primary_team_colour }}-text text-darken-4 mdi-navigation-expand-less medium right"></i></span>
+            <p>Kit yourself out in the home and away shirts.</p>
         </div>
         <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Replica Kit<i class="material-icons right">close</i></span>
-            <p>This season's replica kit</p>
+
         <ul id="replica">
-    {% raw %}
+
             <script id="replica-template" type="text/x-handlebars-template">
                 <li class="simpleCart_shelfItem">
-                    <h6 class="item_name"> {{cells.Item}} {{cells.Size}}</h6>
-                    <span class="item_price"><h5>£{{cells.Price}}</h5></h5></span><br>
-                    <a class="item_add" href="javascript:;"> Add to Cart </a></p>
-
-<a href="javascript:;" class="simpleCart_checkout">Checkout</a>
+                    {% raw %}<h6 class="item_name"> {{cells.Item}} {{cells.Size}}</h6>
+                    <a href="/images/merchandise/{{cells.Item}}.jpg" data-lightbox="{{cells.Item}}">
+                    <img width="64" src="/images/merchandise/{{cells.Item}}.jpg"></a>
+                    <span class="item_price"><h5>£{{cells.Price}}</h5><a class="item_add" href="javascript:;"> Add to Basket </a></span><br>{% endraw %}
+                    <div class="divider"></div>
                 </li>
             </script>
-    {% endraw %}
+
         </ul>
         </div>
     </div>
@@ -41,12 +46,11 @@
         {% include simplecartjs.html %}
         {% include analytics.html %}
     </footer>
+    <script src="/js/bin/lightbox.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
     <!-- Load Handlebars.js from CloudFlare’s CDN. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
-
     <script>
-
         // Define spreadsheet URL.
         var merch = '{{ site.merchandise }}';
         // Compile the Handlebars template for HR leaders.
@@ -70,4 +74,12 @@ var replicaTemplate = Handlebars.compile($('#replica-template').html());
   });
     simpleCart.currency( "GBP" );
 </script>
+
+    <script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'showImageNumberLabel': false
+    })
+</script>
+
 </body>
