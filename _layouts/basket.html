@@ -11,7 +11,9 @@
         </div>
     </div>
     <div class="row">
-
+        <div class="container">
+        <p class="flow-text simpleCart_items"></p>
+        </div>
     </div>
 </main>
     <footer>
@@ -21,23 +23,6 @@
         {% include analytics.html %}
     </footer>
     <script src="/js/bin/lightbox.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
-    <!-- Load Handlebars.js from CloudFlare’s CDN. -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
-    <script>
-        // Define spreadsheet URL.
-        var merch = '{{ site.merchandise }}';
-        // Compile the Handlebars template for HR leaders.
-var replicaTemplate = Handlebars.compile($('#replica-template').html());
-
-        // Load top five Jackets.
-            $('#replica').sheetrock({
-                url: merch,
-                query: "select B,D,E where A = 'Replica Kit' and G > 1 ",
-                rowTemplate: replicaTemplate
-            });
-    </script>
-
 
 <script>
   simpleCart({

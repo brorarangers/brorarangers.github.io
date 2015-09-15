@@ -133,7 +133,16 @@ label {
     color: #b71c1c;
 }
 
+// shop stuff
+
 .item_add   {
     float: right;
     color: #b71c1c;
 }
+.headerRow   {
+    display: none;
+}
+.item-name, .item-total  {
+        font-weight: 700;
+        display: inline;
+    }
