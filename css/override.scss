@@ -142,6 +142,15 @@ label {
 .headerRow   {
     display: none;
 }
+
+.itemRow    {
+    //float: left;
+    display: inline-block;
+    padding: 1em 1em;
+    a   {
+        color: #b71c1c;
+    }
+}
 .item-name, .item-total  {
         font-weight: 700;
         display: inline;
