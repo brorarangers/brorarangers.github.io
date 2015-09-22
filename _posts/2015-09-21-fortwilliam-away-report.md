@@ -3,13 +3,13 @@ section: match
 subsection:
 layout: post
 title: Goals galore at Claggan Park
-description: Brora Rangers picked up the winning thread again when they accounted for Fort William by 5 goals to 3 in an eventful match at Claggen Park on Saturday.
+description: Brora Rangers picked up the winning thread again when they accounted for Fort William by 5 goals to 3 in an eventful match at Claggan Park on Saturday.
 match-date: 19th September 2015
 match-score: Fort William 3 - 5 Brora
 image: true #images match file name.
 og: yes
 ---
-Fixtures between these two teams always provide thrills,spills and lots of goals and again this was to be the case on Saturday. Against the backdrop of Ben Nevis, supporters at Claggen Park were treated to an eight goal feast, as fortunes swung between the teams and delivered a hat-trick for a player from each side. 
+Fixtures between these two teams always provide thrills,spills and lots of goals and again this was to be the case on Saturday. Against the backdrop of Ben Nevis, supporters at Claggan Park were treated to an eight goal feast, as fortunes swung between the teams and delivered a hat-trick for a player from each side. 
 
 Brora Rangers eventually ran out winners, but not before a never say die Fort William side gave the Cattachs a real second half scare, after Brora went into the half time break three goals up.
 
