@@ -13,8 +13,6 @@ Fixtures between these two teams always provide thrills,spills and lots of goals
 
 Brora Rangers eventually ran out winners, but not before a never say die Fort William side gave the Cattachs a real second half scare, after Brora went into the half time break three goals up.
 
-![Brora's Zander Sutherland at the corner flag]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
-
 Fort William started the match the brighter and very nearly took an early lead but Macintosh fired a low shot just wide of the Brora goal. As the first half progressed Brora became dominant and Paul Brindle netted their first after a ball was sent through by Steven Mackay. Brindle added a second midway through the first half with a well placed header, and Mackay himself headed home number three from a well delivered corner. 
 
 ![Steven Mackay guides the ball goalward]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-3.jpg){: .responsive-img .z-depth-2 .post-image}
@@ -22,6 +20,8 @@ Fort William started the match the brighter and very nearly took an early lead b
 Brora started the second half in bright fashion with both Sutherland and Maclean going close in the opening minutes, but the game was about to take an unexpected turn in the 53 minute. John Macleod headed Fort William back into the game following a nicely worked series of passes and a pin point cross from Danny Macintosh. Within three minutes Macleod had added a second with a screamer of a 30 yard drive which left Brora keeper Malin with no chance. 
 
 Brora needed to regroup quickly and Kettlewell and Greig replaced Houston and Graham. The substitutions gave  Brora back their shape and they slowly took back control of the midfield. 
+
+![Brora's Zander Sutherland at the corner flag]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
 
 It was left to Paul Brindle to settle the nerves when his curling cross beat all and gave him his well deserved hat-trick. Grant Munro who once again had a excellent game, added Brora's fifth with a well won header in the 70th minute. 
 
