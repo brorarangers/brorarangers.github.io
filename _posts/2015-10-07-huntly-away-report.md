@@ -5,7 +5,7 @@ layout: post
 title: Brora take an important 3 points home from Huntly
 description: In a tense and fiercely competed Wednesday night match Brora run out eventual winners.
 match-date: 19th September 2015
-match-score: Fort William 3 - 5 Brora
+match-score: Huntly 2-3 Brora
 image: true #images match file name.
 og: yes
 ---
