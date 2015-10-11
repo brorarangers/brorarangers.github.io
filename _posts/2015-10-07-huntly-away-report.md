@@ -4,7 +4,7 @@ subsection:
 layout: post
 title: Brora take an important 3 points home from Huntly
 description: In a tense and fiercely competed Wednesday night match Brora run out eventual winners.
-match-date: 19th September 2015
+match-date: 7th October 2015
 match-score: Huntly 2-3 Brora
 image: true #images match file name.
 og: yes
