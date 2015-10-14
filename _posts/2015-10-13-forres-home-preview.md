@@ -15,6 +15,6 @@ Liam Baxter can expect a warm welcome back to Dudgeon Park, but hopefully he'll 
 
 The sharp and witty [@themightycans](https://twitter.com/themightycans) is a Twitter account worth following, and we're sure they won't mind that we've managed to get the above photo which we hope shows the Can Cans at training earlier this week ...
 
-Elsewhere this weekend Cove host Lossiemouth at Harlaw Park, Formartine travel to Fort William and Turriff host Nairn County, so this isn't a weekend for dropping points to keep ourselves in contention with the League challengers. 
+Elsewhere this weekend Cove host Lossiemouth at Harlaw Park, Formartine travel to Fort William and Turriff host Nairn County, so this isn't a weekend for dropping points to keep ourselves in contention with the other League challengers. 
 
 The weatherman promises another cracking day as October refuses to give way to winter ... so get your red clothes looked out and make your way to Dudgeon Park for the 3pm kick off.
