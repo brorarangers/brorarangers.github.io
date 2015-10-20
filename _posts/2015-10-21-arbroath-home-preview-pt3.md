@@ -25,7 +25,7 @@ Dundee had a few familiar names in the squad ... but then again, so did Brora.
 
 ![Dundee v Brora Rangers scottish Cup programme]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
 
-More of the legendary trip to Dens Park another day, tales of such adventure and drama deserve more than a footnote in an article about our current campaign. More too about our subsequent Scottish Cup exploits, as it's time to return to our Cup run of 1956/57.
+More of the legendary trip to Dens Park another day, tales of such adventure and drama deserve more than a footnote in an article about our current campaign. More too about our subsequent Scottish Cup exploits in subsequent posts, as it's time to return to our Cup run of 1956/57.
 
 Following the monster trip to Wigton, and those who made the trip to Palmerston Park in Dumfries with the advantage of the Dornoch and Kessock Bridges, improved A9 and goodness knows what other road improvements south of Perth, will appreciate the magnitude of *that* journey, Brora received yet another away draw.
 
