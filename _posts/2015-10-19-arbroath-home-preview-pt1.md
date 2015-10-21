@@ -1,5 +1,5 @@
 ---
-section: news
+section: next
 layout: post
 title: Brora vs Arbroath ... Part 1
 description: Brora start their William Hill Scottish cup campaign against Arbroath on 24th October.
