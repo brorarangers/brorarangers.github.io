@@ -19,7 +19,7 @@ We didn't return to Scottish Cup duty until 1972/73 where a 2nd round defeat at 
 
 1979/80 saw Brora in replay action too, holding Buckie to a scoreless draw at Victoria Park before losing 1-2 in the return fixture at Dudgeon Park.
 
-Our next Cup appearances are still fresh in the mind of many supporters and ex-players ... 1982/83 saw Brora travel down to Selkirk and returned with a 0-2 victory and progression into the next round. It's not that we try to make a habit of meeting Angus Clubs, but Montrose had to travel to Dudgeon Park. Unlike their more recent visit, they held Brora to a 0-0 draw forcing a replay at Links Park. The replay ended 1-1, in those days forcing a second replay back in Brora. The Cattachs ensured progression with a convincing 5-2 win, setting us up for the chance to really Defy the Odds against Dundee FC.
+Our next Cup appearances are still fresh in the mind of many supporters and ex-players ... 1982/83 saw Brora travel down to Selkirk and returned with a 0-2 victory and progression into the next round. It's not that we try to make a habit of meeting Angus Clubs, but Montrose had to travel to Dudgeon Park. Unlike their more recent visit, they held Brora to a 0-0 draw forcing a replay at Links Park. The replay ended 1-1, in those days forcing a second replay at Inverness Thistle's Kingsmills Park. The Cattachs ensured progression with a convincing 5-2 win, setting us up for the chance to really Defy the Odds against Dundee FC.
 
 Dundee had a few familiar names in the squad ... but then again, so did Brora.
 
