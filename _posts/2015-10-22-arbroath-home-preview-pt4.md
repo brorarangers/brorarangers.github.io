@@ -53,7 +53,7 @@ Queen of the South TV published terrific highlights of the game, there is no nee
           <iframe width="560" height="315" src="https://www.youtube.com/embed/hu6Z1yhstIo" frameborder="0" allowfullscreen></iframe>
         </div>
         
-Whilst the video also does a great job of capturing the noise, passion and bagpipes of the Brora support, it just can't do justice to spirit in which the game was played. The spirit of a truly great Scottish Cup tie.
+Whilst the video also does a great job of capturing the noise, passion and bagpipes of the Brora support, it just can't do justice to the spirit in which the game was played. The spirit of a truly great Scottish Cup tie.
 
 The video doesn't show the welcome that the Cattachs received in Dumfries, it doesn't capture the genuine pleasure the Doonhamers showed in seeing a travelling support which they told us outnumbered most of their Championship opponents that season. It can't show the atmosphere of being part of a huge Scottish Cup game.
 
