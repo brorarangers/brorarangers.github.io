@@ -55,7 +55,7 @@ Queen of the South TV published terrific highlights of the game, there is no nee
         
 Whilst the video also does a great job of capturing the noise, passion and bagpipes of the Brora support, it just can't do justice to spirit in which the game was played. The spirit of a truly great Scottish Cup tie.
 
-The video doesn't show the welcome that the Cattachs received in Dumfries, it doesn't capture the genuine pleasure the Doonhamers showed in seeing a travelling support which they told us outnumbered most of their Championship oppenents that season. It can't show the atmosphere of being part of a huge Scottish Cup game.
+The video doesn't show the welcome that the Cattachs received in Dumfries, it doesn't capture the genuine pleasure the Doonhamers showed in seeing a travelling support which they told us outnumbered most of their Championship opponents that season. It can't show the atmosphere of being part of a huge Scottish Cup game.
 
 Whilst it catches the Brora Rangers squad approaching their loyal followers to applaud their tireless singing, shouting and bagpipe playing, it misses the fact that the Queen of the South players made a similar gesture to the travelling support. It misses the fact that the Brora squad received a mighty roar and standing ovation from the home fans. We had them them on the back foot for a while, every Brora player on the pitch played out of their skin that afternoon, every player on the pitch knew it, every supporter, regardless of the colour of their scarf, knew it.
 
