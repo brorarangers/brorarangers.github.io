@@ -8,7 +8,7 @@ og: yes
 ---
 It's time for our second visit of the season to Harlaw Park. Last time round wasn't our happiest trip, with Cove Rangers inflicting our [first League defeat](/2015/08/24/cove-away-report.html) since 21st December 2013.
 
-This time we travel to meet Harlaw's residents in a fixture that has rarely failed to provide exiting football over the last few seasons. Originally scheduled to be played on 24th October, rearranged to a long Wednesday night trip on the 28th, and now moved to this Saturday due to Wick Academy and Nairn County requiring a Scottish Cup 2nd Round replay, there is no reason why this season's fixture should be any different.
+This time we travel to meet Harlaw's residents in a fixture that has rarely failed to provide exiting football over the last few seasons. Originally scheduled to be played on 24th October, rearranged to a long Wednesday night trip on the 28th due to Scottish Cup business, and now moved to this Saturday due to Wick Academy and Nairn County requiring a Scottish Cup 2nd Round replay, there is no reason why this season's fixture should be any different.
 
 The Locos are sitting 6th in the League at present, 8 wins from 14 games, though no points from the teams currently sitting above them, and losses to Wick, Lossiemouth and Huntly.
 
