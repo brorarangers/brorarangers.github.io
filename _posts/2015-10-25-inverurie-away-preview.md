@@ -14,7 +14,7 @@ The Locos are sitting 6th in the League at present, 8 wins from 14 games, though
 
 Our head to head record over the past few seasons shows Brora winning all 3 points, but usually in tight games separated by a single goal. Though this fixture last season saw Brora return home with a very solid 5 goal victory and a clean sheet.
 
-The Locos come into this game bouyed by their progression into the 3rd Round of the Scottish Cup with a win over the Lowland League's Edinburgh University AFC.
+The Locos come into this game buoyed by their progression into the 3rd Round of the Scottish Cup with a win over the Lowland League's Edinburgh University AFC.
 
 The rearrangement of this fixture means the travelling support will miss the start of [Ronnie 'n' Donnie's](/2015/10/19/halloween-dance.html) Halloween gig, but they can take comfort in the fact that the Chuff Chuffs will no doubt do their best to prepare our ears with equally loud, but sadly less tuneful entertainment.
 
