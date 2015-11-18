@@ -9,7 +9,7 @@ og: yes         #for Twitter and Facebook content
 ---
 Brora Rangers are delighted to have secured the signature of Fort William forward John Mcleod on a 2.5 year contract.
 
-Club Chairman John Young said" John is a strong hard working player who has scored goals regularly throughout his career. 
+Club Chairman John Young said "John is a strong hard working player who has scored goals regularly throughout his career. 
 Brora unsuccessfully tried to entice John to the club when he was a youngster starring for Clachnacuddin’s youth teams"
 
 "We now welcome him into the squad where hopefully he will be an instant success and enjoy his involvement with Brora Rangers"
