@@ -15,6 +15,6 @@ We haven't got our online shop up and running yet, but you can have a good look 
 
 We've given the whole "Black Friday" shenanigans a body swerve, and replaced it with two "Super Saturday's" instead. We will have all the new merchandise on sale in the Social Club from midday until kickoff and then again until 7pm after the match on the 12th and 19th December.
 
-What could be better than sorting out the Christmas shopping whilst backing the Reds in our two massive games against Cove Rangers and Fraserburgh? If you fcan't make it to the games, everything can also be ordered from [Mowat Print & Design, Main Street, Golspie](https://www.facebook.com/mowatprintanddesign/) or give Santa a phone on <a href="tel:01408633323">01408 633323</a>.
+What could be better than sorting out the Christmas shopping whilst backing the Reds in our two massive games against Cove Rangers and Fraserburgh? If you can't make it to the games, everything can also be ordered from [Mowat Print & Design, Main Street, Golspie](https://www.facebook.com/mowatprintanddesign/) or give Santa a phone on <a href="tel:01408633323">01408 633323</a>.
 
 Happy Shopping!
