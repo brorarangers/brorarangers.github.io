@@ -36,3 +36,5 @@ sass:
 
 paginate: 20
 paginate_path: "/archives/page:num/"
+
+future: false
