@@ -23,7 +23,7 @@ If Cove have a chink in their armour, Brora are just the team to exploit it. The
 
 It's a huge game for both sides. It's guaranteed to be a fantastic afternoon's entertainment, let's face it, it's bound to be cold, but we are confident revenge can be served.
 
-Get yourselves up to Dudgeon Park in plenty of time to get your hands on our [Christmas merchandise](/2015/11/28/christmas-merchandise.html) too.
+Get yourselves up to Dudgeon Park in plenty of time to get your hands on our [Christmas merchandise](/2015/11/28/christmas-merchandise.html) too. We thought travelling up from Sauchie to get the Christmas shopping done was a superb commitment - now we find one of our ex-pat Reds is making the trip from Liverpool! Anyone care to beat that?
 
 See you all on Saturday!
 
