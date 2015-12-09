@@ -19,7 +19,7 @@ OK, some pressure. Both sides have shown throughout the season they have the abi
 
 Confidence is high in the Brora camp. Training is going well and results since our last meeting at Harlaw Park show a side which has gelled well and adapted to changes at the start of the season.
 
-All we really need now is **you**. It's back to the old 'home turf' situation, and the biggest advantage the lads can have is a noisy, partisan crowd backing them for 90 minutes.
+All we really need now is *you*. It's back to the old 'home turf' situation, and the biggest advantage the lads can have is a noisy, partisan crowd backing them for 90 minutes.
 
 So, Dudgeon Park in amongst the super friendly Red Army watching the League's top two sides battle it out for the 3 points ... or battling your way around the busy, bustling shops in Inverness laden down with bags and losing any Christmas cheer before it even arrived?
 
