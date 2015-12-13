@@ -25,3 +25,4 @@ Bellslea Park was the the next destination for Brora after our away defeat to Co
 
 Fraserburgh are due to travel to Forres midweek, whilst Cove host a dangerous Keith squad. Brora, Formartine and Turriff will all have to wait for the weekend in their quest to add vital points to their current tallies. None of the top 3 can afford to drop points if they hope to fly the League Flag above their ground next season.
 
+Without a doubt it's another huge game for Brora Rangers. Given the performance the squad put in last Saturday to end Cove's undefeated run it promises to be another cracker. This tie has never failed to disappoint in the last few seasons, so again, we urge you to make your way to Dudgeon Park on the 19th December. [Merchandise](/merchandise/) will be on sale again in the Social Club both before and after the match. See you there!
