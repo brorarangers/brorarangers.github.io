@@ -21,5 +21,7 @@ A quick look at the League table as it stands after Week 20, and Brora's dominat
 
 The Brochers are experts at throwing a spanner in the works of anyone's title challenge, they were the first side to take points from Cove Rangers this season (though we ourselves have now gone one better in that respect). A 0-3 home defeat at the hands of Keith at the weekend may just make them that little bit more determined to get some points on the board.
 
-Bellslea Park was the the next destination for Brora after our away defeat to Cove Rangers [back in August](/2015/08/30/fraserburgh-away-report.html) and we certainly managed to bounce back from the Harlaw Park disappointment there. This Saturday Fraserburgh follow on the heels of Cove yet again, but this time to meet a home side who banished any thoughts of the Highland League title being sewn up any time soon.
+Bellslea Park was the the next destination for Brora after our away defeat to Cove Rangers [back in August](/2015/08/30/fraserburgh-away-report.html) and we certainly managed to bounce back from the Harlaw Park disappointment there. This Saturday Fraserburgh follow on the heels of Cove yet again, but this time to meet a home side who have just banished any thoughts of the Highland League title being sewn up any time soon.
+
+Fraserburgh are due to travel to Forres midweek, whilst Cove host a dangerous Keith squad. Brora, Formartine and Turriff will all have to wait for the weekend in their quest to add vital points to their current tallies. None of the top 3 can afford to drop points if they hope to fly the League Flag above their ground next season.
 
