@@ -31,7 +31,7 @@ Cove's only chance of the half fell to the usually clinical Daryl Nicol but Scot
 
 Despite several other very near misses there was no further scoring in the first half and Cove would feel themselves lucky to go in at the break just one down. 
 
-As the air temperature fell further in the second half Brora turned up the heat on the park. Despite a change of formation at the break, Cove rarely challenged the Brora goal and spent the second period "manning the pumps"at the back and repelling the red tidal wave. 
+As the air temperature fell further in the second half Brora turned up the heat on the park. Despite a change of formation at the break, Cove rarely challenged the Brora goal and spent the second period "manning the pumps" at the back and repelling the red tidal wave. 
 
 Martin Maclean and Dale Gillespie continued to dominate the middle of the park, feeding both Greig and Sutherland over the top and Cove had no answer to the wingers speed. 
 
