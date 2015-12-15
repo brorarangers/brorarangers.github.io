@@ -25,15 +25,21 @@ From the off Brora went at Cove and both Macleod and Sutherland went close in th
 
 Richard Brittain opened the scoring in 14 minutes when he picked up on a mistimed clearance and planted his 25 yard drive past the Cove keeper. The relief around the terraces was audible and a just reward for Brora's early persistence. 
 
+![Brora Rangers player/manager Richie Brittain fires another shot at Cove's Stuart Mackenzie]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-3.jpg){: .responsive-img .z-depth-2 .post-image}
+
 Both Sutherland and Brittain were in full flow and again the Cove keeper was kept busy to deny both the Brora pairing. Likewise John Macleod now settling right into his new surroundings was far too much of a handful for Cove defenders whom could not get to grips with him at all. Macleod nearly added a second after 35 minutes but a desperate block from the lunging Kelly prevented him connecting cleanly. 
 
 Cove's only chance of the half fell to the usually clinical Daryl Nicol but Scott Houston produced the tackle of the match before Nicol had chance to unload. 
 
 Despite several other very near misses there was no further scoring in the first half and Cove would feel themselves lucky to go in at the break just one down. 
 
+![The thin red line of Brora Rangers held firm in the top of the table clash]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-2.jpg){: .responsive-img .z-depth-2 .post-image}
+
 As the air temperature fell further in the second half Brora turned up the heat on the park. Despite a change of formation at the break, Cove rarely challenged the Brora goal and spent the second period "manning the pumps" at the back and repelling the red tidal wave. 
 
 Martin Maclean and Dale Gillespie continued to dominate the middle of the park, feeding both Greig and Sutherland over the top and Cove had no answer to the wingers speed. 
+
+![Dale Gillespie and Martin Maclean ruled the midfield for Brora Rangers]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
 
 Having run his heart out John Macleod was replaced by Paul Brindle who simply picked up from where his team mate left off and immediately had the Cove back line in trouble with his runs and visionary distribution. On one such occasion he found Sutherland with a pin point ball, who lobbed the keeper only to see his shot cleared off the line by Eric Watson. 
 
