@@ -46,3 +46,5 @@ Having run his heart out John Macleod was replaced by Paul Brindle who simply pi
 Whilst the score remained at 1-0 there was always a possibility that Cove could sneak an equaliser, and perhaps Stuart Duff should have done better, but fired his shot into the side netting. 
 
 The game was however settled in the 84th minute when Paul Brindle picked up a great ball from Zander Sutherland and he confidently slotted it passed the advancing Stuart Mackenzie. 
+
+For those that missed all the action on Saturday afternoon, or even those who just want to catch the highlights along with some post match interviews from [Dave Edwards](https://twitter.com/PJ_DEdwards?ref_src=twsrc%5Etfw), Highland League sponsors, The Press and Journal, made this their [Big Game](https://www.pressandjournal.co.uk/fp/sport/sport-editors-picks/779141/video-big-game-highlights-brora-2-0-cove/). We are off to watch it again, and again ...
