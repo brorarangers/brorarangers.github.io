@@ -3,7 +3,7 @@ section: news
 subsection:
 layout: post
 title: Remember the name ... James Ross
-description: The Breedon Aggregates League Cup has been drawn, and Brora Rangers will host Inverurie Locos in the first round on the 6th February 2016.
+description: Our own James Ross has been featured in an STV article looking at the up and coming stars of Scottish football.
 image: yes      #image to mirror post name.jpg
 og: yes         #for Twitter and Facebook content
 ---
