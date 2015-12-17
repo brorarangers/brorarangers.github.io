@@ -22,3 +22,4 @@ The First Round ties are all scheduled to be played on the 6th February, with th
  - Lossiemouth v Fraserburgh
  - Turriff United v Huntly
  
+ [STV sport](http://sport.stv.tv/football/1336305-brora-rangers-v-inverurie-loco-the-pick-of-the-highland-league/) have already picked the Brora v Inverurie fixture as the 'pick of the Highland League Cup ties', and we aren't arguing with that!
