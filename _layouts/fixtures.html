@@ -24,7 +24,32 @@
     <div class="row">
     <div class="container">
         <div id="fix" class="col s12">
-            <table id="fixtures" class="striped responsive-table bold"></table>
+            <table class="striped responsive-table bold">
+
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Date</th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Home </th>
+
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> - </th>
+
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Away </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Comp </th>
+
+            {% for fixture in site.data.fixtures %}
+                {% unless fixture.Away_Score %}
+            <tr>
+
+                <td>{{ fixture.Date }}</td>
+                <td>{{ fixture.Home }}</td>
+
+                <td>vs</td>
+
+                <td>{{ fixture.Away }}</td>
+                <td>{{ fixture.Competition }}</td>
+
+            </tr>
+                {% endunless %}
+            {% endfor %}
+            </table>
         </div>
     </div>
     </div>
@@ -58,20 +83,10 @@
         {% include footer.html %}
         {% include mainjs.html %}
         {% include analytics.html %}
-        <!-- JS for Google Sheet: Sheetrock -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
+
         <script>
         $(document).ready(function(){
-                <!-- Sheetrock variables -->
-                    var fixtures = '{{ site.fixtures }}';
-
                 $(".button-collapse").sideNav();
-                // Load next fixture.
-                $('#fixtures').sheetrock({
-                    url: fixtures,
-                    query: "select E,A,B,C,G,F where B = 'vs'",
-                    labels: ['Date','Home','vs','Away','Kick Off','Comp'],
-                });
             });
         </script>
     </footer>
