@@ -46,7 +46,7 @@
 <div class="input-field col s12">
     <select name="match">
         <option value="" disabled selected>Choose your match</option>
-    {% for hospitality in site.data.match-sponsor %}
+    {% for hospitality in site.data.fixtures %}
         {% if hospitality.Ball == 'yes' %}
         <option value="{{ hospitality.Date }}- {{ hospitality.Away }}">{{ hospitality.Date }} - {{ hospitality.Away }}</option>
         {% endif %}

@@ -47,9 +47,9 @@
     <select name="player">
         <option value="" disabled selected>Choose your player</option>
     {% for player in site.data.first-team %}
-        {% if player.Sponsor %}
+        {% unless player.Sponsor %}
         <option value="{{ player.First_Name }} {{ player.Last_Name }}">{{ player.First_Name }} {{ player.Last_Name }}</option>
-        {% endif %}
+        {% endunless %}
         {% endfor %}
     </select>
 </div>
