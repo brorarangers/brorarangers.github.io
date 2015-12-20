@@ -27,18 +27,19 @@
     <div class="container">
         <div id="fix" class="col s12">
             <table class="striped responsive-table bold">
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Comp </th>
                 <th class="{{ site.secondary_team_colour }}-text text-darken-4">Date</th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Home </th>
+                <th class="{{ site.primary_team_colour }}-text text-darken-4">Score </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> - </th>
+                <th class="{{ site.primary_team_colour }}-text text-darken-4">Score </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Away </th>
                 <th class="{{ site.secondary_team_colour }}-text text-darken-4">AET</th>
                 <th class="{{ site.secondary_team_colour }}-text text-darken-4">Pens</th>
-                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Comp </th>
             {% for fixture in site.data.fixtures reversed %}
                 {% if fixture.Away_Score %}
             <tr>
+                <td>{{ fixture.Competition }}</td>
                 <td>{{ fixture.Date }}</td>
                 <td>{{ fixture.Home }}</td>
                 <td>{{ fixture.Home_Score }}</td>
@@ -47,7 +48,6 @@
                 <td>{{ fixture.Away }}</td>
                 <td>{{ fixture.AET }}</td>
                 <td>{{ fixture.Pens }}</td>
-                <td>{{ fixture.Competition }}</td>
             </tr>
                 {% endif %}
             {% endfor %}
