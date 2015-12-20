@@ -26,7 +26,32 @@
     <div class="row">
     <div class="container">
         <div id="fix" class="col s12">
-            <table id="fixtures" class="striped responsive-table bold"></table>
+            <table class="striped responsive-table bold">
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Date</th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4"> </th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">AET</th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Pens</th>
+                <th class="{{ site.secondary_team_colour }}-text text-darken-4">Comp </th>
+            {% for fixture in site.data.fixtures reversed %}
+                {% if fixture.Away_Score %}
+            <tr>
+                <td>{{ fixture.Date }}</td>
+                <td>{{ fixture.Home }}</td>
+                <td>{{ fixture.Home_Score }}</td>
+                <td> - </td>
+                <td>{{ fixture.Away_Score }}</td>
+                <td>{{ fixture.Away }}</td>
+                <td>{{ fixture.AET }}</td>
+                <td>{{ fixture.Pens }}</td>
+                <td>{{ fixture.Competition }}</td>
+            </tr>
+                {% endif %}
+            {% endfor %}
+            </table>
         </div>
     </div>
     </div>
@@ -59,20 +84,9 @@
         {% include footer.html %}
         {% include mainjs.html %}
         {% include analytics.html %}
-        <!-- JS for Google Sheet: Sheetrock -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script>
         <script>
         $(document).ready(function(){
-                <!-- Sheetrock variables -->
-                    var fixtures = '{{ site.fixtures }}';
-
                 $(".button-collapse").sideNav();
-                // Load next fixture.
-                $('#fixtures').sheetrock({
-                    url: fixtures,
-                    query: "select E,F,A,B,C,D,H,I where B != 'vs' order by J desc",
-                    labels: ['Date','Comp','Home','H','Away','A','AET','Pens']
-                });
             });
         </script>
     </footer>
