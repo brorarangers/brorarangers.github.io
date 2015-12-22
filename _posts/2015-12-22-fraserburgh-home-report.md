@@ -3,7 +3,7 @@ section: match
 subsection:
 layout: post
 title: Brindle Unplayable in Stellar Performance 
-description: The most difficult post match decision to be made after this titanic  Cattachs performance would be choosing a Man of the Match.  
+description: Brora Rangers picked up against Fraserburgh where they left off against Cove Rangers the previous week, and took their game to a new level for the season.  
 match-date: 19th December 2015
 match-score: Brora Rangers 6-0 Fraserburgh
 image: true #images match file name.
