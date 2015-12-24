@@ -1,5 +1,5 @@
 ---
-section: news
+section: 
 subsection:
 layout: draft
 title: Festive Football Review ... Part 1
