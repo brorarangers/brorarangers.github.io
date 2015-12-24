@@ -33,7 +33,7 @@ The [final instalment](/2015/10/20/arbroath-home-preview-pt5.html) was the ultim
 
 And turn up they did. Arbroath brought a bouyant and noisy support with them, but they were no match for the crowds in red and white, armed with pipes and drums. The atmosphere was everything you could want in a big game.
 
-The early loss of the free scoring Paul Brindle in the 15 minutes was a set back, and we were unlucky not to get at least a replay from the fast and intense [1-2 defeat](/2015/10/25/arbroath-home-report.html) at the hands of an extremely entertaining opponent. Colin's injury turned out to be a broken cheek bone, a nasty injury that would rule him out for the rest of the year.
+The early loss of the free scoring Paul Brindle in the  first 15 minutes was a set back, and we were unlucky not to get at least a replay from the fast and intense [1-2 defeat](/2015/10/25/arbroath-home-report.html) at the hands of an extremely entertaining opponent. Colin's injury turned out to be a broken cheek bone, a nasty injury that would rule him out for the rest of the year.
 
 *Trigger* was meant to be on Golden Mic duty ...
 
