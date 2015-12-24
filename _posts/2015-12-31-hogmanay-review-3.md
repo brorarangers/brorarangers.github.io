@@ -1,5 +1,5 @@
 ---
-section
+section:
 subsection:
 layout: draft
 title: Festive Football Review ... Part 3
@@ -92,6 +92,8 @@ Then it was off to the beleaguered Rothes. While the Speysiders seemed well on t
 We believe this rumour may have started due to a mistaken assumption that fans had stumbled across a remake of 'Last of the Summer Wine', however, these three were more likely to have been recruited during Brora's Scarecrow Festival as we reported in [Part 2](/2015/12/30/hogmanay-review-2.html).
 
 Whilst Rothes [held the score](/2015/11/24/rothes-away-report.html) to 4 less than our earlier meeting, the damage was all done in the first half with 7 goals without reply. Teenager Lewis Grant, in his first start for the side, topped a fantastic performance by finding the net twice. It was a dominant display to take the lads into a weekend off due to Buckie Thistle's continued involvement in the Scottish Cup.
+
+Back home at Dudgeon Park, Wick Academy were winning their first piece of silverware since joining the League in a North of Scotland Cup victory over Nairn. It was the 5th game in 2 weeks held at Dudgeon Park and the work of Sandy and his willing helpers really had paid off.
 
 We were still busy behind the scenes though, and launched a range of Christmas [Merchandise](/2015/11/28/christmas-merchandise.html) before November was finished.
 
