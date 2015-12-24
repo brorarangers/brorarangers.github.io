@@ -1,0 +1,91 @@
+{% include head.html %}
+<body>
+    <header  class="navbar-fixed">{% include nav.html %}</header>
+<main class="post">
+    {% if page.sub-section == 'sponsor' %}
+    <div class="row">
+        <div class="container">
+            <h6>Brora Rangers Sponsor Highlight</h6>
+        </div>
+    </div>
+    {% endif %}
+    <div class="row">
+        <div class="center"><h3>{{ page.title }}</h3></div>
+    </div>
+    {% if page.title contains 'Lotto' %}
+    <div class="row">
+        <div class="container">
+            <h6>The Cattachs Lotto is drawn every Sunday.</h6>
+        </div>
+    </div>
+    {% elsif page.title contains '50/50' %}
+    <div class="row">
+        <div class="container">
+            <h6>Get your 50/50 Half Time Draw tickets at the gate at all our home games.</h6>
+        </div>
+    </div>
+    {% elsif page.title contains 'Boardroom Raffle' %}
+    <div class="row">
+        <div class="container">
+            <h6>If you are one of our <a class="{{ site.primary_team_colour }}-text text-darken-4" href="/tickets/">Gold Card Members</a> you can enter our Boardroom Raffle for a bottle of whisky at all our home games.</h6>
+        </div>
+    </div>
+    {% endif %}
+    <div class="row">
+        <div class="container flow-text">
+        <strong>{{ page.excerpt }}</strong>
+        </div>
+    </div>
+    {% if page.image %}
+    <div class="row">
+        <div class="container center">
+            <img class="responsive-img z-depth-2" height="400" src="/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg" alt="{{page.description }}">
+        </div>
+        </div>
+    {% endif %}
+    <div class="row">
+        <div class="container flow-text">
+        {{ content | remove: page.excerpt }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+        <h6 class="grey-text text-lighten-1 right-align">Posted on {{ page.date | date: '%-d %B' }}</h6>
+        </div>
+    </div>
+    <div class="row">
+        <section class="container center">
+            <p class="flow-text">
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.website }}{{ page.url }}&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter" class="{{ site.secondary_team_colour }} darken-4 waves-effect waves-light btn"><i class="tiny material-icons">share</i> Tweet</a>
+            <a href="https://facebook.com/sharer.php?u={{ site.website }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook" class="{{ site.secondary_team_colour }} darken-4 waves-effect waves-light btn"><i class="tiny material-icons">share</i> Share</a></p>
+        </section>
+    </div>
+
+</main>
+<footer>
+    <div class="row">
+    <div class="container">
+        <div class="col s6">
+        {% if page.previous.url %}
+            <a class="left-align {{ site.primary_team_colour }}-text text-darken-4" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+            <p class="grey-text text-lighten-1">{{ page.previous.date | date: '%-d %B' }}</p>
+        {% endif %}
+        </div>
+        <div class="col s6 right-align">
+        {% if page.next.url %}
+            <a class="{{ site.primary_team_colour }}-text text-darken-4" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+            <p class="grey-text text-lighten-1">{{ page.next.date | date: '%-d %B' }}</p>
+        {% endif %}
+        </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="container center">
+            <a href="/news/#{{ page.section }}" class="{{ site.primary_team_colour }} darken-4 waves-effect waves-light btn">Back to News</a>
+        </div>
+    </div>
+
+    {% include mainjs.html %}
+    {% include analytics.html %}
+</footer>
+</body>
