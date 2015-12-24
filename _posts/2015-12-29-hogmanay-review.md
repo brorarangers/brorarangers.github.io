@@ -9,7 +9,7 @@ og: yes         #for Twitter and Facebook content
 ---
 As 2015 draws to an end, it seems fitting that we should have a look back at our season so far. It's been a busy time for all at Brora Rangers Football Club, with many changes, not least of which is an effort to improve communication ... so settle down for a brief, and at times light hearted, look back before 2016 arrives.
 
-Last season officially ended for Brora later than the rest of the Highland League with our historic Pyramid Playoffs against SPFL side Montrose, and our ultimate defeat at Links Park on the 16th May. Whilst the squad didn't get much of a summer break before pre-season training started up again in preparation for our first friendly of the 2015/16 season against Inverness Caledonian Thistle, there was also plenty going on behind the scenes in June too.
+Last season officially ended for Brora later than the rest of the Highland League with our historic Pyramid Playoffs against SPFL side Montrose, and our ultimate [defeat at Links Park](http://www.bbc.co.uk/sport/0/football/32761228) on the 16th May. Whilst the squad didn't get much of a summer break before pre-season training started up again in preparation for our first friendly of 2015/16 against Inverness Caledonian Thistle, there was also plenty going on behind the scenes in June too.
 
 We'd already signed John Pickles right at the end of May, and Richard Brittain and Paul Brindle put pen to paper on the 6th June. Ally Macdonald and Connor Lyall followed close on their heels on the 20th of the month.
 
@@ -29,9 +29,9 @@ What a fantastic effort from those who swapped a Saturday watching the Brora Ran
 
 The 8th of June saw the draw for the North of Scotland Cup announced, with Brora drawn at home against Wick Academy in the first round. What a cracking tie for our first competitive game of the new season.
 
-By the end of June we had our pre-season friendlies sorted out and the Petrofac Cup draw saw us getting ready to face Championship side Alloa Athletic. So, no more hanging around ... and the 1st of July saw us welcome the Scottish Cup holders Inverness Caledonian Thistle to the Dudgeon.
+By the end of June we had our pre-season friendlies sorted out and the Petrofac Cup draw saw us getting ready to face Championship side Alloa Athletic. So, no more hanging around ... and the 1st of July saw us welcome the Scottish Cup holders to the Dudgeon.
 
-We can only assume that ICT had neither been dazzled with the freshly painted away dressing room, nor affected by lingering paint fumes, as they scored in 14 minutes through Jordan Roberts. However, as the Inverness Courier reported after the match:
+We can only assume that ICT had neither been dazzled with the freshly painted away dressing room, nor affected by lingering paint fumes, as they scored in 14 minutes through Jordan Roberts. However, as the [Inverness Courier reported](http://www.inverness-courier.co.uk/Sport/Football/Triallists-net-again-as-ICT-bag-Brora-win-01072015.htm) after the match:
 
 *'The Cattachs, managed by former Raith Rovers man Davie Kirkwood, were not overawed by the opposition and responded well to going behind. Wedderburn had to be alert to flick away a teasing Andy Greig cross and Ryan Esson stood tall to block an effort from Paul Brindle, making his first Brora appearance since moving from Clach.'*
 
@@ -125,6 +125,10 @@ Thanks also have to go to the Mackessack Park '59 Club, who endeavoured to remin
 
 Talking of proud histories, it was also brought to our attention a few days later that the 5th of August was the anniversary of Glasgow Celtic buying [Roddy MacDonald](http://www.thecelticwiki.com/page/MacDonald,+Roddie) from Brora Rangers in 1972.
 
+One of our ex-players remembered the occasion well,
+
+*"We played Huntly away and on the road home Roddy and Sammy Wilson got of the bus in Inverness to meet the Celtic boss in the Station Hotel"*
+
 On the 7th of August we announced that Colin Maclean would be joining Clachnacuddin FC on loan, originally until the 20th December. Colin is a young man who joined our under 15 squad back in 2012 - and scored a hat-trick on his debut. Supporters will no doubt remember him best for his fantastic [6 goal bonanza](http://www.highland-news.co.uk/Sport/Football/Fort-William-FC/Brora-Rangers-teenager-hits-six-on-debut-at-Fort-William-14092014.htm) at Claggan Park on his debut start for the first team back in November 2014. It's a measure of how competitive a striker's position is at Dudgeon Park these days
 
 Next up in our early fixtures were Buckie Thistle at Victoria Park, and the goals just kept on coming. It's a happy band that follow Brora around the Highland League grounds every season, and it's nice to see some of our favourite haunts are just as glad to see us,
@@ -145,6 +149,6 @@ It was back to Dudgeon Park to host Keith for our fourth game of the current Lea
 
 Despite the early disappointment of the North of Scotland Cup defeat, the squad really seemed to have a grip of League business by this stage. Next up were Cove Rangers, obviously one of the challengers for the 2015/16 title, and a team that had impressed at the Dudgeon the previous season.
 
-Off the park everything appeared to be moving in the right direction too, our new Match Programmes were improving with every home game and were well received by the supporters; the team sheets distributed before Kick Off with a poster for the next Home game were well received and we felt our new website was very close to being ready for it's public launch.
+Off the park everything appeared to be moving in the right direction too, our new Match Programmes were improving with every home game and were well received by the supporters; the team sheets distributed before Kick Off with a poster for the next Home game were quickly snapped up and we felt our new website was very close to being ready for it's public launch.
 
 All in all, it seems like a great place to take a break from our end of year review. Remember to come back tomorrow for Part 2!
