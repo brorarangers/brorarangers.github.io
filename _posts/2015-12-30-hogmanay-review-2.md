@@ -136,7 +136,7 @@ League business first though, and another clash of the Top 4 ... Turriff Utd.
 | Inverurie Locos | 10 | 5 | 0 | 5 | 10 | 15| 
 | Forres Mechanics | 10 | 5 | 0 | 5 | -3 | 15| 
 
-A look at the top half of the league table at the time shows us not quite a third of the way through the season and the main contenders for the title were pulling away. The defeats at the hands of Cove Rangers and Formartine Utd had put a dent in our challenge, and we knew we couldn't afford to slip up in our first meeting with the final title hopefuls. The way the fixtures had fallen, neither Cove, Formartine nor Turriff had faced each other yet and it was looking like the title would be decided on how we fared against each other. Like we say, we couldn't slip up.
+A look at the top half of the league table at the time shows us not quite a third of the way through the season and the main contenders for the title were pulling away. The defeats at the hands of Cove Rangers and Formartine Utd had put a dent in our challenge, and we knew we couldn't afford to slip up in our first meeting with the last of the title hopefuls. The way the fixtures had fallen, neither Cove, Formartine nor Turriff had faced each other yet and it was looking like the title would be decided on how we fared against each other. Like we say, we couldn't slip up.
 
 ![Brora's Colin Williamson leaves the field before half time after his second yellow]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-20.jpg){: .responsive-img .z-depth-2 .post-image}
 
