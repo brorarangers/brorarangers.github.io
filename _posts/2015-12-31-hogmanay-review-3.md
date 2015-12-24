@@ -1,5 +1,5 @@
 ---
-section: 
+section
 subsection:
 layout: draft
 title: Festive Football Review ... Part 3
@@ -51,7 +51,7 @@ The game was tight, but a strike from Zander and yet another clean sheet saw us 
 
 When we sat down at the start of the season to discuss this website with our resident computer geek, he was a great pains to point out to us that we needed to be dragged into the digital age, he produced a digital strategy tieing up the website, Twitter and Facebook. He spoke about the site being more than just a place to put our Club news and the opportunity to raise the profile of Brora Rangers Football Club as we sought promotion. He sends regular reports on how frequently the site is viewed, by how many people, where the traffic comes from and whether people view the site on mobile phones or sitting at a computer. To be honest we were impressed.
 
-Turns out, he knows nothing. When it comes to the free transfer list, his name will be at the top. We should have known all along we already had the man to send us viral in the digital world working tirelessly on the pitch. Steven 'Sid' Mackay, Captain Goals, Mr Dependable ... and now, Internet Sensation. Our website chappie got excited when our site received over 700 visits in one day. Steven's video has had, at the very least, 400,000 views.
+Turns out, he knows nothing. When it comes to sorting out the free transfer list, his name will be at the top. We should have known all along we already had the man to send us viral in the digital world working tirelessly on the pitch. Steven 'Sid' Mackay, Captain Goals, Mr Dependable ... and now, Internet Sensation. Our website chappie got excited when our site received over 700 visits in one day. Steven's video has had, at the very least, 400,000 views.
 
 <div class="video-container no-controls">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/OQYpCCRpWvM" frameborder="0" allowfullscreen></iframe>
@@ -83,7 +83,7 @@ We've mentioned a couple of villains in our roundup. Garry Wood, who killed of o
 
 In other news, Cove Rangers were held to a 3-3 draw by Fraserburgh in a Tuesday night game at North Lodge Park. Fraserburgh certainly can pull off the big results to upset title challenges, as we discovered in our past two seasons.
 
-Buckie Thistle were next in the firing line, and a [scoring debut](/2015/11/19/buckie-home-report.html) for our villian turned hero, yet another clean sheet and Brora were no on an 8 game winning streak and had pulled themselves up to the top of the table, albeit on goal difference, and Cove still sitting with two games in hand.
+Buckie Thistle were next in the firing line, and a [scoring debut](/2015/11/19/buckie-home-report.html) for our villian turned hero, yet another clean sheet and Brora were now on an 8 game winning streak and had pulled themselves up to the top of the table, albeit on goal difference, and Cove still sitting with two games in hand.
 
 Then it was off to the beleaguered Rothes. While the Speysiders seemed well on the way by now to getting to grips with matters off the field, it was a sair fecht for the lads on the pitch. A solitary point and a goal difference of -85, and about to face the lads that beat them 11-0 at Dudgeon Park. Whilst we hadn't seen any confirmation from official sources, rumour had it on the Brora Rangers Supporters Facebook page that the Club were allowing production companies to use Mackessock Park for filming. 
 
@@ -97,7 +97,7 @@ We were still busy behind the scenes though, and launched a range of Christmas [
 
 The first weekend in December and we rolled into Keith's Kynoch Park to face a team which had given us a [stern test](/2015/08/17/keith-home-report.html) at home. We made more comfortable work of it [this time round](/2015/12/06/keith-away-report.html) and felt we were as ready as we'd ever be for the following weekend. 
 
-The following weekend was, of course, the [top of the table](/2015/12/06/cove-home-preview.html). It received a bit of a [build up](/2015/12/07/cove-home-preview2.html) on here, and excitement was high among the Brora fan base. *Trigger* was back on updates, so the Facebook followers were waiting with baited breath ... *Trigger* captures every detail ...
+The following weekend was, of course, the [top of the table](/2015/12/06/cove-home-preview.html) clash. It received a bit of a [build up](/2015/12/07/cove-home-preview2.html) on here, and excitement was high among the Brora fan base. *Trigger* was back on updates, so the Facebook followers were waiting with baited breath ... *Trigger* captures every detail ...
 
 ![The Golden Mic captures every little detail]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-9.jpg){: .responsive-img .z-depth-2 .post-image}
 
