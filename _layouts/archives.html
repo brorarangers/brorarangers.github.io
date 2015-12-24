@@ -14,7 +14,9 @@
 </div>
     </div>
     <div class="container"><h5 class="center-align">All the news, all in the one place.</h5></div>
+    {% unless section == 'draft' %}
     <section>{{ content }}</section>
+    {% endunless %}
 </main>
     <footer>
         {% include footer.html %}
