@@ -96,7 +96,7 @@ On a brighter note, yet another contender appeared for the Golden Mic ... OK, le
 
 ![Another Golden Mic contender tries his hand]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-15.jpg){: .responsive-img .z-depth-2 .post-image}
 
-He was certainly a bit more polite and professional than anything we'd experienced before.
+He was also a bit more polite and professional than anything we'd experienced before.
 
 ![The Golden Mic goes wild at Brora Rangers v Formartine]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-16.jpg){: .responsive-img .z-depth-2 .post-image}
 

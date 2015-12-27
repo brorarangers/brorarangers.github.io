@@ -19,7 +19,7 @@ It was.
 
 The following Saturday saw a [professional display](/2015/10/11/strathspey-home-report.html) against a well organised Strathspey Thistle, 3 goals, 3 points and a clean sheet. The clean sheets were becoming ever more important given just how close things were at the top of the table and Cove's apparent refusal to drop points. Cove had finished the afternoon with a 0-1 away victory over Formartine and we moved up into second place above the Pitmedden Club on goal difference. 
 
-It was time for an [in form Forres](/2015/10/13/forres-home-preview.html) to visit Dudgeon Park, With 6 wins on the trot including a victory over Lossiemouth in the 1st Round in the Scottish Cup and a 6-2 victory over Buckie Thistle the Can Cans must have entered the game with a fair degree of optimism. However, it wasn't to be for Forres as the Big Red Machine smashed six goals passed them with no reply in what was possibly the best [display of the season](/2015/10/18/forres-home-report.html) so far. Perfect preparation for our Scottish Cup tie against Arbroath.
+It was time for an [in form Forres](/2015/10/13/forres-home-preview.html) to visit Dudgeon Park, With 6 wins on the trot including a victory over Lossiemouth in the 1st Round in the Scottish Cup and a 6-2 victory over Buckie Thistle, the Can Cans must have entered the game with a fair degree of optimism. However, it wasn't to be for Forres as the Big Red Machine smashed six goals passed them with no reply in what was possibly the best [display of the season](/2015/10/18/forres-home-report.html) so far. Perfect preparation for our Scottish Cup tie against Arbroath.
 
 Talking of preparations for the Cup, the following week our website went into overdrive to build up the anticipation of another Cup run ... 
 
@@ -49,7 +49,7 @@ The game was tight, but a strike from Zander and yet another clean sheet saw us 
 
 ![Brora supporters Halloween Bash promised to be a scream]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-3.jpg){: .responsive-img .z-depth-2 .post-image}
 
-When we sat down at the start of the season to discuss this website with our resident computer geek, he was a great pains to point out to us that we needed to be dragged into the digital age, he produced a digital strategy tieing up the website, Twitter and Facebook. He spoke about the site being more than just a place to put our Club news and the opportunity to raise the profile of Brora Rangers Football Club as we sought promotion. He sends regular reports on how frequently the site is viewed, by how many people, where the traffic comes from and whether people view the site on mobile phones or sitting at a computer. To be honest we were impressed.
+When we sat down at the start of the season to discuss this website with our resident computer geek, he was at great pains to point out to us that we needed to be dragged into the digital age, he produced a digital strategy tieing up the website, Twitter and Facebook. He spoke about the site being more than just a place to put our Club news and the opportunity to raise the profile of Brora Rangers Football Club as we sought promotion. He sends regular reports on how frequently the site is viewed, by how many people, where the traffic comes from and whether people view the site on mobile phones or sitting at a computer. To be honest we were impressed.
 
 Turns out, he knows nothing. When it comes to sorting out the free transfer list, his name will be at the top. We should have known all along we already had the man to send us viral in the digital world working tirelessly on the pitch. Steven 'Sid' Mackay, Captain Goals, Mr Dependable ... and now, Internet Sensation. Our website chappie got excited when our site received over 700 visits in one day. Steven's video has had, at the very least, 400,000 views.
 
@@ -121,4 +121,9 @@ A six point gap, and a big message to the rest of the League ...
 
 The first team to face us after the high of winning the top of the league clash were Fraserburgh. The Broch were the only team who could tame us in the previous two seasons, they were the only other team to take points from Cove this season in the League. The Bellslea boys are not to be trifled with. We were under no illusions about the [dangers of Fraserburgh FC](/2015/12/12/fraserburgh-home-preview.html).
 
-As it was Fraserburgh [weren't ready for us](/2015/12/22/fraserburgh-home-report.html). They certainly weren't ready for Paul Brindle. He was unstoppable. 6-0, 3 points, clean sheet, goal difference stretched again. Time for the Boxing Day fixture. 
+As it was Fraserburgh [weren't ready for us](/2015/12/22/fraserburgh-home-report.html). They certainly weren't ready for Paul Brindle. He was unstoppable. 6-0, 3 points, clean sheet, goal difference stretched again. Time for the [Boxing Day fixture](/2015/12/20/clach-away-preview.html). 
+
+Whilst a rather famous gentleman dressed in red and white had delivered presents around the world in time for the previous day's festivities, another squad of red and white attired gents delivered a gift of equally impressive proportions to the the Brora fans the following day. It's fair to say it wasn't the best of weather, and whilst a healthy home and away support took shelter under cover, there was no-where for the Clachnacuddin players to hide as Brora Rangers ran riot.
+
+![Paul Brindle celebrates with the Brora fans at Grant St Park]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-12.jpg){: .responsive-img .z-depth-2 .post-image}
+

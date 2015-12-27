@@ -9,7 +9,7 @@ og: yes         #for Twitter and Facebook content
 ---
 As 2015 draws to an end, it seems fitting that we should have a look back at our season so far. It's been a busy time for all at Brora Rangers Football Club, with many changes, not least of which is an effort to improve communication ... so settle down for a brief, and at times light hearted, look back before 2016 arrives.
 
-Last season officially ended for Brora later than the rest of the Highland League with our historic Pyramid Playoffs against SPFL side Montrose, and our ultimate [defeat at Links Park](http://www.bbc.co.uk/sport/0/football/32761228) on the 16th May. Whilst the squad didn't get much of a summer break before pre-season training started up again in preparation for our first friendly of 2015/16 against Inverness Caledonian Thistle, there was also plenty going on behind the scenes in June too.
+Last season officially ended for Brora later than the rest of the Highland League with our historic Pyramid Playoffs against SPFL side Montrose, and our ultimate [defeat at Links Park](http://www.bbc.co.uk/sport/0/football/32761228) on the 16th May. Whilst the squad didn't get much of a summer break before pre-season training started up again, there was also plenty going on behind the scenes in June too.
 
 We'd already signed John Pickles right at the end of May, and Richard Brittain and Paul Brindle put pen to paper on the 6th June. Ally Macdonald and Connor Lyall followed close on their heels on the 20th of the month.
 
@@ -27,11 +27,11 @@ Less camera shy, and arguably less skilled, but definitely no less willing were 
 
 What a fantastic effort from those who swapped a Saturday watching the Brora Rangers for a Sunday watching the youngsters paint. There were others who missed out on the photo call, probably because they were actually doing some work, but throughout the close season supporters gave up their time to wield paint brushes and more around Dudgeon Park and we can't thank them enough for their dedication to the Club.
 
-The 8th of June saw the draw for the North of Scotland Cup announced, with Brora drawn at home against Wick Academy in the first round. What a cracking tie for our first competitive game of the new season.
+The 8th of June saw the ties for the North of Scotland Cup announced, with Brora drawn at home against Wick Academy in the first round. What a cracking fixture for our first competitive game of the new season.
 
-By the end of June we had our pre-season friendlies sorted out and the Petrofac Cup draw saw us getting ready to face Championship side Alloa Athletic. So, no more hanging around ... and the 1st of July saw us welcome the Scottish Cup holders to the Dudgeon.
+By the end of June we had our pre-season friendlies sorted out and the Petrofac Cup draw saw us getting ready to face Championship side Alloa Athletic. So, no more hanging around ... and on the 1st of July we welcomed the Scottish Cup holders to the Dudgeon.
 
-We can only assume that ICT had neither been dazzled with the freshly painted away dressing room, nor affected by lingering paint fumes, as they scored in 14 minutes through Jordan Roberts. However, as the [Inverness Courier reported](http://www.inverness-courier.co.uk/Sport/Football/Triallists-net-again-as-ICT-bag-Brora-win-01072015.htm) after the match:
+We can only assume that Inverness Caledonian Thistle had neither been dazzled with the freshly decorated away dressing room, nor affected by lingering paint fumes, as they scored in 14 minutes through Jordan Roberts. However, as the [Inverness Courier reported](http://www.inverness-courier.co.uk/Sport/Football/Triallists-net-again-as-ICT-bag-Brora-win-01072015.htm) after the match:
 
 *'The Cattachs, managed by former Raith Rovers man Davie Kirkwood, were not overawed by the opposition and responded well to going behind. Wedderburn had to be alert to flick away a teasing Andy Greig cross and Ryan Esson stood tall to block an effort from Paul Brindle, making his first Brora appearance since moving from Clach.'*
 
