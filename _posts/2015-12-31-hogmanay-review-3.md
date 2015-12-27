@@ -127,3 +127,4 @@ Whilst a rather famous gentleman dressed in red and white had delivered presents
 
 ![Paul Brindle celebrates with the Brora fans at Grant St Park]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-12.jpg){: .responsive-img .z-depth-2 .post-image}
 
+A hat-trick from Dale Gillespie, a double from Paul Brindle, and Zander, Grant, Chubbs, Sid and Scott Graham ensured our season finished on a high with a 1-10 victory away from home.
