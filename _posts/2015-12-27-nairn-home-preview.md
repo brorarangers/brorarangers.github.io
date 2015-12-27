@@ -15,7 +15,7 @@ Brora finished 2015 with a 1-10 romp away from home to Clachnacuddin, we'll be h
 Our match previews tend to concentrate on the form of ourselves and our immediate opposition. Whilst we are so close to the New Year, though, let's have a small break with tradition ... 
 
 
-Those who stood in the wind and rain at Grant Street Park on Boxing day watching the 1-10 demolition of Clachnacuddin at least had the comfort of their warm and comfy homes to agonise over updates from Bellslea. With Grant Nobles 4th goal for Fraserburgh filtering through the ethernet there was a collective sigh of relief throughout Sutherland (and Inverness, Aberdeen, Banchory, Liverpool, Sauchie, Tern Alpha and countless other places the Brora supporters call home.)
+Those who stood in the wind and rain at Grant Street Park on Boxing day watching the 1-10 demolition of Clachnacuddin at least had the comfort of their warm and comfy homes to agonise over updates from Bellslea today. With Grant Nobles 4th goal for Fraserburgh filtering through the ethernet there was a collective sigh of relief throughout Sutherland (and Inverness, Aberdeen, Banchory, Liverpool, Sauchie, Tern Alpha and countless other places the Brora supporters call home.)
 
 ![Ain't over until the fat lady sings ....']({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
 
