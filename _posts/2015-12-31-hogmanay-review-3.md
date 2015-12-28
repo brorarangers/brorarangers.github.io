@@ -130,3 +130,5 @@ Whilst a rather famous gentleman dressed in red and white had delivered presents
 A hat-trick from Dale Gillespie, a double from Paul Brindle, and Zander, Grant, Chubbs, Sid and Scott Graham ensured our season finished on a high with a 1-10 victory away from home. And just to add some real spice to the end of the year, Fraserburgh pulled off a 4-2 defeat of Cove Rangers the following day whilst Formartine cruised to a 10-3 victory over Buckie Thistle.
 
 ![The Highland League table at the end of 2015]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-13.jpg){: .responsive-img .z-depth-2 .post-image}
+
+And there we have the League table at the end of 2015. The top 3 are really in a massive battle, with plenty of other teams still in the frame for having a say in who gets to fly the League Flag next season and progress into the Play Off with the Lowland League winners.
