@@ -1,7 +1,7 @@
 ---
-section: 
+section: news
 subsection:
-layout: draft
+layout: post
 title: Festive Football Review ... Part 2
 description: A continued look back at our 2015/16 season so far
 image: yes      #image to mirror post name.jpg
