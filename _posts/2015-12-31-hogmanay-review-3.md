@@ -127,4 +127,6 @@ Whilst a rather famous gentleman dressed in red and white had delivered presents
 
 ![Paul Brindle celebrates with the Brora fans at Grant St Park]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-12.jpg){: .responsive-img .z-depth-2 .post-image}
 
-A hat-trick from Dale Gillespie, a double from Paul Brindle, and Zander, Grant, Chubbs, Sid and Scott Graham ensured our season finished on a high with a 1-10 victory away from home. And just to add some real spice to the end of the year, Fraserburgh pulled off a 4-2 defeat of Cove Rangers the following day.
+A hat-trick from Dale Gillespie, a double from Paul Brindle, and Zander, Grant, Chubbs, Sid and Scott Graham ensured our season finished on a high with a 1-10 victory away from home. And just to add some real spice to the end of the year, Fraserburgh pulled off a 4-2 defeat of Cove Rangers the following day whilst Formartine cruised to a 10-3 victory over Buckie Thistle.
+
+![The Highland League table at the end of 2015]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-13.jpg){: .responsive-img .z-depth-2 .post-image}
