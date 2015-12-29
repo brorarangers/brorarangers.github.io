@@ -39,4 +39,4 @@ Steven Mackay had replaced Sutherland, and was already proving a real handful to
 
 Gillespie made it 9 and secured his hat-trick in 87 minutes with a thunderbolt from 35 yards and Greig made sure he topped and tailed the goal fest when he added number 10 in the last minute of the game. 
 
-After a highly productive December, Brora Rangers now enter 2016 sitting at the head of the table, but Cove Rangers and Formartine United still have live chances for the title. However Brora Player Manager Richard Brittain can look back on 2015, knowing his team are where he would have hoped-top! 
+After a highly productive December, Brora Rangers now enter 2016 sitting at the head of the table, but Cove Rangers and Formartine United still have live chances for the title. However Brora Player Manager Richard Brittain can look back on 2015, knowing his team are where he would have hoped - top! 
