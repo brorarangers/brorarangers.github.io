@@ -104,7 +104,7 @@ He pretty much kept this up all game, every kick of the ball. 4 posts in 2 minut
 
 ![Brora Rangers answer to Archie MacPherson]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-17.jpg){: .responsive-img .z-depth-2 .post-image}
 
-All game, every kick of the ball ... *Trigger* was a machine. Facebook followers hadn't seen anything like it. 
+*All* game, *every* kick of the ball ... *Trigger* was a machine. Facebook followers hadn't seen anything like it. 
 
 Despite *Trigger* keeping this blow by blow account of proceedings up for 90 minutes, there was evidence that the current Golden Mic holder was about as keen to give up his crown as the players were on the pitch.
 
