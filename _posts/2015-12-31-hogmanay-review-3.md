@@ -132,3 +132,9 @@ A hat-trick from Dale Gillespie, a double from Paul Brindle, and Zander, Grant, 
 ![The Highland League table at the end of 2015]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-13.jpg){: .responsive-img .z-depth-2 .post-image}
 
 And there we have the League table at the end of 2015. The top 3 are really in a massive battle, with plenty of other teams still in the frame for having a say in who gets to fly the League Flag next season and progress into the Play Off with the Lowland League winners.
+
+It's been another great year at Brora Rangers Football Club, tomorrow we look forward to the conclusion of the 2015/16 League campaign and another crack at the Breedon Aggregates Highland League Cup.
+
+That's nearly all from the Brora Rangers website for this year, we hope you enjoyed our look back over the season so far. If you are one of our regular visitors, thanks for your continued support as we head towards what could be our 3rd successive Highland League Championship, if you've just been introduced to us through this short series of articles, listen to 'Cattach Comejoinus' and come join us! We are easy to [find](/brora/) and there's a list of [fixtures over here](/fixtures/).
+
+Here's to 2016.
