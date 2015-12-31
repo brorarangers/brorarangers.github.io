@@ -46,7 +46,7 @@ Let's be honest, all the above flimflam may add to the anticipation of our next 
  We've chalked up 7 clean sheets in those last 10 games and goals are coming from all over the park, with 11 different goal scorers.
  
  With more whatifery and whataboutery, we can look at it this way. 
- 
+
  | Team | Current Pts | Max Available Pts | Max Possible Total |
  |---|---|---|---|
  | Brora | 64 | 30 | 94 |
@@ -61,5 +61,17 @@ Let's be honest, all the above flimflam may add to the anticipation of our next 
  Add into this that if both Cove and ourselves do win all our remaining games, and we only win by the single goal in every game, Cove Rangers are going to have to increase their Goal Difference by 47 over the next 12 games ... pretty much 4 goals per game. If Formartine can win all their remaining games, that could leave them not needing to worry about Goal Difference at all. What the above tables definitely demonstrate is that trying to forecast the outcome of the 2015/16 Scottish Highland League on the 1st of January is a fruitless, pointless task. We bet we are not the only ones who have taken the time to sit down and attempt it though?
  
  As if all that wasn't enough to get excited about, Cove Rangers may be the last Highland League team with a chance of progressing to the 5th Round of the Scottish Cup (and we wish them the best of luck with their match against Motherwell) but we all get our chance at the Breedon Aggregates Highland League Cup again this year. That gets underway on the 6th of February for us against Inverurie Loco Works at Dudgeon Park.
+ 
+ Whoever wins the League (translation: We expect to win the League) can look forward to the excitement of the Lowland League / Highland League playoff (translation: Edinburgh City expect another go at this). Whoever wins this (translation: The Highland League Champions will win this) get to play for a chance to enter the SPFL. Anyone might regret not having prepared properly for this (translation: SPFL, you might want to have a wee look at [this](/2015/12/31/contract-extensions.html)).
+ 
+ When rail tracks spread across the country, time had to be standardised. Noon in Brora had to be the same as noon in Inverness, Aberdeen, Edinburgh, Glasgow, Manchester, London, (even Tern Alpha to Inverurie taxis had to run on the same timescale, Adrian). When we planned our run in to the end of the year website report, we were not entirely sure when that troublesome twosome would interupt our flow. Our resident geek had big plans for a gradual build up the 1st of January. As we pointed out yesterday, our resident geek talks a good game. The squad play a good game. It, fortunately, counts for more. So, no predictions as promised in the headline? No, that would be unfair? Oh, all right, in the interest of sports journalism
+ 
+ We predict this is going to be a far tighter run in to crowning the 2015/16 League Championship than we've had for the last 2 seasons ...
+ 
+ And at the end of the day, honestly? We thank you for the chase ...
+ 
+ ... we thank our sponsors, our supporters, our hard working volunteers, our online followers, our competitors. We thank you all, and we wish you all the very best for 2016.
+ 
+ COYR
  
  
