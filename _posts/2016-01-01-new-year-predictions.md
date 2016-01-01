@@ -72,6 +72,4 @@ Let's be honest, all the above flimflam may add to the anticipation of our next 
  
  ... we thank our sponsors, our supporters, our hard working volunteers, our online followers, our competitors. We thank you all, and we wish you all the very best for 2016.
  
- COYR
- 
- 
+ Come on you Reds! 
