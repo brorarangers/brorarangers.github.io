@@ -26,4 +26,4 @@ We'll say this again over the coming weeks, we don't apologise for repeating our
 
 *Update - 07/01/2016*
 
-**Formartine Utd have informed us that a pitch inspection will take place at 6pm on Friday 8th for this game. **
+**Formartine Utd have informed us that a pitch inspection will take place at 6pm on Friday 8th for this game.**
