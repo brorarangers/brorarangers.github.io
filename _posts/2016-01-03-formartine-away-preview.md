@@ -23,3 +23,6 @@ No doubt about it, we are right at the sharp end of a Battle Royal this season. 
 We'll say this again over the coming weeks, we don't apologise for repeating ourselves. It's a case of 'one game at a time' from here on in, and this is a huge game in our quest for 3 Highland League Championships in a row. This is a huge game in our quest to make history and be the first Highland League Club to gain entry to the SPFL through the Pyramid system.
 
 **This is a game where we need you to back the team in every way possible. Come and help us make history at North Lodge Park on Saturday 9th January.**
+
+*Update - 07/01/2016*
+**Formartine Utd have informed us that a pitch inspection will take place at 6pm on Friday 8th for this game. **
