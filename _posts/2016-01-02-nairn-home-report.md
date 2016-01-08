@@ -9,7 +9,10 @@ match-score: Brora Rangers 1-2 Nairn County
 image: true #images match file name.
 og: yes
 ---
-Nairn County defeated Brora Rangers very much against the odds at Dudgeon Park to throw the title race wide open. Although Brora had it in their own hands going into this match, Cove Rangers recent stumbles against Fraserburgh and Inverurie Locos means that Formartine United are now lurking menacingly in what is developing into a 3-way tussle for the crown. As such, Brora’s visit to Formartine on Saturday now assumes crucial importance in the destination of the title.
+Nairn County defeated Brora Rangers very much against the odds at Dudgeon Park to throw the title race wide open. 
+
+
+Although Brora had it in their own hands going into this match, Cove Rangers recent stumbles against Fraserburgh and Inverurie Locos means that Formartine United are now lurking menacingly in what is developing into a 3-way tussle for the crown. As such, Brora’s visit to Formartine on Saturday now assumes crucial importance in the destination of the title.
 
  
 Nairn had been beaten 4-1 at home by mid-table Keith in their previous match and Brora had thrashed Clach 10-1 at Grant Street so this result was against form and not many would have predicted it. Nairn lined up in a formation designed to contain free-scoring Brora, sitting back and trying to hit the Cattachs on the break. 
