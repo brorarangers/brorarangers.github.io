@@ -12,6 +12,6 @@ It was always unlikely that the warm breath from his muttering and repeated requ
 
 It is at this time of year that avoiding postponements can add to the advantage over our fellow challengers, and with Cove Rangers match against Wick Academy called off earlier today it was a chance for both Formartine Utd and ourselves to make hay whilst a wintry sun shone.
 
-However, it's not to be and tomorrow's meeting with fort William will be postponed until a later date. Along with those planning heading along to Cove v Wick, Keith v Turriff and Huntly v Buckie (so far) it's time to think about something else to occupy your Saturday afternoon.
+However, it's not to be and tomorrow's meeting with Fort William will be postponed until a later date. Along with those planning heading along to Cove v Wick, Keith v Turriff and Huntly v Buckie (so far) it's time to think about something else to occupy your Saturday afternoon.
 
 You don't need to think too hard about how to occupy yourself on the evening of the [19th February](/2016/01/15/hall-of-fame-dinner.html) though. 
