@@ -11,7 +11,7 @@ og: yes
 ---
 Brora Rangers secured a home semi final tie against Cove Rangers in the Breedon Aggregates League Cup after an amazing game at North Lodge Park, where they emerged victors in a ten goal thriller, after the dreaded penalty shoot out. 
 
-All 28 players who took part in the match, did themselves and their team proud, as too did the match officials who took a brave decision to play the match, despite a saturated and in parts waterlogged pitch. The elements did not relent throughout the game, with rain, sleet and snow and a barbarous northeast wind adding to the playing difficulties. 
+All 28 players who took part in the match did themselves and their team proud, as too did the match officials who took a brave decision to play the match, despite a saturated and in parts waterlogged pitch. The elements did not relent throughout the game, with rain, sleet and snow and a barbarous northeast wind adding to the playing difficulties. 
 
 Brora started the brighter and had the best of the early chances with Sutherland and Brindle both forcing saves from the Formartine keeper. 
 
