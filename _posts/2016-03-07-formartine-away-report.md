@@ -43,7 +43,7 @@ Right to script, Formartine failed to clear their lines, and Colin Williamson wa
 
 There was still another drama to be played out, as turning to run back to his own goal, Joe Malin twisted his knee and incurred an injury which was to see him replaced early in extra time. 
 
-After 93 amazing minutes referee Thomas Shaw brought this most compelling of ties to a close and subject the twenty-two players to another gruelling 30 minutes of herculean effort. 
+After 93 amazing minutes referee David Watt brought this most compelling of ties to a close and subject the twenty-two players to another gruelling 30 minutes of herculean effort. 
 
 Within 5 minutes of the start of the extra period it was evident that Joe Malin could no longer continue and Richard Brittain had to make emergency changes. John Macleod was marshalled in between the sticks as Brora were reduced to ten men. 
 
