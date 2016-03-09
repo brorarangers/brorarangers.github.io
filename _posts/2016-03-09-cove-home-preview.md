@@ -15,6 +15,7 @@ Hoodoo or not, here's the opportunity to keep the chance of a Highland League do
 This competition has thrown up some fantastic games for the supporters of both teams on the way to this game, with Cove edging out last season's runners up, Wick Academy, 4-3 in the first round and squeezing past Forres 2-1 in the second round after extra time. Despite the 4-1 scoreline in our 1st round victory over Inverurie Loco Works, it was a tough game with plenty for both sets of fans to get excited over. Last week's match will probably be the subject of much reminiscence for all who were a part of it, not least our new star goalkeeper.
 
 Both clubs will no doubt have half an eye on the Quarter Final game at Grant Street Park tonight where Clachnacuddin take on Nairn County to see who meets Turriff Utd in the other semi final.
+(Edit: Clachnacuddin 2-1 Nairn County. )
 
 It's another chance to see Brora Rangers write themselves a new chapter in their history as we strive to pick up new trophy, it's another chance for the supporters to answer the rallying call of Richie Brittain and Sid Mackay and get behind the squad for what promises to be a closely contested and entertaining match. 
 
