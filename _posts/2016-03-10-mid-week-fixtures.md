@@ -59,4 +59,4 @@ Leaving some extremely exiting fixtures to be arranged for the top 3.
 
 There are some season defining matches in amongst that list. It's the final run in for the hopeful 2015/16 Highland League Champions, and either ourselves or Cove will be looking at a Highland League Cup Final game to fit in somewhere too. No doubt about it, if Mother Nature plays her part the games will be coming thick and fast over the next few weeks. 
 
-**Get your diaries at the ready, polite excuses planned, time off booked, Wedding Anniversaries postponed, Birthday celebrations cancelled and the Wednesday night Pot Noodle dinners organised. It's going to be an exciting finish to the season, and we don't want you to miss being a part of it**
+**Get your diaries at the ready, polite excuses planned, time off booked, Wedding Anniversaries postponed, Birthday celebrations cancelled and the Wednesday night Pot Noodle dinners organised. It's going to be an exciting finish to the season, and we don't want you to miss being a part of it.**
