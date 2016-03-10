@@ -4,7 +4,7 @@ layout: post
 title: New Fixture Dates
 description: The Highand League have announced new fixtures for Wednesday 16th March.
 match-date:
-image: no
+image: yes
 og: yes
 ---
 It's back to League business on Wednesday 16th March as we welcome Fort William FC to Dudgeon Park. 
