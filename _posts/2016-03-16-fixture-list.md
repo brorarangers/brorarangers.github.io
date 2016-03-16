@@ -13,7 +13,7 @@ The League Secretary released the following schedule last night:
 
 **Saturday 19/3/2016**
 
- - **Press & Journal Highland League**
+ - *Press & Journal Highland League*
  
  - **Brora Rangers** v Inverurie Loco Works
  - Buckie Thistle v Deveronvale
@@ -27,7 +27,7 @@ The League Secretary released the following schedule last night:
  
 **Wednesday 23/3/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
 
  - Clachnacuddin v Fort William
  - Cove Rangers v Deveronvale - North Lodge Park, Pitmedden
@@ -37,7 +37,7 @@ The League Secretary released the following schedule last night:
  
 **Saturday 26/3/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - Clachnacuddin v Lossiemouth
  - Deveronvale v Wick Academy
@@ -49,7 +49,7 @@ The League Secretary released the following schedule last night:
  
 **Wednesday 30/3/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - **Brora Rangers** v Huntly
  - Cove Rangers v Strathspey Thistle – Venue to be confirmed
@@ -59,7 +59,7 @@ The League Secretary released the following schedule last night:
  
 **Saturday 02/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - Clachnacuddin v Forres Mechanics
  - Deveronvale v Keith
@@ -73,7 +73,7 @@ The League Secretary released the following schedule last night:
  
 **Wednesday 06/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - Cove Rangers v Formartine United – Harlaw Park, Inverurie
  - Forres Mechanics v **Brora Rangers**
@@ -81,11 +81,11 @@ The League Secretary released the following schedule last night:
  
 **Saturday 09/4/2016**
 
- - Breedon Aggregate Highland League Cup
+ - *Breedon Aggregate Highland League Cup*
 
  - **Brora Rangers** v Nairn County – Grant Street Park, Inverness
  
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - Deveronvale v Huntly
  - Formartine United v Clachnacuddin
@@ -96,7 +96,7 @@ The League Secretary released the following schedule last night:
  
 **Wednesday 13/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - Clachnacuddin v Cove Rangers
  - Fraserburgh v Turriff United
@@ -105,7 +105,7 @@ The League Secretary released the following schedule last night:
  
 **Saturday 16/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
  
  - **Brora Rangers** v Deveronvale
  - Buckie Thistle v Rothes
@@ -119,14 +119,15 @@ The League Secretary released the following schedule last night:
  
 **Wednesday 20/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
+ 
  - Clachnacuddin v Huntly
  - Forres Mechanics v Buckie Thistle
  - Fort William v Nairn County
  
 **Saturday 23/4/2016**
 
- - Press & Journal Highland League
+ - *Press & Journal Highland League*
 
  - Clachnacuddin v Nairn County
  - Deveronvale v Forres Mechanics
