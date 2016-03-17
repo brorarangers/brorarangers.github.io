@@ -14,7 +14,7 @@ More recently we dumped the Locos out of the Highland League Cup with a 4-1 win 
 
 Currently sitting in 5th place, Inverurie come into this game from a 2 goal defeat to our Northern Neighbours at Harmsworth Park last weekend, but let's not forget that this is the team that handed defeat to Cove Rangers in a 3-4 away victory at the start of 2016.
 
-So far Judith Ralston has failed to promise a sunny afternoon, but it should be dry and calm, perfect conditions for two sides who are always looking for the opportunity to go forward and play attractive football. It's game number 28 our our current League campaign, and we are still sitting pretty at the top of the table. Get yourself along to Dudgeon Park for a 3pm kick off on Saturday and back the boys to help keep us there.
+So far Judith Ralston has failed to promise a sunny afternoon, but it should be dry and calm, perfect conditions for two sides who are always looking for the opportunity to go forward and play attractive football. It's game number 28 in our current League campaign, and we are still sitting pretty at the top of the table. Get yourself along to Dudgeon Park for a 3pm kick off on Saturday and back the boys to help keep us there.
 
 ![The Chuff Chuffs making sweet sweet music at Dudgeon Park]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-1.jpg){: .responsive-img .z-depth-2 .post-image}
 
