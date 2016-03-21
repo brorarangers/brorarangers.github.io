@@ -14,4 +14,4 @@ It's down to our last 6 League games for the 2015/16 season and every game is vi
 
 Our last meeting back in October saw Brora run out 3-0 winners with 2 goals from Paul Brindle and Colin Williamson grabbing his first goal of the season. Our last visit to Seafield Park saw a goalfest with Steven Mackay, Scott Graham, Dale Gillespie and Martin Maclean all finding the net with 7 goals between them.
 
-It's all to play for at the top of the table, and no-one can take anythng for granted. It's looking like a dry clear night on Grantown-on-Spey and a strong away support is just the thing to help the lads keep this title challenge alive and kicking.
+It's all to play for at the top of the table, and no-one can take anythng for granted. It's looking like a dry clear night in Grantown-on-Spey and a strong away support is just the thing to help the lads keep this title challenge alive and kicking.
