@@ -15,6 +15,6 @@ The visitors created the first half chance in the opening minutes when Andy Hunt
 
 Despite more chances at both ends, the single goal separated the two teams at half time.
 
-Inverurie started the second half strongly, and scored their equaliser within 5 minutes of the restart with Laing being rewarded for a well timed run into the back post. Despite battling play from both sides, a Charlesworth header crossing the line but adjudged offside, a succession of corners from Brora and Zander, Steven Mackay and John McLeod all coming off the bench in an attempt to find the elusive winning goal, 1-1 was how the game ended.
+Inverurie started the second half strongly, and scored their equaliser within 5 minutes of the restart with Laing being rewarded for a well timed run into the back post. Despite battling play from both sides, a Charlesworth header crossing the line but adjudged offside, a succession of corners from Brora plus Zander, Steven Mackay and John McLeod all coming off the bench in an attempt to find the elusive winning goal, 1-1 was how the game ended.
 
 Neither side is likely to look back on this game as containing their finest football moments, but  there was certainly no quarter asked or given in the fight to claim the 3 points.
