@@ -2,7 +2,7 @@
 section: match
 subsection:
 layout: post
-title: Brora stay in top spot
+title: Locos share the spoils at Dudgeon Park
 description: As if the battle for top spot wasn't tight enough, a 1-1 draw at home against Inverurie Loco Works leaves Brora looking for favourable results elsewhere.
 match-date: 16th March 2016
 match-score: Brora Rangers 4-2 Fort William
