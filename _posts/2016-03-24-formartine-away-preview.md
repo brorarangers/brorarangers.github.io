@@ -12,7 +12,7 @@ Goal difference saw us regain the top spot again the following Saturday. Our fir
 
 An unbeaten run since then, draws and losses for Formartine against the other early title challengers, and a Scottish Cup run for Cove Rangers, saw us regain the league leader position after a 4-0 victory over Buckie Thistle in mid November. And there we have stayed. Brora have resolutely held on to the top spot since our 19th game of the season.
 
-Since reclaiming the top spot it's been the roller coaster ride that brings out the best in all competitions; a 2-0 victory at home over Cove, a fantastic 6-0 victoy over Fraserburgh, the incredible 1-10 Boxing Day display at Grant Street Park ... a shock defeat to an organised Nairn County, a succession of postponed games due to frozen and waterlogged pitches and last week's nail-biting 1-1 draw against the Locos.
+Since reclaiming the top spot it's been the roller coaster ride that brings out the best in all competitions; a 2-0 victory at home over Cove, a fantastic 6-0 victory over Fraserburgh, the incredible 1-10 Boxing Day display at Grant Street Park ... a shock defeat to an organised Nairn County, a succession of postponed games due to frozen and waterlogged pitches and last week's nail-biting 1-1 draw against the Locos.
 
 And it all leads us to this ...
 
