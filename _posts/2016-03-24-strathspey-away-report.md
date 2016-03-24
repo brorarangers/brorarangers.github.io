@@ -5,7 +5,7 @@ layout: post
 title: Back to form Brora bag six 
 description: Brora comfortably overcame an in-form Strathspey Thistle team 6-1 at Grantown on Spey on Wednesday evening.
 match-date: 23rd March 2016
-match-score: Strthpey Thistle 1-6 Brora Rangers
+match-score: Strathspey Thistle 1-6 Brora Rangers
 image: true
 og: yes
 ---
