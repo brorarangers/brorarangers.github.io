@@ -10,7 +10,7 @@ It seems like a long, long time since we travelled to Christie Park on a dark, w
 
 Our Hogmanay article described the attitude of the squad at that game as a turning point. Their fighting spirit and never say die display was a talking point amongst many of the Brora support. Little did we realise then just how crucial that refusal to accept a game is over until the final whistle is blown would be as March 2016 rolled around. The photo above could be titled *'The Agony and the Ecstasy'*. It's been a familiar emotion over the past weeks.
 
-Our 2-3 away victory over Huntly in October kicked off a 13 game winning streak for the Cattachs in the League. Huntly didn't win in the League in their next 12 matches.
+Our 2-3 away victory over Huntly in October kicked off a 13 game winning streak for the Cattachs in the League. Huntly didn't record win in the League in their next 12 matches.
 
 That's football for you, the Agony and the Ecstasy. Mark Gray and Douglas Baxter have masterminded a Huntly resurgance this March. A 2-2 draw against 7th placed Nairn County, another 2-2 draw against 8th place Fraserburgh, a 3-1 victory over 12th place Lossiemouth and this season's obligatory victory at Rothes. Much as they did against us on that wet Wednesday in October, Huntly FC are paying scant regard to League positions just now.
 
