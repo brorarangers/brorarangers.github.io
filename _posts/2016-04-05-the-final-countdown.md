@@ -7,6 +7,8 @@ match-date: 9th April 2016
 image: no
 og: yes
 ---
+#### Coincidence, Providence and Tenuous Links
+
 Let's turn the clock back a few years. 35 years in fact, to the 1980/81 footballing season. In football terms, Celtic topped the Premier Division, with Aberdeen snapping at their heels. Kilmarnock finished 2nd to bottom and suffered the subsequent relegation to Division 1, swapping places with a victorious Hibernian. Gordon Strachan was pulling on his boots (and scoring) for the National Squad rather than the manager's jacket, and Peterhead were up against a formidable Rangers side in a Cup Final.
 
 **The formidable Brora Rangers, in the Highland League Cup Final.**
