@@ -23,7 +23,7 @@ As the half  progressed the Reds became even more dominant and both Brown and Ma
 
 The game was quite physical with Wick attracting 4 yellow cards before half time, as they struggled to get to grips with a fluent and composed Brora side. 
 
-Brora started the second period in a composed and attacking style, and with the slope and wind at their backs, were looking to quickly add to their tally. Possibly  due to the slope and the ball running away from them, the Brora front line found it difficult to control and hold the ball, and the Cattachs best chances were restricted to long range efforts from Munro, Gillespie, Brown and Maclean. 
+Brora started the second period in a composed and attacking style, and with the slope and wind at their backs, were looking to quickly add to their tally. Possibly  due to the slope and the ball running away from them, the Brora front line found it difficult to control and hold the ball, and the Cattachs best chances were restricted to long range efforts from Munro, Gillespie and Maclean. 
 
 In keeping with the physicality of the first half, no quarter was being given, and it was of no surprise whatsoever when Allen received his marching orders from the referee for raising a hand to Martin Maclean. 
 
