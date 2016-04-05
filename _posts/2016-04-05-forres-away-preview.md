@@ -32,4 +32,4 @@ Determination from a squad who have fought valiantly throughout the season and m
  
 Belief from a squad who are only days away from the opportunity to rewrite Highland League and Brora Rangers history yet again in a League Cup Final, belief from those who bring the defiant splash of red to terraces around the league that this is a team who won't lie down.
  
-If that all sounds a bit like a sabre rattling war cry, good. This isn't a *nothing game*.
+If that all sounds a bit like a sabre rattling war cry, good. **This isn't a *nothing game*.**
