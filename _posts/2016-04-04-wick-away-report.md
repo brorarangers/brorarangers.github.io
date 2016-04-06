@@ -11,7 +11,7 @@ og: yes
 ---
 Brora Rangers ambitions to lift a third Press and Journal League title were dealt a near fatal blow at local derby rivals Wick, when the Caithness men netted twice in the last 15 minutes to level the match at 2-2 and deprive Brora of the win they needed to keep the league challenge alive. 
 
-For the second game in succession Brora lost concentration and shape in the last quarter hour of the match, and on Saturday this cost them the win they so dearly needed and very much deserved. However "with many a slip between and lip", 10 man Wick managed to capitalise on the Brora slackness and salvage a point. 
+For the second game in succession Brora lost concentration and shape in the last quarter hour of the match, and on Saturday this cost them the win they so dearly needed and very much deserved. However "with many a slip between cup and lip", 10 man Wick managed to capitalise on the Brora slackness and salvage a point. 
 
 The day in the far north was pleasantly spring like, and the good weather had brought out a crowd well north of 1000, including another healthy contingent of travelling Cattach supporters. 
 
