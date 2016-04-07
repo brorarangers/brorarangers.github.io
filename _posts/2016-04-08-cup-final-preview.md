@@ -36,7 +36,7 @@ Wednesday night saw a dominant Brora side dismantle Forres 0-3 at Mosset Park. T
 
 So, for those of a nervous disposition who scrolled forward from our sixth paragraph, it's the Breedon Aggregates Highland League Cup Final on Saturday 9th April. Grant Street Park, Inverness, Brora Rangers against Nairn County, kick-off at 3pm. Recent results probably count for little, past glories count for nothing. Saturday's result means everything. Launceston Elliot was the first man to win an Olympic Medal for the one handed lift. This Brora Rangers squad can become the first to lift the Highland League Cup. We don't care how many hands they use.
 
-That's been a lot of lifting. However, if there is one thing we have unswerving confidence in, it's the Red Army's dedication to lifting.
+That's been a lot of lifting. However, if there is one thing we have unswerving confidence in, it's the Red Army's dedication to lifting, and celebrating, cups.
 
 ![The Brora Rangers celebrating previous trophies]({{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}-3.jpg){: .responsive-img .z-depth-2 .post-image}
 
