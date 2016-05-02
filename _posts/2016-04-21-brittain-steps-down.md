@@ -9,7 +9,7 @@ og: yes
 ---
 The Board of Brora Rangers have reluctantly accepted the resignation of Richard Britain as team manager with immediate effect. 
 
-Brittain said that "he was sorry to be stepping down after just one season, but occupational activities and family commitments meant that he could not dedicate the time required to fulfil the heavy preseason activities that were necessary."
+Brittain said that he was "sorry to be stepping down after just one season, but occupational activities and family commitments meant that he could not dedicate the time required to fulfil the heavy preseason activities that were necessary."
 
 Speaking on behalf of the Board, William Powrie paid tribute to Richard's endeavours throughout the season, which delivered a top three finish in the Press & Journal Highland League and saw the club win the Highland League Cup for the first time in the club's history. 
 
