@@ -1,7 +1,7 @@
 ---
 section: next
 layout: post
-title: Pe Season Matches
+title: Pre Season Matches
 description: Pre season game time always seems that little bit more important when a new management team takes the helm.
 image: no
 og: yes
