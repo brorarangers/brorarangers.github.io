@@ -2,7 +2,7 @@
 section: news
 layout: post
 title: IRN-BRU Cup
-description: Ins and outs at Dudgeon Park ahead of the new season
+description: Brora Rangers get ready for the IRN-BRU Cup draw on Thursday 23rd June
 image: yes
 og: yes
 ---
