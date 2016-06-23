@@ -10,7 +10,7 @@ Sometimes cup draws throw up ties that have that extra special sparkle about the
 
 **Or perhaps an occasion to renew an old rivalry.**
 
-The draw for the first round of the IRN-Bru Cup took place this morning at Hampden Park.
+The draw for the first round of the IRN-BRU Cup took place this morning at Hampden Park.
 
 **North Section**
  
