@@ -2,7 +2,7 @@
 section: news
 layout: post
 title: Grant Munro appointed Team Manager
-description: Grant Munro is appointed Team Manager at brora Rangers FC
+description: Grant Munro is appointed Team Manager at Brora Rangers FC
 image: no
 og: yes
 ---
