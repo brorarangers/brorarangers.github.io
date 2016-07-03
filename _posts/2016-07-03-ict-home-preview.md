@@ -14,4 +14,4 @@ In last season's pre-season fixture ICT ran out 3-0 winners. After our match las
 
 With the recent changes in the Brora Boardroom and Management and Coaching staff, the welcome addition of James Ross to our back line and negotiations progressing with other squad signings things are looking bright at Brora Rangers. Now is the time for the support to mobilise and ensure we are all prepared for a highly competitive season ahead.
 
-We'll see you all at Dudgeon Park for a 7:45pm kick off and a game that is highly unlikely to disappoint.
+We'll see you all at Dudgeon Park for a 7:30pm kick off and a game that is highly unlikely to disappoint.
