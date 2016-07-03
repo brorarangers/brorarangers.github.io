@@ -1,0 +1,17 @@
+---
+section: next
+layout: post
+title: Brora Rangers v Inverness Caledonian Thistle
+description: It's our first game at home in a series of pre-season friendlies.
+image: yes
+og: yes
+---
+The last time Richie Foran came to play at Dudgeon Park it was as a Scottish Cup winning member of John Hughes team. This season he returns as the Inverness Caledonian Thistle Manager.
+
+Whilst ICT headed to Fraserburgh for the William West Testimonial match last weekend, this will be the first chance Richie has to get a look at his potential first team line up in a more competitive game.
+
+In last season's pre-season fixture ICT ran out 3-0 winners. After our match last Saturday against Forfar Athletic we are predicting a somewhat tighter affair this time round.
+
+With the recent changes in the Brora Boardroom and Management and Coaching staff, the welcome addition of James Ross to our back line and negotiations progressing with other squad signings things are looking bright at Brora Rangers. Now is the time for the support to mobilise and ensure we are all prepared for a highly competitive season ahead.
+
+We'll see you all at Dudgeon Park for a 7:45pm kick off and a game that is highly unlikely to disappoint.
