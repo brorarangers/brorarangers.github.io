@@ -21,4 +21,4 @@ Despite it being a preseason friendly, the match was played in a competitive man
 
 Brora took the lead after 56 minutes, when Craig Campbell poked home, whilst Polworth netted for ICT with just 2 minutes of the match remaining. 
 
-Next up for Brora is a fixture against Ross County on Tuesday evening at Dingwall. Again it is a testimony to the regard that Brora Rangers are held that another SPL club want to look at their first team squad as they prepare for their season in the top flight. 
+Next up for Brora is a fixture against Inverness City on Saturday 16th July. 
