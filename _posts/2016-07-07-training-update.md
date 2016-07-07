@@ -2,13 +2,13 @@
 section: news
 layout: post
 title: Thursday Evening Horseplay
-description: The Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley on Tuesday night
+description: The Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley Thistle on Tuesday night
 image: yes
 og: yes
 ---
-Under the watchful eye of Ally Macleod, the Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley on Tuesday night.
+Under the watchful eye of Ally Macleod, the Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley Thistle on Tuesday night.
 
-Great to see Zander Sutherland back in full training, although Gavin Morrison was confined to running and exercise duties.
+It was great to see Zander Sutherland back in full training, although Gavin Morrison was confined to running and exercise duties.
 
 Speaking in a break from his goalkeeping duties, Joe Malin paid tribute to his team mates. "It was hard on the lads facing Forfar and Inverness as our first brace of pre-season friendlies. All credit to them as most of them had to play 90 minutes".
 
