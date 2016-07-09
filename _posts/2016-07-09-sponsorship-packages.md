@@ -38,7 +38,7 @@ Hospitality for 4 people at 2 SHFL Games
 
 1 Pitchside Advertising Board
 
-Quarter Page Programme Advert (3 Upgrades to Half Page) plus full Website exposure
+Quarter Page Programme Advert (3 Upgrades to Half Page) plus full website exposure
 
 Hospitality for 4 people at 1 SHFL Game
 
