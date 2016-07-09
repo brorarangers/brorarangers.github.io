@@ -46,7 +46,7 @@ Hospitality for 4 people at 1 SHFL Game
 
 ##### Pitchside Advertising Board:
 
-£350 per season, which includes Artwork and production of Board.
+£350 per season, which includes artwork and production of board.
 
 Plus full exposure on our website.
 
@@ -60,6 +60,6 @@ Plus full exposure on our website.
 
 Plus full exposure on our website.
 
-**Generous discounts of 20% for pitchside and programme advertising.**
+**Generous discounts of 20% for combined pitchside and programme advertising.**
 
 Please contact Dale Pride-MacDonald at [dale_john31@hotmail.com](mailto: dale_john31@hotmail.com) or [07436925747](tel:07436925747) to discuss how best we can help you.
