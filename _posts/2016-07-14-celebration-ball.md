@@ -2,7 +2,7 @@
 section: news
 layout: post
 title: Brora Rangers Celebration Ball
-description: It will come with a great sense of relief to Cattach fans that John Pickles, who had to leave the pitch with a nasty looking knock on Tuesday night, is not seriously injured. 
+description: Following the great success of our previous events, Brora Rangers are delighted to announce that we are holding a Sportsman's Dinner and Celebration Ball at the top venue in Inverness, The Kingsmills Hotel on Friday 2nd September 2016.
 image: no
 og: yes
 ---
