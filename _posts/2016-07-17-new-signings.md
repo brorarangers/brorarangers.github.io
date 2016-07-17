@@ -6,6 +6,8 @@ description: Brora Rangers are delighted to announce the extension of contracts 
 image: no
 og: yes
 ---
+Brora Rangers are delighted to announce the extension of contracts to two club stalwarts and the signing of two new players.
+
 Key midfielder Dale Gillespie, has extended his contract until 2019, and top striker Steven Mackay has signed a further two year deal taking him up to 2018.
 
 Club Manager Grant Munro was delighted that the pair have committed themselves to the club and it is further evidence of the ambitions of Brora Rangers. Gillespie commented “I’ve thoroughly enjoyed my time here at Brora, and have enjoyed great success. I’m determined to play my part in returning the Press and Journal Highland League flag to Dudgeon Park." His colleague 'Sid' Mackay was equally delighted at the new contract and with him hopefully not being abroad with his work so frequently during the coming season, we can expect to see him banging in the goals as usual.
