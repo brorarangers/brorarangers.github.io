@@ -3,7 +3,7 @@ section: news
 layout: post
 title: Alan Pollock signs for Brora
 description: Brora Rangers are delighted to announce the signing of Alan Pollock from Nairn County.
-image: no
+image: yes
 og: yes
 ---
 Brora Rangers are delighted to announce the signing of Alan Pollock from Nairn County.
