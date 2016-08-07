@@ -17,8 +17,8 @@ Brora started the match brightly, but their finishing was well below par with fa
 
 The second period saw a distinct change of tactics from Steven MacDonald, and Brora played a much more ground passing game, and very quickly dominated the match.
 
-Three second half goals from Campbell, Gillespie ( Pen) and Brindle carried Brora over the line, whilst at the other end Joe Malin had but a few long range polks to deal with.
+Three second half goals from Campbell, Gillespie ( Pen) and Brindle carried Brora over the line, whilst at the other end Joe Malin had but a few long range pokes to deal with.
 
-Forres will be tough opposition to many teams this year, and this win was perhaps a much better result than perhaps first thought.
+Forres will be tough opposition to many teams this year, and this win was perhaps a much better result than first thought.
 
 Full Match report with pictures to follow.
