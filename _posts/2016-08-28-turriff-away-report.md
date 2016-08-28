@@ -4,7 +4,7 @@ subsection:
 layout: post
 title: Brora on the Move 
 description: Brora Rangers headed back north with a comfortable but unspectacular win against a Turriff side who were set up to have an emphasis on defence.
-match-date: 20th August 2016
+match-date: 27th August 2016
 match-score: Turriff Utd 0-1 Brora Rangers
 image: yes
 og: yes
