@@ -5,8 +5,9 @@
     {% for post in posts limit:4 %}
         <li class="collection-item">
             <h6><a href="{{ post.url }}" class="{{ site.primary_team_colour }}-text text-darken-4"><strong> {{ post.title }}</strong><span style="font-size:0.6em;float:right;">Read more ...</span></a></h6>
+
             {% if post.sub-section == 'spotlight' %}
-            <p>The Man In Red</p>
+            <p class="truncate">{{ post.excerpt | strip_html }}</p>
             {% elsif post.sub-section == 'sponsor' %}
             <p>Sponsor Spotlight</p>
             {% else %}
