@@ -8,7 +8,7 @@ og: yes
 ---
 Brora Rangers hope to keep their fantastic winning run firmly on track this Saturday as the Locos trundle into town.
 
-Locos currently lie a lowly 14th in the League table, but that should fool nobody. They've taken a point home from their travels to Forres, Rothes and Wick; and only Turriff Utd have succeeded in beating them by more than a single goal. 
+Locos currently lie a lowly 13th in the League table, but that should fool nobody. They've taken a point home from their travels to Forres, Rothes and Wick; and only Turriff Utd have succeeded in beating them by more than a single goal. 
 
 Locos manager, Scott Buchan, will be without Inverurie stalwart Kenny Coull by his side in the dugout this time round after Kenny's resignation at the end of last month. They have since signed former Aberdeen striker as a player/coach and we all know how a change in coaching staff can reignite a squads fortunes.
 
