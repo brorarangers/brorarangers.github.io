@@ -159,6 +159,9 @@
   @include media(600px) {
     width: 50%;
   }
+  @include media($second-break) {
+    width: 90%;
+  }
   @include media($third-break) {
     width: 95%;
   }
@@ -169,6 +172,16 @@
   background-color: lighten($secondary-color, 80%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 0.75em;
+  @include media($second-break) {
+    @include span-columns(6);
+    @include omega();
+    margin: 0 0.15em 0.75em 0.15em;
+  }
+  @include media($third-break) {
+    @include span-columns(12);
+    //@include omega();
+    margin: 0 0.15em 0.75em 0.15em;
+  }
 }
 
 .list-image {

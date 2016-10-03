@@ -50,7 +50,7 @@ banner: news
     <h2>You may have missed</h2>
   </div>
   <section class="article-list">
-{% for post in site.posts limit: 4 %}
+{% for post in site.posts limit: 5 %}
 {% unless post.url == page.url %}
     <ul class="list-item">
     <li class="list-image">
