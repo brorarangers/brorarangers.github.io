@@ -1,0 +1,1297 @@
+- season: 2016
+  fixtures:
+    - date: 15-04-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fort William
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 01-04-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Strathspey Thistle
+      home-score:
+      away-score:
+      comment:
+    - date: 18-03-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Clachnacuddin
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 04-03-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Formartine Utd
+      home-score:
+      away-score:
+      comment:
+    - date: 18-02-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Keith
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 11-02-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: League Cup
+      home-team:
+      away-team:
+      home-score:
+      away-score:
+      home-score-aet:
+      away-score-aet:
+      home-score-pens:
+      away-score-pens:
+      comment:
+    - date: 04-02-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Buckie Thistle
+      home-score:
+      away-score:
+      comment:
+    - date: 28-01-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fraserburgh
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 21-01-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Deveronvale
+      home-score:
+      away-score:
+      comment:
+    - date: 14-01-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score:
+      away-score:
+      comment:
+    - date: 07-01-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Inverurie Loco Works
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 31-12-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Huntly
+      home-score:
+      away-score:
+      comment:
+    - date: 24-12-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Lossiemouth
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 17-12-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Turriff Utd
+      home-score:
+      away-score:
+      comment:
+    - date: 10-12-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Rothes
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 03-12-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 26-11-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 19-11-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Nairn County
+      home-score:
+      away-score:
+      comment:
+    - date: 12-11-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fort William
+      home-score:
+      away-score:
+      comment:
+    - date: 05-11-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 29-10-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Clachnacuddin
+      home-score:
+      away-score:
+      comment:
+    - date: 22-10-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Brora Rangers
+      away-team: Clyde
+      home-score:
+      away-score:
+      comment:
+    - date: 15-10-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 08-10-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Keith
+      home-score:
+      away-score:
+      comment:
+    - date: 05-10-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Buckie Thistle
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 01-10-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fraserburgh
+      home-score: 2
+      away-score: 0
+      comment:
+    - date: 24-09-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Fort William
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 4
+      comment:
+    - date: 17-09-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Deveronvale
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 2
+      comment:
+    - date: 14-09-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Wick Academy
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 2
+      comment:
+    - date: 10-09-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Inverurie Loco Works
+      home-score: 2
+      away-score: 2
+      comment:
+    - date: 03-09-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Huntly
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 6
+      comment:
+    - date: 31-08-2016
+      kickoff: "20:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Lossiemouth
+      home-score: 7
+      away-score: 0
+      comment:
+    - date: 27-08-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Turriff Utd
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 1
+      comment:
+    - date: 20-08-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Rothes
+      home-score: 5
+      away-score: 0
+      comment:
+    - date: 16-08-2016
+      kickoff: "19:45"
+      venue:
+      competition: IRN-BRU Cup
+      home-team: Peterhead
+      away-team: Brora Rangers
+      home-score: 3
+      away-score: 2
+      comment:
+    - date: 13-08-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Cove Rangers
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 1
+      comment:
+    - date: 06-08-2016
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Forres Mechanics
+      home-score: 3
+      away-score: 0
+      comment:
+    - date: 02-08-2016
+      kickoff: "20:00"
+      venue:
+      competition: IRN-BRU Cup
+      home-team: Ross County U20
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 3
+      comment:
+    - date: 30-07-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 4
+      comment:
+    - date: 23-07-2016
+      kickoff: "15:00"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Kelty Hearts
+      home-score: 0
+      away-score: 2
+      comment:
+    - date: 16-07-2016
+      kickoff: "14:00"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Inverness City
+      home-score: 4
+      away-score: 0
+      comment:
+    - date: 05-07-2016
+      kickoff: "19:30"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Inverness Caledonian Thistle
+      home-score: 1
+      away-score: 1
+      comment:
+    - date: 02-07-2016
+      kickoff: "15:00"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Forfar Athletic
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 1
+      comment:
+###############################
+- season: 2015
+  fixtures:
+    - date: 16-04-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Deveronvale
+      home-score: 2
+      away-score: 1
+    - date: 09-04-2016
+      kickoff: "15:00"
+      venue: Grant St Park
+      competition: Highland League Cup
+      home-team: Brora Rangers
+      away-team: Nairn County
+      home-score: 0
+      away-score: 0
+      home-score-aet: 0
+      away-score-aet: 0
+      home-score-pens: 5
+      away-score-pens: 4
+    - date: 06-04-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 3
+    - date: 02-04-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Wick Academy
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 2
+    - date: 30-03-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Huntly
+      home-score: 4
+      away-score: 3
+    - date: 26-03-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score: 3
+      away-score: 3
+    - date: 23-03-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 6
+    - date: 19-03-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Inverurie Loco Works
+      home-score: 1
+      away-score: 1
+    - date: 16-03-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fort William
+      home-score: 4
+      away-score: 2
+    - date: 12-03-2016
+      kickoff: "15:00"
+      venue:
+      competition: Highland League Cup
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      home-score: 1
+      away-score: 1
+      home-score-aet: 2
+      away-score-aet: 2
+      home-score-pens: 3
+      away-score-pens: 1
+    - date: 05-03-2016
+      kickoff: "15:00"
+      venue:
+      competition: Highland League Cup
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score: 5
+      away-score: 5
+      home-score-aet: 5
+      away-score-aet: 5
+      home-score-pens: 3
+      away-score-pens: 5
+    - date: 02-03-2016
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fort William
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 27-02-2016
+      kickoff: "15:00"
+      venue:
+      competition: Highland League Cup
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 20-02-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 13-02-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 06-02-2016
+      kickoff: "15:00"
+      venue:
+      competition: Highland League Cup
+      home-team: Brora Rangers
+      away-team: Inverurie Loco Works
+      home-score: 4
+      away-score: 1
+    - date: 30-01-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Huntly
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 23-01-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Turriff Utd
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 3
+    - date: 16-01-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fort William
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 09-01-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment:
+
+    - date: 02-01-2016
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Nairn County
+      home-score: 1
+      away-score: 2
+    - date: 26-12-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Clachnacuddin
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 10
+    - date: 19-12-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fraserburgh
+      home-score: 6
+      away-score: 0
+    - date: 12-12-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      home-score: 2
+      away-score: 0
+    - date: 05-12-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Keith
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 6
+    - date: 21-11-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Rothes
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 7
+    - date: 18-11-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Buckie Thistle
+      home-score: 4
+      away-score: 0
+    - date: 14-11-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Lossiemouth
+      home-score: 2
+      away-score: 0
+    - date: 11-11-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score: 3
+      away-score: 1
+    - date: 07-11-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Deveronvale
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 2
+    - date: 31-10-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Inverurie Loco Works
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 1
+    - date: 24-10-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Brora Rangers
+      away-team: Arbroath
+      home-score: 1
+      away-score: 2
+    - date: 17-10-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Forres Mechanics
+      home-score: 6
+      away-score: 0
+    - date: 10-10-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Strathspey Thistle
+      home-score: 3
+      away-score: 0
+    - date: 07-10-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Huntly
+      away-team: Brora Rangers
+      home-score: 2
+      away-score: 3
+    - date: 03-10-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Turriff Utd
+      home-score: 1
+      away-score: 1
+    - date: 19-09-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fort William
+      away-team: Brora Rangers
+      home-score: 3
+      away-score: 5
+    - date: 12-09-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Formartine Utd
+      home-score: 0
+      away-score: 2
+    - date: 09-09-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 7
+    - date: 05-09-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Clachnacuddin
+      home-score: 3
+      away-score: 0
+    - date: 29-08-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fraserburgh
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 2
+    - date: 22-08-2015
+      kickoff: "15:00"
+      venue: Harlaw Park
+      competition: Scottish Highland Football League
+      home-team: Cove Rangers
+      away-team: Brora Rangers
+      home-score: 3
+      away-score: 0
+    - date: 15-08-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Keith
+      home-score: 4
+      away-score: 1
+    - date: 08-08-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Buckie Thistle
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 8
+    - date:  01-08-2015
+      kickoff: "15:00"
+      venue:
+      competition:  Scottish Highland Football League
+      home-team:  Brora Rangers
+      away-team:  Rothes
+      home-score: 11
+      away-score: 0
+    - date: 29-07-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Lossiemouth
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 3
+    - date: 25-07-2015
+      kickoff: "15:00"
+      venue:
+      competition: Petrofac Training Cup
+      home-team: Brora Rangers
+      away-team: Alloa Athletic
+      home-score: 0
+      away-score: 1
+    - date: 22-07-2015
+      kickoff: "29:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score: 1
+      away-score: 1
+      home-score-aet:
+      away-score-aet:
+      home-score-pens: 2
+      away-score-pens: 4
+    - date: 18-07-2015
+      kickoff: "15:00"
+      venue:
+      competition: Pre season friendly
+      home-team: Brora Rangers
+      away-team: Clyde
+      home-score: 0
+      away-score: 0
+    - date: 11-07-2015
+      kickoff: "15:00"
+      venue:
+      competition: Pre season friendly
+      home-team: Brora Rangers
+      away-team: Morton
+      home-score: 0
+      away-score: 1
+    - date: 04-07-2015
+      kickoff: "15:00"
+      venue:
+      competition: Pre season friendly
+      home-team: Woodside Amateurs
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 5
+    - date: 01-07-2015
+      kickoff: "20:00"
+      venue:
+      competition: Pre season friendly
+      home-team: Brora Rangers
+      away-team: Inverness Caledonian Thistle
+      home-score: 0
+      away-score: 3
+####################################################
+- season: 2014
+  fixtures:
+    - date: 18-04-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Rothes
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 2
+    - date: 04-04-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Keith
+      home-score: 2
+      away-score: 0
+    - date: 01-04-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 3
+      home-score-aet:
+    - date: 28-03-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Turriff Utd
+      away-team: Brora Rangers
+      home-score: 1
+      away-score: 2
+      home-score-aet:
+    - date: 25-03-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score: 2
+      away-score: 1
+    - date: 21-03-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 5
+    - date: 14-03-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Lossiemouth
+      preview:
+      home-score: 7
+      away-score: 0
+    - date: 11-03-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Wick Academy
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 1
+    - date: 28-03-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Keith
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 3
+    - date: 28-02-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Buckie Thistle
+      preview:
+      home-score: 5
+      away-score: 1
+    - date: 21-02-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Clachnacuddin
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 5
+    - date: 18-02-2015
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Lossiemouth
+      away-team: Brora Rangers
+      preview:
+      home-score: 1
+      away-score: 5
+    - date: 14-02-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Strathspey Thistle
+      home-score: 4
+      away-score: 0
+    - date: 31-01-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment: Nairn County playing in League Cup Prelim Round
+    - date: 24-01-2015
+      kickoff: "15:00"
+      venue:
+      competition: League Cup
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      home-score: 2
+      away-score: 2
+      home-score-aet: 2
+      away-score-aet: 2
+      home-score-pens: 2
+      away-score-pens: 4
+    - date: 17-01-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Buckie Thistle
+      preview:
+      home-score: P
+      away-score: P
+      comment: Snowbound pitch
+    - date: 10-01-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Cove Rangers
+      away-team: Brora Rangers
+      preview:
+      home-score: 1
+      away-score: 1
+    - date: 03-01-2015
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Wick Academy
+      away-team: Brora Rangers
+      home-score: P
+      away-score: P
+      comment: Waterlogged pitch
+    - date: 27-12-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score: P
+      away-score: P
+      comment: Frozen pitch
+    - date: 20-12-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fraserburgh
+      preview:
+      home-score: 1
+      away-score: 1
+    - date: 13-12-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Formartine Utd
+      away-team: Brora Rangers
+      preview:
+      home-score: P
+      away-score: P
+      comment: Frozen pitch
+    - date: 06-12-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Inverurie Loco Works
+      preview:
+      home-score: 1
+      away-score: 0
+    - date: 29-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Queen of the South
+      away-team: Brora Rangers
+      preview:
+      home-score: 4
+      away-score: 1
+    - date: 22-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Deveronvale
+      preview:
+      home-score: 7
+      away-score: 0
+    - date: 19-11-2014
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 7
+    - date: 15-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Huntly
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 8
+    - date: 12-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Keith
+      away-team: Brora Rangers
+      preview:
+      home-score: P
+      away-score: P
+      comment: Waterlogged pitch
+    - date: 08-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Rothes
+      preview:
+      home-score: 6
+      away-score: 0
+    - date: 01-11-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Edinburgh City
+      away-team: Brora Rangers
+      preview:
+      home-score: 2
+      away-score: 3
+    - date: 25-10-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Clachnacuddin
+      preview:
+      home-score: 2
+      away-score: 0
+    - date: 22-10-2014
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Fort William
+      preview:
+      home-score: 6
+      away-score: 0
+    - date: 19-10-2014
+      kickoff: "15:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Elgin City
+      away-team: Brora Rangers
+      preview:
+      home-score: 1
+      away-score: 3
+    - date: 11-10-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Nairn County
+      preview:
+      home-score: 3
+      away-score: 0
+    - date: 04-10-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Brora Rangers
+      away-team: "Banks o' Dee"
+      preview:
+      home-score: 5
+      away-score: 0
+    - date: 27-09-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Buckie Thistle
+      away-team: Brora Rangers
+      preview:
+      home-score: 1
+      away-score: 4
+    - date: 24-09-2014
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Forres Mechanics
+      preview:
+      home-score: 3
+      away-score: 0
+    - date: 20-09-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      preview:
+      home-score: 1
+      away-score: 1
+    - date: 13-09-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fort William
+      away-team: Brora Rangers
+      preview:
+      home-score: 2
+      away-score: 6
+    - date: 06-09-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Fraserburgh
+      away-team: Brora Rangers
+      preview:
+      home-score: 2
+      away-score: 3
+    - date: 03-09-2014
+      kickoff: "20:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Wick Academy
+      away-team: Brora Rangers
+      preview:
+      home-score: 1
+      away-score: 2
+    - date: 30-08-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Formartine Utd
+      preview:
+      home-score: 1
+      away-score: 1
+    - date: 23-08-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Inverurie Loco Works
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 5
+    - date: 19-08-2014
+      kickoff: "20:00"
+      venue:
+      competition: Petrofac Training Cup
+      home-team: Brora Rangers
+      away-team: East Fife
+      preview:
+      home-score: 2
+      away-score: 3
+    - date: 16-08-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Turriff Utd
+      preview:
+      home-score: 8
+      away-score: 0
+    - date: 09-08-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Deveronvale
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 5
+    - date: 06-08-2014
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      preview:
+      home-score: 0
+      away-score: 4
+    - date: 02-08-2014
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Huntly
+      preview:
+      home-score: 6
+      away-score: 0
+    - date: 26-07-2014
+      kickoff: "15:00"
+      venue:
+      competition: Petrofac Training Cup
+      home-team: Brora Rangers
+      away-team: Stenhousemuir
+      preview:
+      home-score: 1
+      away-score: 1
+      home-score-aet: 3
+      away-score-aet: 1

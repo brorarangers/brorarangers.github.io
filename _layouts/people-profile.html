@@ -1,0 +1,173 @@
+---
+layout: default
+---
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="article-headline" itemprop="articleBody">
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+    </div>
+
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/people/{{ page.title | replace: ' ','-' }}-large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/people/{{ page.title | replace: ' ','-' }}-large.jpg 768w,
+        /images/people/{{ page.title | replace: ' ','-' }}-med.jpg 380w,
+        /images/people/{{ page.title | replace: ' ','-' }}-small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+    </div>
+    <div class="article-excerpt">
+      <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+  </header>
+
+  {% assign stats = site.reports where 'season', site.current-season %}
+
+  {% assign start-counter = 0 %}
+    {% for starts in stats %}
+        {% for appearance in starts.team %}
+          {% if page.title == appearance.name %}
+            {% assign start-counter = start-counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+    {% assign subbed-counter = 0 %}
+    {% for starts in stats %}
+        {% for appearance in starts.team %}
+          {% if page.title == appearance.replaced-by %}
+            {% assign subbed-counter = subbed-counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+    {% assign bench-counter = 0 %}
+      {% for bench in stats %}
+        {% for appearance in bench.bench %}
+          {% if page.title == appearance.name %}
+            {% assign bench-counter = bench-counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+  {% assign hgoal-counter = 0 %}
+    {% for hgoals in stats %}
+    {% for scorer in hgoals.home-goals %}
+      {% for times in scorer.goal-times %}
+      {% if page.title == scorer.name %}
+      {% assign hgoal-counter = hgoal-counter | plus: 1 %}
+      {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% endfor %}
+
+  {% assign agoal-counter = 0 %}
+    {% for agoals in stats %}
+    {% for scorer in agoals.away-goals %}
+      {% for times in scorer.goal-times %}
+      {% if page.title == scorer.name %}
+      {% assign agoal-counter = agoal-counter | plus: 1 %}
+      {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% endfor %}
+  {% assign goals = agoal-counter| plus: hgoal-counter %}
+
+  {% assign yellow-counter = 0 %}
+    {% for cautions in stats %}
+        {% for yellow in cautions.brora-yellows %}
+          {% if page.title == yellow.name %}
+            {% assign yellow-counter = yellow-counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+  {% assign red-counter = 0 %}
+    {% for dismissal in stats %}
+        {% for red in dismissal.brora-reds %}
+          {% if page.title == red.name %}
+            {% assign red-counter = red-counter | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+  {% assign featured = start-counter | plus: bench-counter %}
+  {% assign unused = bench-counter | minus: subbed-counter %}
+  {% if featured > 0 %}
+{% if page.category == 'current-squad' %}
+  <section class="stats">
+  <h2>{{ page.title | split: ' ' | first }}'s season in numbers</h2>
+    <ul>
+      {% if start-counter > 0 %}
+      <li>{{ start-counter }}<span class="counter">Starts</span></li>
+      {% endif %}
+      {% if subbed-counter > 0 %}
+      <li>{{ subbed-counter }}<span class="counter">Subs</span></li>
+      {% endif %}
+      {% if unused > 0 %}
+      <li>{{ bench-counter | minus: subbed-counter }}<span class="counter">Bench</span></li>
+      {% endif %}
+      {% if goals > 0 %}
+      <li>{{ goals }}<span class="counter">Goals</span></li>
+      {% endif %}
+      {% if yellow-counter > 0 %}
+      <li>{{ yellow-counter }}<span class="counter">Cautions</span></li>
+      {% endif %}
+      {% if red-counter > 0 %}
+      <li>{{ red-counter }}<span class="counter">Dismissals</span></li>
+      {% endif %}
+    </ul>
+  {% endif %}
+  </section>
+{% endif %}
+  <section class="article-content">
+    {{ content | remove: page.excerpt }}
+  </section>
+</article>
+
+<section class="additional-info">
+  <h3>The {{ page.title | split: ' ' | last }} files ... </h3>
+  {% assign person = page.title %}
+  <ul>
+{% for posts in site.posts %}
+  {% if posts.tags contains person %}
+    <li><a href="{{ posts.url }}">{{ posts.title }}</a></li>
+    <li>{{ posts.excerpt | truncatewords: 20 }}</li>
+  {% endif %}
+{% endfor %}
+  </ul>
+  <ul>
+  {% for reports in site.reports %}
+    {% for scorer in reports.home-goals %}
+    {% if scorer.name == page.title %}
+    <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
+    <li>{{ reports.excerpt | truncatewords: 20 }}</li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for reports in site.reports %}
+    {% for scorer in reports.away-goals %}
+    {% if scorer.name == page.title %}
+    <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
+    <li>{{ reports.excerpt | truncatewords: 20 }}</li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+</section>
+<section class="additional-info">
+  <h3>More of our {{ page.category | replace: '-', ' ' }}</h3>
+  <ul>
+  {% for people in site.people %}
+  {% if page.category == people.category %}
+    {% unless page.title == people.title %}
+    <li><a href="{{ people.url }}">{{ people.title }}</a></li>
+    <li>{{ people.excerpt | truncatewords: 10 }}</li>
+    {% endunless %}
+  {% endif %}
+  {% endfor %}
+  </ul>
+</section>

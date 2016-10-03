@@ -1,0 +1,276 @@
+---
+layout: default
+banner: Brora Rangers FC
+---
+{% assign news = site.posts where 'featured', true %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+{% for featured in news limit: 1 %}
+  {% capture lead-url %}{{ featured.url }}{%endcapture %}
+
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">{{ featured.title }}</h1>
+    </div>
+  {% if featured.image %}
+    <div class="snippet-image">
+      <a href="{{ featured.url }}">
+      <img class="feature-image"
+        src="/images/articles/{{ featured.url | remove_first: '/' | replace: '/', '-' }}large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/articles/{{ featured.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,
+        /images/articles/{{ featured.url| remove_first: '/' | replace: '/', '-' }}med.jpg 380w,
+        /images/articles/{{ featured.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+        </a>
+    {% else %}
+
+    {% endif %}
+    </div>
+    <div class="article-excerpt">
+      <p>{{ featured.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+  </header>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ featured.url }}">Read the full article</a>
+  </div>
+{% endfor %}
+</article>
+<section class="additional-info">
+<div class="section-header">
+  <h2>Also in the news</h2>
+</div>
+
+<section class="article-list">
+
+{% for post in site.posts offset: 1 limit: 3 %}
+{% unless post.url == lead-url %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ post.url }}">
+      <img src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </ul>
+{% endunless %}
+{% endfor %}
+</section>
+</section>
+
+{% comment %}Check for outstanding fixtures{% endcomment %}
+{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+{% for matches in fixtures %}
+{% for details in matches.fixtures reversed %}
+  {% unless details.home-score != nil %}
+  {% capture games-remaining %}true{% endcapture %}
+  {% else %}
+  {% capture games-remaining %}false{% endcapture %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}
+
+{% comment %}This can start an if statement for the end of the season {% endcomment %}
+
+  {% comment %}Find the next unplayed game{% endcomment %}
+  {% for matches in fixtures %}
+    {% for details in matches.fixtures %}
+      {% unless details.home-score %}
+      {% capture home-team %}{{ details.home-team }}{% endcapture %}
+      {% capture away-team %}{{ details.away-team }}{% endcapture %}
+      {% capture competition %}{{ details.competition }}{% endcapture %}
+      {% capture date %}{{ details.date }}{% endcapture %}
+      {% capture kickoff %}{{ details.kickoff }}{% endcapture %}
+      {% endunless %}
+    {% endfor %}
+  {% endfor %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+{% comment %}Find the matching preview{% endcomment %}
+  {% for preview in site.previews %}
+  {% if preview.match-date == date %}
+  {% capture url %}{{ preview.url }}{% endcapture %}
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">Next Match</h1>
+    </div>
+  <section class="article-image">
+    <div class="match-banner">
+      <div class="details-home">
+        <h1>{{ home-team }}</h1>
+        <a href="{{ preview.url }}">
+        <img src="/images/logos/{{ home-team | replace: ' ', '-' }}.png" height="72px">
+        </a>
+      </div>
+      <div class="report-score">
+        V
+      </div>
+      <div class="details-away">
+        <a href="{{ preview.url }}">
+        <img src="/images/logos/{{ away-team | replace: ' ', '-' }}.png" height="72px">
+        </a>
+        <h1>{{ away-team }}</h1>
+      </div>
+    </div>
+  </section>
+    <div class="match-excerpt">
+      {% assign d = date | date: "%-d"  %}
+        <p>{{ date | date: "%A" }}
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}<sup>st</sup>
+          {% when '2' or '22' %}{{ d }}<sup>nd</sup>
+          {% when '3' or '23' %}{{ d }}<sup>rd</sup>
+          {% else %}{{ d }}<sup>th</sup>
+        {% endcase %}
+        {{ date | date: "%B" }}</p>
+        <p><small>{{ competition }}</small></p>
+    </div>
+
+  <div class="article-excerpt">
+      {% assign excerpt = preview.excerpt | strip_newlines %}
+      {% unless excerpt == null %}
+        {{ preview.excerpt }}
+      {% endunless %}
+      {% if excerpt == '' %}
+        {% if home-team == 'Brora Rangers' %}
+      <p>It's home advantage for Brora Rangers in this match, and it could be home advantage for you too if you choose one of our Match Day Hospitality packages</p>
+        {% else %}
+      <p>We are off on our travels again as we head to {{ opposition }}. We'd love to have you along for the trip, get in touch with the Supporters Club if you fancy coming on the bus.</p>
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endif %}
+  {% endfor %}
+  </header>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ url }}">Read the full preview</a>
+  </div>
+</article>
+<section class="additional-info">
+<section class="article-list">
+{% for post in site.posts offset: 4 limit: 4 %}
+{% unless post.url == lead-url %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ post.url }}">
+      <img src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </ul>
+{% endunless %}
+{% endfor %}
+</section>
+</section>
+{% comment %}Check for completed fixtures{% endcomment %}
+{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+{% for matches in fixtures %}
+{% for details in matches.fixtures %}
+  {% if details.home-score != nil %}
+  {% capture games-remaining %}true{% endcapture %}
+  {% else %}
+  {% capture games-remaining %}false{% endcapture %}
+  {% endif %}
+{% endfor %}
+{% endfor %}
+
+{% comment %}This can start an if statement for the end of the season {% endcomment %}
+
+  {% comment %}Find the last played game{% endcomment %}
+  {% for matches in fixtures %}
+    {% for details in matches.fixtures reversed %}
+      {% if details.home-score %}
+      {% capture home-team %}{{ details.home-team }}{% endcapture %}
+      {% capture home-score %}{{ details.home-score }}{% endcapture %}
+      {% capture away-team %}{{ details.away-team }}{% endcapture %}
+      {% capture away-score %}{{ details.away-score }}{% endcapture %}
+      {% capture competition %}{{ details.competition }}{% endcapture %}
+      {% capture date %}{{ details.date }}{% endcapture %}
+      {% capture kickoff %}{{ details.kickoff }}{% endcapture %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+{% comment %}Find the matching report{% endcomment %}
+  <header>
+  {% for report in site.reports %}
+  {% if report.match-date == date %}
+  {% capture url %}{{ report.url }}{% endcapture %}
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">Latest Match</h1>
+    </div>
+    <section class="article-image">
+    <div class="match-banner">
+      <div class="details-home">
+        <h1>{{ home-team }}</h1>
+        <a href="{{ report.url }}">
+        <img src="/images/logos/{{ home-team | replace: ' ', '-' }}.png" height="72px">
+        </a>
+      </div>
+      <div class="report-score">
+        {{ home-score }} - {{ away-score }}
+      </div>
+      <div class="details-away">
+        <a href="{{ report.url }}">
+        <img src="/images/logos/{{ away-team | replace: ' ', '-' }}.png" height="72px">
+        </a>
+        <h1>{{ away-team }}</h1>
+      </div>
+    </div>
+  </section>
+    <div class="match-excerpt">
+      {% assign d = date | date: "%-d"  %}
+        <p>{{ date | date: "%A" }}
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}<sup>st</sup>
+          {% when '2' or '22' %}{{ d }}<sup>nd</sup>
+          {% when '3' or '23' %}{{ d }}<sup>rd</sup>
+          {% else %}{{ d }}<sup>th</sup>
+        {% endcase %}
+        {{ date | date: "%B" }}</p>
+        <p><small>{{ competition }}</small></p>
+    </div>
+
+    <div class="article-excerpt">
+        {{ report.excerpt }}
+    </div>
+  {% endif %}
+  {% endfor %}
+  </header>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ url }}">Read the full report</a>
+  </div>
+</article>
+
+<section class="additional-info">
+    {% assign team = site.data.table %}
+  <div class="section-header">
+    <h2>Top of the Table</h2>
+  </div>
+<section class="table">
+{% for club in team limit: 4 %}
+  {% capture games %}{{ club.hpl | plus: club.apl }}{% endcapture %}
+  <ul class="stats">
+    {% assign position = forloop.index %}
+    {% case position %}
+      {% when 1 %} <p><strong>{{ position }}</strong><sup>st</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 2 %} <p><strong>{{ position }}</strong><sup>nd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 3 %} <p><strong>{{ position }}</strong><sup>rd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% else %} <p><strong>{{ position }}</strong><sup>th</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+    {% endcase %}
+    <li>{{ club.tW }}<span>Wins</span></li>
+    <li>{{ club.tD }}<span>Draws</span></li>
+    <li>{{ club.tL }}<span>Losses</span></li>
+    <li>{{ club.tGF }}<span>GF</span></li>
+    <li>{{ club.tGA }}<span>GA</span></li>
+    <li>{{ club.tGD }}<span>GD</span></li>
+    <li>{{ club.Points }}<span>Points</span></li>
+  </ul>
+  {% endfor %}
+</section>
+  </section>

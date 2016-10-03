@@ -1,0 +1,105 @@
+// Modules for Match details ... Preview and Report graphics
+
+.match-banner {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  overflow-x: hidden;
+  background-image: linear-gradient(to bottom right, $primary-color 0%, $primary-color 50%, $secondary-color 50%, $secondary-color 100%);
+}
+
+.details-home  {
+  color: #fff;
+  font-size: 1.25em;
+  font-family: $serif;
+  text-shadow: -1px -1px $secondary-color, 1px -1px $secondary-color, -1px 1px $secondary-color, 1px 1px $secondary-color;
+  padding: 0.5em 0 0 3%;
+  @include media($first-break)  {
+    padding: 0.5em 0 0 10%;
+  }
+}
+
+.details-away  {
+  color: #fff;
+  font-size: 1.25em;
+  font-family: $serif;
+  padding: 0 3% 0.5em 0;
+  text-align: right;
+  @include media($first-break)  {
+    padding: 0 10% 0.5em 0;
+  }
+}
+
+.report-score {
+  color: #fff;
+  font-family: $serif;
+  text-shadow: -1px -1px $secondary-color, 1px -1px $secondary-color, -1px 1px $secondary-color, 1px 1px $secondary-color;
+  font-size: 3.0em;
+  text-align: center;
+  margin: -1em 0;
+}
+
+.match-excerpt  {
+  background-color: $secondary-color;
+  color: #fff;
+  font-size: 1.4em;
+  font-weight: 700;
+  text-align: center;
+  @include media($third-break) {
+    background-color: #fff;
+    color: $secondary-color;
+  }
+}
+
+.match-article-list {
+  width: 95%;
+  margin: 0 auto;
+  @include media(500px) {
+    width: 85%;
+  }
+  @include media(600px) {
+    width: 70%;
+  }
+  @include media($third-break) {
+    width: 65%;
+  }
+  @include media($fourth-break) {
+    width: 55%;
+  }
+}
+
+.match-list-image {
+  @include span-columns(4);
+  img {
+    height: 75px;
+    margin: 1em 0 0 1em;
+  }
+}
+
+.home-score  {
+  position: relative;
+  background-color: $primary-color;
+  color: #fff;
+  margin: 0 0 0 0.5em;
+  padding: 0.15em 0.25em;
+  top: -1em;
+  border-radius: 4px;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.away-score  {
+  position: relative;
+  background-color: $primary-color;
+  color: #fff;
+  margin: 0 0.5em 0 0;
+  padding: 0.15em 0.25em;
+  top: -1em;
+  border-radius: 4px;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.scoreline  {
+  text-align: center;
+}

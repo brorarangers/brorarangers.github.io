@@ -1,0 +1,16 @@
+{
+  "name": "gulp-build",
+  "version": "0.0.1",
+  "description": "Build process for Jekyll site",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-responsive": "^2.4.0",
+    "gulp-pngquant": "^1.0.10",
+    "gulp-sass": "^2.3.2",
+    "gulp-shell": "^0.5.2"
+  }
+}

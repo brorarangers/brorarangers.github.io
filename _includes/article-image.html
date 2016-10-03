@@ -1,0 +1,9 @@
+<img style="float:{{ include.float }};margin: 0 0.5em;" class="extra-image"
+  src="/images/articles/{{ page.url }} | replace: '/', '-' }}-large.jpg"
+      alt="{{ page.description }}"
+    srcset="
+      /images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}{{ include.image }}-large.jpg 768w,
+      /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}{{ include.image }}-med.jpg 380w,
+      /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}{{ include.image }}-small.jpg 425w"
+    sizes="
+      (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">

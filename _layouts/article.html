@@ -1,0 +1,69 @@
+---
+layout: default
+banner: news
+---
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+    </div>
+  {% if page.image %}
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/articles/{{ page.url }} | remove_first: '/' | replace: '/', '-' }}-large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,
+        /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}med.jpg 380w,
+        /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+    {% else %}
+
+    {% endif %}
+    </div>
+    <div class="article-excerpt">
+      <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+  </header>
+  <section class="article-content">
+    {{ content | remove: page.excerpt }}
+  </section>
+  <footer class="article-footer">
+    <p>
+    {% if page.edited %}Originally published on {% else %}Published on {% endif %}{{ page.date | date: '%A %B %d, %Y' }}
+    </p>
+    {% if page.edited %}
+    <p>Updated on {{ page.edited | date: '%A %B %d, %Y' }}</p>
+    {% endif %}
+    {% if page.photo-credit %}
+      {% if page.photo-credit == 'Northsport' %}
+      <p>With thanks to<a href="http://www.northsport.com/"> Northsport Photography</a></p>
+      {% else %}
+      <p>Images courtesy of {{ page.photo-credit }}</p>
+      {% endif %}
+    {% endif %}
+  </footer>
+</article>
+<section class="additional-info">
+  <div class="section-header">
+    <h2>You may have missed</h2>
+  </div>
+  <section class="article-list">
+{% for post in site.posts limit: 4 %}
+{% unless post.url == page.url %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ post.url }}">
+      <img class="list-image" src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </ul>
+{% endunless %}
+{% endfor %}
+
+  </section>
+</section>

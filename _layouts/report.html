@@ -1,0 +1,132 @@
+---
+layout: default
+---
+{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+{% assign date = page.date | date: '%d-%m-%Y' %}
+{% for matches in fixtures %}
+  {% for details in matches.fixtures %}
+  {% if date == details.date %}
+  {% capture competition %}{{ details.competition }}{% endcapture %}
+    {% if details.home-team == "Brora Rangers" %}
+      {% capture opposition %}{{ details.away-team }}{% endcapture %}
+    {% else %}
+      {% capture opposition %}{{ details.home-team }}{% endcapture %}
+    {% endif %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">
+        {% if page.headline %}
+        {{ page.headline }}
+        {% elsif details.home-team == "Brora Rangers" %}
+
+        {% else %}
+
+        {% endif %}
+      </h1>
+    </div>
+    {% if page.image %}
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/articles/{{ page.url }} | remove_first: '/' | replace: '/', '-' }}-large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,
+        /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}med.jpg 380w,
+        /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+    {% else %}
+
+    {% endif %}
+    </div>
+    <section class="report-image">
+    <ul class="">
+      <br>
+      <li class="scoreline"><img src="/images/logos/{{ details.home-team | replace: ' ', '-' }}.png" height="68px">
+      <span class="home-score">{{ details.home-score }}</span>&nbsp&nbsp&nbsp<span class="away-score">{{ details.away-score }}</span>
+      <img src="/images/logos/{{ details.away-team | replace: ' ', '-' }}.png" height="68px"></li>
+    </ul>
+  </section>
+  {% endif %}
+  {% endfor %}
+{% endfor %}
+  <div class="match-excerpt">
+      {% assign d = page.date | date: "%-d"  %}
+        <p>{{ date | date: "%A" }}
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}st
+          {% when '2' or '22' %}{{ d }}nd
+          {% when '3' or '23' %}{{ d }}rd
+          {% else %}{{ d }}th
+        {% endcase %}
+        {{ date | date: "%B" }}</p>
+        <p><small>{{ competition }}</small></p>
+    </div>
+    <div class="article-excerpt">
+      {% assign excerpt = page.excerpt | strip_newlines %}
+      {% unless excerpt == null %}
+        {{ page.excerpt }}
+      {% endunless %}
+      {% if excerpt == '' %}
+        {% if home-game %}
+      <p></p>
+        {% else %}
+      <p></p>
+        {% endif %}
+      {% endif %}
+    </div>
+  </header>
+  <section class="article-content">
+    {{ content | remove: page.excerpt }}
+  </section>
+</article>
+
+<section class="additional-info">
+  {% if competition contains 'League' %}
+  <div class="section-header">
+    <h3>League Table</h3>
+  </div>
+    {% assign team = site.data.table %}
+<section class="table">
+{% for club in team %}
+  {% capture games %}{{ club.hpl | plus: club.apl }}{% endcapture %}
+  <ul class="stats">
+    {% assign position = forloop.index %}
+    {% case position %}
+      {% when 1 %} <p><strong>{{ position }}</strong><sup>st</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 2 %} <p><strong>{{ position }}</strong><sup>nd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 3 %} <p><strong>{{ position }}</strong><sup>rd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% else %} <p><strong>{{ position }}</strong><sup>th</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+    {% endcase %}
+    <li>{{ club.tW }}<span>Wins</span></li>
+    <li>{{ club.tD }}<span>Draws</span></li>
+    <li>{{ club.tL }}<span>Losses</span></li>
+    <li>{{ club.tGF }}<span>GF</span></li>
+    <li>{{ club.tGA }}<span>GA</span></li>
+    <li>{{ club.tGD }}<span>GD</span></li>
+    <li>{{ club.Points }}<span>Points</span></li>
+  </ul>
+  {% endfor %}
+</section>
+
+  {% else %}
+  <div class="section-header">
+    <h3>Don't Miss</h3>
+  </div>
+  <section class="article-list">
+{% for post in site.posts limit: 4 %}
+    <ul class="list-item">
+      <li class="list-image">
+        <a href="{{ post.url }}">
+          <img class="list-image" src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+        </a>
+      </li>
+      <li class="list-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    </ul>
+{% endfor %}
+</section>
+  {% endif %}
+</section>

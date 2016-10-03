@@ -1,0 +1,65 @@
+---
+layout: default
+permalink: /news/
+banner: Latest News
+description: The latest news from Brora Rangers | Stay up to date with Sutherland's Highland Football League Club.
+---
+{% assign news = site.posts where 'featured', true %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+{% for featured in news limit: 5 %}
+  {% capture lead-url %}{{ featured.url }}{%endcapture %}
+
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">{{ featured.title }}</h1>
+    </div>
+  {% if featured.image %}
+    <div class="snippet-image">
+      <a href="{{ featured.url }}">
+      <img class="feature-image"
+        src="/images/articles/{{ featured.url | remove_first: '/' | replace: '/', '-' }}large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/articles/{{ featured.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,
+        /images/articles/{{ featured.url| remove_first: '/' | replace: '/', '-' }}med.jpg 380w,
+        /images/articles/{{ featured.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+        </a>
+    {% else %}
+
+    {% endif %}
+    </div>
+    <div class="article-excerpt">
+      <p>{{ featured.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+  </header>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ featured.url }}">Read the full article</a>
+  </div>
+{% endfor %}
+</article>
+
+<section class="additional-info">
+<div class="section-header">
+  <h2>The not so latest news</h2>
+</div>
+
+<section class="article-list">
+
+{% for post in site.posts offset: 5 limit: 18 %}
+{% unless post.url == lead-url %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ post.url }}">
+      <img src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </ul>
+{% endunless %}
+{% endfor %}
+</section>
+</section>

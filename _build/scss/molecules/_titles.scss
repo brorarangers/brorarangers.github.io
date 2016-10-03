@@ -1,0 +1,61 @@
+.banner-title {
+  text-transform: uppercase;
+  font-family: $serif;
+  font-size: 3.5em;
+  font-weight: 400;
+  color: $primary-color;
+  text-shadow: -2px -2px #fff, 2px -2px #fff, -2px 2px #fff, 2px 2px #fff;
+  padding: 0.05em 0;
+  margin: 0;
+  @include media($second-break) {
+    margin: 0.25em 0;
+    font-size: 4em;
+  }
+}
+
+.article-title  {
+  text-transform: uppercase;
+  font-family: $serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  padding: 0.5em 0 0 0;
+  color: #fff;
+  text-shadow: -1px -1px #000, 1px -1px #000, -1px 1px #000, 1px 1px #000;
+  text-align: center;
+  background-color: $primary-color;
+  h1  {
+    padding: 0.25em 0 0.125em 0;
+    margin: 0;
+    position: relative;
+    z-index: 999;
+  }
+  @include media($second-break) {
+    //margin: 0.25em 0;
+    font-size: 2em;
+  }
+  @include media($third-break) {
+    background-color: #fff;
+    color: lighten($secondary-color, 90%);
+    font-size: 2em;
+    text-shadow: -2px -2px $primary-color, 2px -2px $primary-color, -2px 2px $primary-color, 2px 2px $primary-color;
+  }
+}
+
+.section-header {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: $serif;
+  font-size: 1.4em;
+  width: 95%;
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: -2px -2px $secondary-color, 2px -2px $secondary-color, -2px 2px $secondary-color, 2px 2px $secondary-color;
+  padding: 0.05em 0;
+}
+
+.list-title {
+  @include span-columns(8);
+  @include omega();
+  text-align: center;
+  padding: 1em 1em 0 0;
+}

@@ -1,0 +1,9 @@
+---
+layout: default
+permalink: /backroom/
+description: The Who's Who for the current Brora Rangers Football Club 1st Team | Get the low down on your favourite players.
+---
+{% assign management = site.people | where: 'category', 'management' %}
+{% for person in management %}
+<a href="{{ person.url }}">{{ person.title }}</a>
+{% endfor %}

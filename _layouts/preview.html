@@ -1,0 +1,116 @@
+---
+layout: default
+---
+{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+{% assign date = page.date | date: '%d-%m-%Y' %}
+{% for matches in fixtures %}
+  {% for details in matches.fixtures %}
+  {% if date == details.date %}
+  {% capture competition %}{{ details.competition }}{% endcapture %}
+    {% if details.home-team == "Brora Rangers" %}
+      {% capture home-game %}true{% endcapture %}
+      {% capture opposition %}{{ details.away-team }}{% endcapture %}
+    {% else %}
+      {% capture opposition %}{{ details.home-team }}{% endcapture %}
+    {% endif %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+<header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">
+        {% if page.headline %}
+        {{ page.headline }}
+        {% elsif details.home-team == "Brora Rangers" %}
+        Brora welcome {{ opposition | split: ' ' | first }}
+        {% else %}
+        Brora head to {{ opposition | split: ' ' | first }}
+        {% endif %}
+      </h1>
+    </div>
+  <section class="article-image">
+    <div class="match-banner">
+      <div class="details-home">
+        <h1>{{ details.home-team }}</h1>
+        <img src="/images/logos/{{ details.home-team | replace: ' ', '-' }}.png" height="72px">
+      </div>
+      <div class="report-score">
+        V
+      </div>
+      <div class="details-away">
+        <img src="/images/logos/{{ details.away-team | replace: ' ', '-' }}.png" height="72px">
+        <h1>{{ details.away-team }}</h1>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+  {% endfor %}
+{% endfor %}
+    <div class="match-excerpt">
+      {% assign d = date | date: "%-d"  %}
+        <p>{{ date | date: "%A" }}
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}st
+          {% when '2' or '22' %}{{ d }}nd
+          {% when '3' or '23' %}{{ d }}rd
+          {% else %}{{ d }}th
+        {% endcase %}
+        {{ date | date: "%B" }}</p>
+        <p><small>{{ competition }}</small></p>
+    </div>
+    <div class="article-excerpt">
+      {% assign excerpt = page.excerpt | strip_newlines %}
+      {% unless excerpt == null %}
+        {{ page.excerpt }}
+      {% endunless %}
+      {% if excerpt == '' %}
+        {% if home-game %}
+      <p>It's home advantage for Brora Rangers in this match, and it could be home advantage for you too if you choose one of our Match Day Hospitality packages</p>
+        {% else %}
+      <p>We are off on our travels again as we head to {{ opposition }}. We'd love to have you along for the trip, get in touch with the Supporters Club if you fancy coming on the bus.</p>
+        {% endif %}
+      {% endif %}
+    </div>
+  </header>
+  <section class="article-content">
+    {{ content | remove: page.excerpt }}
+  </section>
+</article>
+
+<section class="additional-info">
+  {% assign previous = site.data.fixtures %}
+
+  {% for matches in previous %}
+    {% for meetings in matches.fixtures %}
+    {% if meetings.home-score != nil and meetings.home-score != 'P' %}
+    {% if meetings.home-team == opposition or meetings.away-team == opposition %}
+  {% capture recent-meetings %}true{% endcapture %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+  <div class="section-header">
+  {% if recent-meetings %}<h3>Recent Meetings</h3>{% endif %}
+  </div>
+  <section class="article-list">
+  {% for matches in previous %}
+    {% for meetings in matches.fixtures %}
+    {% if meetings.home-score != nil and meetings.home-score != 'P' %}
+    {% if meetings.home-team == opposition or meetings.away-team == opposition %}
+    <ul class="">
+      <li><strong>{{ meetings.date | date: "%b %Y" }}</strong></li>
+        {% for report in site.reports %}
+        {% if report.match-date == meetings.date %}
+      <li><a href="{{ report.url }}">Match Report</a></li>
+        {% endif %}
+        {% endfor %}
+      <li class="scoreline"><img src="/images/logos/{{ meetings.home-team | replace: ' ', '-' }}.png" height="68px">
+      <span class="home-score">{{ meetings.home-score }}</span>&nbsp&nbsp&nbsp<span class="away-score">{{ meetings.away-score }}</span>
+      <img src="/images/logos/{{ meetings.away-team | replace: ' ', '-' }}.png" height="68px"></li>
+      <li class="lift"><small>{{ meetings.competition | split: ' ' | last }}</small></li>
+      <hr>
+    </ul>
+    {% endif %}
+    {% endif %}
+    {% endfor %}<!-- for meetings in matches -->
+  {% endfor %}<!-- for matches in previous -->
+  </section>
+</section>
