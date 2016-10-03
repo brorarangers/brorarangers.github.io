@@ -438,3 +438,9 @@ tr  {
 td  {
   padding: 0.45em 0;
 }
+
+
+.main-footer  {
+  @include fill-parent();
+  @include row(table);
+}

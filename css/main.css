@@ -744,3 +744,9 @@ tr {
 
 td {
   padding: 0.45em 0; }
+
+.main-footer {
+  width: 100%;
+  display: table;
+  width: 100%;
+  table-layout: fixed; }
