@@ -94,6 +94,7 @@
 
 .article-excerpt  {
   font-size: 1.2em;
+  margin-top: 1em;
   font-weight: 700;
   @include fill-parent;
   p {
@@ -102,6 +103,7 @@
     padding: 0.5em 0;
   }
   @include media($second-break) {
+    margin-top: 0;
     background-color: $primary-color;
     color: #fff;
   }
@@ -160,7 +162,7 @@
     width: 50%;
   }
   @include media($second-break) {
-    width: 90%;
+    width: 50%;
   }
   @include media($third-break) {
     width: 95%;

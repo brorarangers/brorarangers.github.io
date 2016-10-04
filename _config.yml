@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-repository: ranaldmackay/ranaldmackay.github.io
+repository: brorarangers/brorarangers.github.io
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
@@ -38,6 +38,9 @@ collections:
     permalink: /:year/:month/:day/:title/
   people:
     output: true
+  chairmans-chat:
+    output: true
+    permalink: /:year/:month/:day/:title/
 
 #### Site settings ####
 current-season: 2016

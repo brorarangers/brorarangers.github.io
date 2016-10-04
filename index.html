@@ -25,9 +25,9 @@ banner: Brora Rangers FC
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
         </a>
     {% else %}
-
     {% endif %}
     </div>
+
     <div class="article-excerpt">
       <p>{{ featured.excerpt | strip_html | strip_newlines }}</p>
     </div>
@@ -37,6 +37,7 @@ banner: Brora Rangers FC
   </div>
 {% endfor %}
 </article>
+
 <section class="additional-info">
 <div class="section-header">
   <h2>Also in the news</h2>
@@ -44,7 +45,7 @@ banner: Brora Rangers FC
 
 <section class="article-list">
 
-{% for post in site.posts offset: 1 limit: 4 %}
+{% for post in site.posts offset: 1 limit: 3 %}
 {% unless post.url == lead-url %}
     <ul class="list-item">
     <li class="list-image">
@@ -59,6 +60,47 @@ banner: Brora Rangers FC
 {% endunless %}
 {% endfor %}
 </section>
+</section>
+
+{% assign article = site.chairmans-chat | reverse %}
+{% for chat in article limit: 1 %}
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">Chairman's Chat</h1>
+    </div>
+    <div class="article-image">
+      <a href="{{ chat.url }}">
+      <img class="feature-image"
+        src="/images/typewriter.jpg"
+        alt="{{ chat.description }}">
+        </a>
+    </div>
+
+    <div class="article-excerpt">
+      <p>{{ chat.excerpt | strip_html | strip_newlines | truncatewords: 20 }}</p>
+    </div>
+  </header>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ chat.url }}">Read the full article</a>
+  </div>
+</article>
+{% endfor %}
+<section class="additional-info">
+  <section class="article-list">
+  {% for chat in article offset: 1 limit: 3 %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ chat.url }}">
+      <img src="/images/chairman.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ chat.url }}">{{ chat.title }}</a>
+    </li>
+    </ul>
+  {% endfor %}
+  </section>
 </section>
 
 {% comment %}Check for outstanding fixtures{% endcomment %}
@@ -150,7 +192,7 @@ banner: Brora Rangers FC
 </article>
 <section class="additional-info">
 <section class="article-list">
-{% for post in site.posts offset: 4 limit: 4 %}
+{% for post in site.posts offset: 5 limit: 4 %}
 {% unless post.url == lead-url %}
     <ul class="list-item">
     <li class="list-image">

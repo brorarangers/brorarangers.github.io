@@ -18,8 +18,11 @@ banner: news
         /images/articles/{{ page.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
       sizes="
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
-    {% else %}
-
+    {% elsif page.banner == "chairman's chat" %}
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/typewriter.jpg"
+        alt="{{ page.description }}">
     {% endif %}
     </div>
     <div class="article-excerpt">
