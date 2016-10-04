@@ -18,9 +18,9 @@ web-email: brorarangers@gmail.com
 club-email: brorarangersfc@highlandleague.com
 description: "Welcome to the Digital Dudgeon Park. All the news, views, reports and previews from Brora Rangers, Sutherland's Scottish Highland Football League Club"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://brorarangers.football" # the base hostname & protocol for your site
+twitter_username:
+github_username:
 repository: brorarangers/brorarangers.github.io
 # Build settings
 markdown: kramdown
