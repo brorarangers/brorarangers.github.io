@@ -2,7 +2,7 @@
 layout: preview
 season: 2016
 match-date: 05-10-2016
-description:
+description: It's all to play for at Buckie's Victoria Park on Wednesday night as Brora Rangers attempt to match the League leaders points total
 quote:
 ---
 Wednesday sees us back in League action for another night under the lights. And what a night it promises to be.
@@ -29,3 +29,5 @@ The weatherman promises yet another fine evening, it's an 8pm kickoff at Victori
 Midweek away games are never easy for players nor fans, but at least an 8pm kick-off makes logistics a little easier.
 I'm over in France at present and cannot get back in time for the game, but can I thank in advance all the Brora supporters who will make the journey to Buckie to cheer on the boys.
 I expect there will be a big turnout for the home team , so I know the Board, Committee and Players will be very grateful to supporters that can make the journey for the game.
+
+**See you there**
