@@ -2,7 +2,7 @@
 layout: preview
 season: 2016
 match-date: 08-10-2016
-description:
+description: Brora Rangers welcome Keith to Dudgeon Park on Saturday as we look to bounce back from an uncharacteristic defeat midweek.
 quote:
 ---
 Next up in the Press and Journal Highland League for Brora Rangers is 12th placed Keith.
