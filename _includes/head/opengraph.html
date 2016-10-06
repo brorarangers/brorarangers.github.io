@@ -3,8 +3,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:description" content="{{ page.description | append: ' #'}}{{ site.twitter-hashtag }}">
 {% if page.image %}
-<meta name="twitter:image" content="{{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
-<meta property="og:image" content="{{ site.url }}/images/posts/{{ page.url | replace: '/','-' | remove_first: '-' | remove: '.html' }}.jpg">
+<meta name="twitter:image" content="{{ site.url }}/images/articles/{{ page.url }} | remove_first: '/' | replace: '/', '-' }}-large.jpg">
+<meta property="og:image" content="{{ site.url }}/images/articles/{{ page.url }} | remove_first: '/' | replace: '/', '-' }}-large.jpg">
 <meta property="og:image:width" content="450"/>
 <meta property="og:image:height" content="298"/>
 {% else %}
