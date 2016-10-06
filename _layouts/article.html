@@ -10,7 +10,7 @@ banner: news
   {% if page.image %}
     <div class="article-image">
       <img class="feature-image"
-        src="/images/articles/{{ page.url }} | remove_first: '/' | replace: '/', '-' }}-large.jpg"
+        src="/images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}large.jpg"
         alt="{{ page.description }}"
         srcset="
         /images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,

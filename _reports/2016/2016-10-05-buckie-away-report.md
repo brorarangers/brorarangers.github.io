@@ -123,6 +123,6 @@ The agony was trebled just 2 short minutes later from a Kevin Fraser strike, and
 
 Another 10 minutes and John Maleod claimed his second from the edge of the box against his former Club, followed 7 minutes later by a straight red card for Dale Gillespie. Minutes from full time Joe appeared to have prevented Copeland from making it number 5 only to stumble backwards carrying the ball across the line with him.
 
-That pretty much summed up our closing half hour of this table topping clash. League Championships are neither won nor lost in the first week of October. But if you want to make a statement about how you intent to deal with a previous disappointment and make it whilst playing your nearest rivals, Buckie signed theirs with a flourish.
+That pretty much summed up our closing half hour of this table topping clash. League Championships are neither won nor lost in the first week of October. But if you want to make a statement about how you intend to deal with a previous disappointment and make it whilst playing your nearest rivals, Buckie signed theirs with a flourish.
 
 It's our turn now to show how we react to this defeat. Keith come to Dudgeon Park on Saturday.
