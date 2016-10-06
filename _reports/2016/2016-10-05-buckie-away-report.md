@@ -2,8 +2,8 @@
 layout: report
 season: 2016
 match-date: 05-10-2016
-headline: 
-description:
+headline: Brora Slip to Third Place
+description: Buckie Thistle dismantled Brora in a display that showed exactly how they intended to bounce back from dropping points last weekend.
 image: yes
 quote:
 team:
