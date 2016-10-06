@@ -2,10 +2,13 @@
 layout: preview
 season: 2016
 match-date: 08-10-2016
+headline: Bouncebackability
 description: Brora Rangers welcome Keith to Dudgeon Park on Saturday as we look to bounce back from an uncharacteristic defeat midweek.
 quote:
 ---
 Next up in the Press and Journal Highland League for Brora Rangers is 12th placed Keith.
+
+Bouncebackability - it's in the Oxford English Dictionary. It's in the DNA of winners. It's in the Dudgeon Park dressing room.
 
 After a disappointing loss at Buckie in midweek, it doesn't do any harm to take a quick glance back to a game against Keith on the 5th March 2014. We still had 5 games to play in the 2013-14 League season, but a 0-3 victory at Kynoch Park confirmed our first League title.
 
