@@ -6,11 +6,9 @@ quote:
 edited:
 ---
 Thanks to those that contacted me regarding my programme re-
-marks last week ( v Fraserburgh).
+marks last week. As I said, I was expressing a personal opinion on the relation between our national game and summer football, but it certainly seems to have struck a chord with many. 
 
-As I said, I was expressing a personal opinion on the relation between our national game and summer football, but it certainly seems to have struck a chord
-with many. The power too of social networks which carried the article far and wide and it was flattering to receive replies from
-two SPFL clubs broadly supporting my position.
+The power too of social networks which carried the article far and wide and it was flattering to receive replies from two SPFL clubs broadly supporting my position.
 
 For those of you that use social networks I do hope that you are
 approving of our new website. This is Version 2 of the project
