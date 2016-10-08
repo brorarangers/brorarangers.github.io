@@ -44,3 +44,8 @@ collections:
 
 #### Site settings ####
 current-season: 2016
+
+
+## Prose stuff
+prose:
+  rooturl: "_chairmans-chat"
