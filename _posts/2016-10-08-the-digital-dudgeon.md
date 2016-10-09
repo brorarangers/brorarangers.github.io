@@ -13,7 +13,7 @@ Communication may not have been the best word, what we really want to create is 
 
 Whilst a dialogue requires input from more than one party, we understood that someone needs to start the conversation, and so began a concerted effort to embrace the digital age and a new website.
 
-This new website was launched back at the end of August last season, borne from a pre Scottish Cup discussion in a Dumfries hostelry and very much a toe in the water for a budding website developer. As far as putting a toe in the water it was a salutory lesson in testing the temperature with your elbow first. A good Fottball Club website has much to accomplish.
+This new website was launched back at the end of August last season, borne from a pre Scottish Cup discussion in a Dumfries hostelry and very much a toe in the water for a budding website developer. As far as putting a toe in the water it was a salutory lesson in testing the temperature with your elbow first. A good Football Club website has much to accomplish.
 
 Our previous website platform did not allow us to measure how our supporters and other interested followers were engaging with us, but we can say that our first week of publishing news on our new website was viewed by 470 keen digital followers. By the end of the year we had managed to add another 2000 visitors to our weekly viewing figures. The digital ball was definitely rolling. Rolling and gathering pace to the extent that we received over 130,000 visits last season!
 
