@@ -53,7 +53,7 @@ Our next meeting later in the same month, again at North Lodge Park, resulted in
 
 A match Preview should really look forward, and with our recent meetings to look back on we expect next weekend's game to bring similar levels of excitement and entertainment.
 
-We go into this match 3 points ahead of Formartine, but they in turn have a game in hand over us. Wick took the honours at NLP earlier this season whilst we've chalked up our first win of the season over our northern neighbours. Formartine have just taken all 3 points from the Locos, which we failed to manage.
+We go into this match 3 points ahead of Formartine Utd, but they in turn have a game in hand over us. Wick took the honours at NLP earlier this season whilst we've chalked up our first win of the season over our northern neighbours. Formartine have just taken all 3 points from the Locos, which we failed to manage.
 
 There really is nothing in it, apart from the desire for 3 points and the need to keep firmly on the heels of Cove and Buckie. And that goes for both sides too.
 
