@@ -99,8 +99,20 @@ Whilst Sunday's Scottish sports media will no doubt be awash with the post match
 
 A hat-trick from Steven Ross, further goals from Alan Pollock, Colin Williamson and Zander Sutherland; a starting League debut for a hugely impressive Scott Lisle and a run out for his brother Cameron; a clean sheet for Joe.
 
-All in all, a satisfying afternoon at Dudgeon Park for the home team, and exactly the response we were looking for. 
+The game started at a full tempo, and whilst Brora were controlling the midfield, they were not overly pressing up front and the Keith keeper David Dey was well up to anything that he was being faced with. 
+
+In the 26th minute Steven Ross had a goal disallowed following retrospective discussions between the Referee and Linesman. This strange course of action spurred the Cattachs on and Alan Pollock opened the scoring with a perfectly placed free kick from 20 yards. 
+
+On the half hour mark Steven Ross made it 2-0 with a lovely executed chip over the advancing keeper. 
+
+Brora started the second half far brighter with Steven Ross and Scott Lisle connecting well up front and Scott Lisle was very unlucky to see two wonderful strikes saved well by the Keith shot stopper. 
+
+Colin Williamson made it 3-0 with a great header from a Sutherland corner. Shortly after it was 4-0 to the home side when Ross collected his second as he pounced on some slack defending in the Keith box. 
+
+Brora made it 5-0 with Ross completing his hat-trick from the penalty spot after Zander Sutherland was upended. 
+
+Brora completed their 6 goal haul when the industrious Sutherland scored from 18 yards and capped a fine all round display by the Cattachs.
+
+All in all, a satisfying afternoon at Dudgeon Park for the home team, and exactly the response we were looking for after being taken apart by Buckie Thistle on Wednesday evening. 
 
 Bouncebackability - it's in the Oxford English Dictionary. It's in the DNA of winners. It's in the Dudgeon Park dressing room.
-
-*Full report to follow*
