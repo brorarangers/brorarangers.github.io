@@ -7,6 +7,7 @@ html {
 
 body {
   margin: 0;
+  width: 100%;
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
   overflow-x: hidden; }
@@ -330,6 +331,30 @@ small {
     margin-right: 0; }
   .list-image img {
     width: 90px; }
+
+.main-footer {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%;
+  background-color: #a01;
+  color: #fff; }
+  .main-footer:last-child {
+    margin-right: 0; }
+  .main-footer .sponsor-bar {
+    background-color: #333; }
+  .main-footer .address {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 48.82117%; }
+    .main-footer .address:last-child {
+      margin-right: 0; }
+    .main-footer .address ul {
+      font-size: 0.75em;
+      width: 90%;
+      margin: 0 auto;
+      padding: 1em 0; }
 
 .match-banner {
   position: relative;
@@ -727,9 +752,3 @@ tr {
 
 td {
   padding: 0.45em 0; }
-
-.main-footer {
-  width: 100%;
-  display: table;
-  width: 100%;
-  table-layout: fixed; }

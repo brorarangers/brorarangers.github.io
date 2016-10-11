@@ -192,3 +192,24 @@
     width: 90px;
   }
 }
+
+
+// The main footer
+.main-footer  {
+  @include span-columns(12);
+  background-color: $primary-color;
+  color: #fff;
+  .sponsor-bar  {
+    background-color: $secondary-color;
+    //text-align: center;
+  }
+  .address {
+    @include span-columns(6);
+    ul  {
+      font-size: 0.75em;
+      width: 90%;
+      margin: 0 auto;
+      padding: 1em 0;
+    }
+  }
+}
