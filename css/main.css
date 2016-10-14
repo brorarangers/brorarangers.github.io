@@ -454,6 +454,38 @@ small {
 .scoreline {
   text-align: center; }
 
+.scorers {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%; }
+  .scorers:last-child {
+    margin-right: 0; }
+
+.team-line {
+  padding-left: 2em; }
+  .team-line li:last-child {
+    margin-bottom: 1em; }
+  .team-line h4 {
+    margin: 0 0 0.5em 0; }
+  @media screen and (min-width: 45em) {
+    .team-line {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 48.82117%;
+      margin-right: 0; }
+      .team-line:last-child {
+        margin-right: 0; } }
+  @media screen and (min-width: 55em) {
+    .team-line {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      .team-line:last-child {
+        margin-right: 0; } }
+
 .faux-button {
   border: 3px solid #a01;
   background-color: #a01;

@@ -9,8 +9,10 @@ layout: default
   {% capture competition %}{{ details.competition }}{% endcapture %}
     {% if details.home-team == "Brora Rangers" %}
       {% capture opposition %}{{ details.away-team }}{% endcapture %}
+      {% capture home %}{{ details.home-team }}{% endcapture %}
     {% else %}
       {% capture opposition %}{{ details.home-team }}{% endcapture %}
+      {% capture away %}{{ details.away-team }}{% endcapture %}
     {% endif %}
 <article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
@@ -83,50 +85,87 @@ layout: default
 </article>
 
 <section class="additional-info">
-  {% if competition contains 'League' %}
   <div class="section-header">
-    <h3>League Table</h3>
+    <h3>Match Stats</h3>
   </div>
-    {% assign team = site.data.table %}
-<section class="table">
-{% for club in team %}
-  {% capture games %}{{ club.hpl | plus: club.apl }}{% endcapture %}
-  <ul class="stats">
-    {% assign position = forloop.index %}
-    {% case position %}
-      {% when 1 %} <p><strong>{{ position }}</strong><sup>st</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
-      {% when 2 %} <p><strong>{{ position }}</strong><sup>nd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
-      {% when 3 %} <p><strong>{{ position }}</strong><sup>rd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
-      {% else %} <p><strong>{{ position }}</strong><sup>th</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
-    {% endcase %}
-    <li>{{ club.tW }}<span>Wins</span></li>
-    <li>{{ club.tD }}<span>Draws</span></li>
-    <li>{{ club.tL }}<span>Losses</span></li>
-    <li>{{ club.tGF }}<span>GF</span></li>
-    <li>{{ club.tGA }}<span>GA</span></li>
-    <li>{{ club.tGD }}<span>GD</span></li>
-    <li>{{ club.Points }}<span>Points</span></li>
-  </ul>
-  {% endfor %}
-</section>
-
-  {% else %}
-  <div class="section-header">
-    <h3>Don't Miss</h3>
-  </div>
-  <section class="article-list">
-{% for post in site.posts limit: 4 %}
-    <ul class="list-item">
-      <li class="list-image">
-        <a href="{{ post.url }}">
-          <img class="list-image" src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
-        </a>
-      </li>
-      <li class="list-title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    </ul>
+  <ul class="team-line">
+    <h4>Starting line-up</h4>
+{% for player in page.team %}
+  <li>{{ player.name }}{% if player.replaced-by %} ({{ player.replaced-by }}) {% endif %}</li>
 {% endfor %}
-</section>
+  </ul>
+  <ul class="team-line">
+    <h4>Bench</h4>
+{% for player in page.bench %}
+  <li>{{ player.name }}</li>
+{% endfor %}
+  </ul>
+  <div class="scorers">
+  {% if home == 'Brora Rangers' %}
+  <ul class="team-line">
+    {% for scorer in page.home-goals limit: 1 %}
+    {% if scorer.name %}
+    <h4>Brora Goal Scorers</h4>
+    {% endif %}
+    {% endfor %}
+    {% for scorer in page.home-goals %}
+    <li>
+      {% if scorer.name %}
+      {{ scorer.name }}
+      {% for times in scorer.goal-times %}
+        ({{ times.time }})
+      {% endfor %}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% elsif away == 'Brora Rangers' %}
+  <ul class="team-line">
+    {% for scorer in page.away-goals limit: 1 %}
+    {% if scorer.name %}
+    <h4>Brora Goal Scorers</h4>
+    {% endif %}
+    {% endfor %}
+    {% for scorer in page.away-goals %}
+    <li>
+      {% if scorer.name %}
+      {{ scorer.name }}
+      {% for times in scorer.goal-times %}
+        ({{ times.time }})
+      {% endfor %}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
   {% endif %}
+  </div>
+  <div class="scorers">
+  <ul class="team-line">
+  {% for caution in page.brora-yellows limit: 1 %}
+  {% if caution.name %}
+    <h4>Brora Cautions</h4>
+  {% endif %}
+  {% endfor %}
+  {% for caution in page.brora-yellows limit: 1 %}
+  {% if caution.name %}
+    <li>{{ caution.name }}</li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+  </div>
+  <div class="scorers">
+  <ul class="team-line">
+  {% for reds in page.brora-reds limit: 1 %}
+  {% if reds.name %}
+    <h4>Brora Reds</h4>
+  {% endif %}
+  {% endfor %}
+  {% for reds in page.brora-reds limit: 1 %}
+  {% if reds.name %}
+    <li>{{ reds.name }}</li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+  </div>
+
 </section>

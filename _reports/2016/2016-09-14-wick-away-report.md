@@ -62,17 +62,17 @@ bench:
   
 
 home-goals:
+  - name: Allan
+    goal-times:
+      - time: 70
+      
+away-goals:
   - name: Zander Sutherland
     goal-times:
       - time: 9
   - name: Andrew Greig
     goal-times:
       - time: 27
-      
-away-goals:
-  - name: Allan
-    goal-times:
-      - time: 70  
       
 brora-yellows:
   - name: Martin Maclean
