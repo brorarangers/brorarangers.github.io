@@ -146,7 +146,7 @@ layout: default
     <h4>Brora Cautions</h4>
   {% endif %}
   {% endfor %}
-  {% for caution in page.brora-yellows limit: 1 %}
+  {% for caution in page.brora-yellows %}
   {% if caution.name %}
     <li>{{ caution.name }}</li>
   {% endif %}
@@ -160,12 +160,14 @@ layout: default
     <h4>Brora Reds</h4>
   {% endif %}
   {% endfor %}
-  {% for reds in page.brora-reds limit: 1 %}
+  {% for reds in page.brora-reds %}
   {% if reds.name %}
     <li>{{ reds.name }}</li>
   {% endif %}
   {% endfor %}
   </ul>
   </div>
+</section>
+<section class="page-footer">
 
 </section>
