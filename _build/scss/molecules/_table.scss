@@ -11,6 +11,31 @@
 
 .main-table {
   @extend .table;
+  @include media($second-break) {
+    @include span-columns(6);
+    padding-left: 0.5em;
+  }
+}
+
+.table-header {
+  padding-top: 1em;
+  span  {
+    position: relative;
+    font-family: $serif;
+    font-size: 2.5em;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: -2px -2px #000, 2px -2px #000, -2px 2px #000, 2px 2px #000;
+    top: -0.5em;
+    left: -1em;
+    display: inline-block;
+  }
+  .sub-header {
+    position: relative;
+    top: -2.25em;
+    left: 6em;
+    font-size: 0.75em;
+  }
 }
 
 .stats {
