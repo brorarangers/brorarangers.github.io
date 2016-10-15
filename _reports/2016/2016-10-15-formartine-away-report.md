@@ -2,8 +2,8 @@
 layout: report
 season: 2016
 match-date: 15-10-2016
-headline: 
-description:
+headline: North Lodge Perks
+description: Goals from Paul Brindle, Scott Lisle, Andrew Greig and Steven Ross ensured that the Cattachs return home with the 3 points and add to their goal difference.
 image: yes
 quote:
 team:
