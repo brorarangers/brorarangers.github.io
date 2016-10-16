@@ -1,0 +1,87 @@
+---
+layout: default
+permalink: /table/
+banner: League Table
+description: The Scottish Highland Football League Table. Check out Brora Rangers attempt at a 3rd League Title.
+---
+
+{% assign team = site.data.table %}
+<section class="main-table">
+  <div class="table-header">
+    <img src="/images/logos/League.png">
+    <span>League Table</span>
+    {% for club in team limit: 1 %}
+    <p class="sub-header">Updated on {{ club.Updated | date: '%A, %d %B' }} </p>
+    {% endfor %}
+  </div>
+{% for club in team %}
+  {% capture games %}{{ club.hpl | plus: club.apl }}{% endcapture %}
+  <ul class="stats">
+    {% assign position = forloop.index %}
+    {% case position %}
+      {% when 1 %} <p><strong>{{ position }}</strong><sup>st</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 2 %} <p><strong>{{ position }}</strong><sup>nd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% when 3 %} <p><strong>{{ position }}</strong><sup>rd</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+      {% else %} <p><strong>{{ position }}</strong><sup>th</sup> -<strong> {{ club.Club }}</strong> after <strong>{{ games }}</strong> games.</p>
+    {% endcase %}
+    <li>{{ club.tW }}<span>Wins</span></li>
+    <li>{{ club.tD }}<span>Draws</span></li>
+    <li>{{ club.tL }}<span>Losses</span></li>
+    <li>{{ club.tGF }}<span>GF</span></li>
+    <li>{{ club.tGA }}<span>GA</span></li>
+    <li>{{ club.tGD }}<span>GD</span></li>
+    <li>{{ club.Points }}<span>Points</span></li>
+  </ul>
+  {% endfor %}
+</section>
+
+<section class="team-stats">
+  <div class="table-header">
+    <img src="/images/logos/Brora-Rangers.png">
+    <span>League Stats</span>
+    {% for club in team limit: 1 %}
+    <p class="sub-header">Our season in numbers</p>
+    {% endfor %}
+  </div>
+  <ul class="league-stats">
+    <li class="stat-header">Home Record</li>
+  {% for club in team %}
+  {% if club.Club == 'Brora Rangers' %}
+    <li class="league-stat">{{ club.hpl }}</li>
+    <li class="stat-text">Games played</li>
+    <li class="league-stat">{{ club.hW }}</li>
+    <li class="stat-text">Games won</li>
+    <li class="league-stat">{{ club.hGF }}</li>
+    <li class="stat-text">Goals scored</li>
+    <li class="league-stat">{{ club.hGA }}</li>
+    <li class="stat-text">Goals conceded</li>
+  {% endif %}
+  {% endfor %}
+
+  <li class="stat-header">Away Record</li>
+  {% for club in team %}
+  {% if club.Club == 'Brora Rangers' %}
+    <li class="league-stat">{{ club.apl }}</li>
+    <li class="stat-text">Games played</li>
+    <li class="league-stat">{{ club.aW }}</li>
+    <li class="stat-text">Games won</li>
+    <li class="league-stat">{{ club.aGF }}</li>
+    <li class="stat-text">Goals scored</li>
+    <li class="league-stat">{{ club.aGA }}</li>
+    <li class="stat-text">Goals conceded</li>
+  {% endif %}
+  {% endfor %}
+
+    <li class="stat-header">Looking ahead</li>
+  {% for club in team %}
+  {% if club.Club == 'Brora Rangers' %}
+    <li class="league-stat">{{ 34 | minus: club.apl | minus: club.hpl }}</li>
+    <li class="stat-text">Games remaining</li>
+    <li class="league-stat">{{ 34 | minus: club.apl | minus: club.hpl | times: 3 }}</li>
+    <li class="stat-text">Points available</li>
+    <li class="league-stat">{{ 34 | minus: club.apl | minus: club.hpl | times: 3 | plus: club.Points }}</li>
+    <li class="stat-text">Max final tally</li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+</section>
