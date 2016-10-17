@@ -1,7 +1,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@brorarangers">
 <meta name="twitter:creator" content="@brorarangers">
-<meta name="twitter:text:title" content="{% if page.headline %}{{ page.headline }}{% else %}{{ site.name }}{% endif %}">
+<meta name="twitter:text:title" content="{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}">
 <meta name="twitter:description" content="{{ page.description }}">
 <meta name="twitter:image" content="{{ site.url }}/images/articles/{{ page.url | remove_first: '/' | replace: '/', '-' }}large.jpg">
 
