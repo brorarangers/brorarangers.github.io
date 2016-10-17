@@ -36,4 +36,4 @@ So we're both sitting 3rd in our respective Leagues. We're both well within touc
 
 It's all adding up to be a cracking Cup tie. It's too early in the week to get our [Match Preview](/fixtures/) written up, but rest assured, there are several more links between our two clubs to investigate before Saturday comes.
 
-It isn't too late, however, to get your [Match Day Hospitality](/2016/10/13/clyde-hospitality/) sorted out. Make the most of the occasion, treat yourself and your friends or clients to a 3 course lunch and all the trimmings, and get ready to enjoy all the excitement of the Scottish Cup.
+It isn't too early, however, to get your [Match Day Hospitality](/2016/10/13/clyde-hospitality/) sorted out. Make the most of the occasion, treat yourself and your friends or clients to a 3 course lunch and all the trimmings, and get ready to enjoy all the excitement of the Scottish Cup.
