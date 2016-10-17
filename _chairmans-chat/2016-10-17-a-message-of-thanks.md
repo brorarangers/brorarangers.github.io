@@ -5,7 +5,7 @@ description: Brora Rangers Chairman, William Powrie shares his thoughts on all t
 quote:
 edited:
 ---
-This week, a message of thanks for the hardy Brora Rangers travelling support ...
+This week, a message of thanks for the hardy, if slightly damp, Brora Rangers travelling support ...
 
 In atrocious weather conditions, our wonderful band of travelling supporters sang and cheered the team to a great victory at Formartine United on Saturday.
  
