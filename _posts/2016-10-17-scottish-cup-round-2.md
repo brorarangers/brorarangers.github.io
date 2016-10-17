@@ -22,9 +22,9 @@ We got our first chance in the Scottish Cup back in the 1955-56 season. A defeat
 
 {% include article-image.html image="1" float="right" %}
 
-Oh yes, Clyde FC have a pedigree when it comes to the Scottish Cup. That was the 2nd time they'd won the Scottish Cup. They got their hands on it again in 1957-58.
+Oh yes, Clyde FC have a pedigree when it comes to the Scottish Cup. That was the 2nd time they'd won the trophy. They got their hands on it again in 1957-58.
 
-Probably their most notable period as reigning Scottish Cup holders was from the 1938-39 season to 1946-47. We are not suggesting for a second that the Bully Wee had a hand in orchestrating the Britain's involvement in WWII just to hang on to the oldest trophy in association football, but hang on to it they did, for 8 years.
+Probably their most notable period as reigning Scottish Cup holders was from the 1938-39 season to 1946-47. We are not suggesting for a second that the Bully Wee had a hand in orchestrating Britain's involvement in WWII just to hang on to the oldest trophy in association football, but hang on to it they did, for 8 years.
 
 1958 is a long time ago though. We've got over our defeat in 1956, we've forgiven Arbroath for putting us out in 1957, we've moved on from our defeat at the hands of Hamilton Academical. Even Buckie Thistle will be forgiven knocking us out in a 1979 replay as long as they carry on settling for low scoring draws in the League for the remainder of the season. We hold our heads high as we remember meetings against Dundee and Queen of the South. We'll reconsider our feelings about the Arbroath second round game last season, who knows, if they can overcome University of Stirling this weekend, we might just get a chance for revenge for that one anyway.
 
