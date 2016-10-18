@@ -85,6 +85,9 @@ brora-yellows:
   - name: Joe Malin
     card-times:
       - time: 72
+  - name: Ally Macdonald
+    card-times:
+      - time: 
       
 brora-reds:
   - name: 
