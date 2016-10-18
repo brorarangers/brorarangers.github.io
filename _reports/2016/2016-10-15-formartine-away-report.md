@@ -53,7 +53,7 @@ team:
     replaced-by-time: 
     
 bench:
-  - name: Daniel Cormack
+  - name: Michael Fraser
   - name: James Ross
   - name: Dale Gillespie
   - name: Martin Maclean

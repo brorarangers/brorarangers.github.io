@@ -22,7 +22,7 @@ Clyde, meanwhile, had cruised past Gala Fairydean in their 2nd Round tie with th
 
 We were flying high, still unbeaten, seemingly unstoppable. Memories were still fresh of big Cup jaunts away to Edinburgh and Irvine. Great days out, but ultimately ending in defeat. This tie felt different. This was the 3rd Round. This was League 2 opposition. *This* was our moment.
 
-The [BBC website](http://www.bbc.co.uk/sport/football/24681564) pretty much covered the match blow by blow. To save you the click, a screamer from Zander saw the Cattach's take the lead after only 3 minutes and it looked like we were going to run the Bully Wee off the plastic pitch. 10 minutes later Clyde equalised and the game settled into a very equal and competitve match. In the 74th minute Kevin Watt put the home team into the driving seat and despite a frantic last 15, that it was. Our Cup run was over.
+The [BBC website](http://www.bbc.co.uk/sport/football/24681564) pretty much covered the match blow by blow. To save you the click, a screamer from Zander saw the Cattach's take the lead after only 3 minutes and it looked like we were going to run the Bully Wee off the plastic pitch. 10 minutes later Clyde equalised and the game settled into a very equal and competitve match. In the 74th minute Kevin Watt put the home team into the driving seat and despite a frantic last 15, that was it. Our Cup run was over.
 
 Confidence and self belief can work wonders for a football team. Confidence and self belief and a hunger to win. We had all that on our Broadwood visit, but as it turned out, it just wasn't quite enough. Perhaps there was a vital missing ingredient?
 
@@ -42,7 +42,7 @@ Our starting line up back on the 2nd November 2013 was:
 - Sutherland
 - Greig
 
-Whilst there was obviously plenty experience of big games, big Cup games, in amongst our squad, this was our first season playing as a real title challenging squad. Indeed, our current manager had only arrived at the end of the previous month.
+Whilst there was obviously plenty experience of big games, big Cup games, in amongst our squad, this was our first season playing as a real title challenging team. Indeed, our current manager had only arrived at the end of the previous month.
 
 This time round we've picked up a fair bit experience of competing against SPFL opposition. We haven't done too badly. Room for improvement? Of course, isn't there always when you have ambition?
 
