@@ -94,8 +94,24 @@ brora-reds:
     card-times:
       - time: 
 ---
-This was an important game for both sides. Both must have seen it as a 'must win' fixture.
+Brora Rangers travelled home from North Lodge Park where they comfortably accounted for fellow championship contenders Formartine United.
 
-Goals from Paul Brindle, Scott Lisle, Andrew Greig and Steven Ross ensured that the Cattachs return home with the 3 points and add to their goal difference.
+Despite the torrential rain from early morning, the summer drainage work undertaken by the club had clearly worked, and once again credit must go to the groundstaff for preparing such a good playing surface given the conditions.
+ 
+A large band of visiting supporters made the long trip south and were rewarded with a truly gutsy, workmanlike performance from the Cattachs, topped off by 4 absolutely fantastic goals, which let the fans literally singing in the rain.
 
-Full report to follow
+Right from the kick off Brora were determined not to let Formartine settle into any routine, as they chased and harried the home side and forced them into many mistakes. Despite being away from home the Cattachs adopted a forward pressing line up with Ross, Brindle and Sutherland upfront supported by Pollock and Scott Lisle playing in the hole behind them. This was an ambitious tactic from Munro and his management team, and one which was to bring rich rewards.
+ 
+Brindle put Brora one up with a wonderful solo finish, rekindling memories of his pomp last season. He picked up a cross field ball wide on the left, beat the advancing Formartine defender to the ball and placed his shot nicely into the foot of the net.
+
+On 15 minutes Brora went 2 up when the young but hugely impressive Scott Lisle picked up a ball on the edge of the penalty box and weaved his way past two defenders before unleashing a drive into the bottom right hand of the goal, giving goalkeeper Andrew Reid no chance.
+
+Falling two goals behind seemed to galvanize Formartine, and Michie clipped the top of the Brora bar, although Joe Malin had the cross well covered. However on 25 minutes against the run of play, Formartine were given a lifeline, when the Referee awarded a penalty in the strangest of circumstances. Barbour cut in from the right of the Brora penalty box, and without going down or even appealing for anything, a penalty was given. Paul Lawson stepped up for the spot kick which reduced the deficit to one at the interval.
+ 
+The first 20 minutes of the second half were a tight affair,with Barbour and Anderson testing Malin, but the Brora keeper was well up to his task. At the other end Sutherland Ross and Lisle were a handful for the Formartine defence, and Brindle should have scored his second but Reid made an excellent save.
+ 
+Brora made three substitutions with Maclean, Greig and Gillespie coming on for Pollock, Lisle and Brindle and the changes gave Brora a new perspective on their game, one which Formartine struggled to cope with. Indeed Gillespie was unlucky with his first touch, as his dipping 25 yard shot just sailed over the Formartine crossbar. It was fairly one way traffic now and Brora deservedly  scored their third when Andrew Greig beat three defenders and sent a curling drive into the back of the Formartine net.
+ 
+Again Greig was instrumental in the fourth goal when after great work on the wing. He sent over a great cross into the path of Martin Maclean, who beat the advancing centre half whilst running wide to the right but whipped in a wonderful cross which found the awaiting Steven Ross to convert with a perfect strikers finish.
+ 
+Grant Munro was delighted with the performance, especially coming on the back of the 6-0 victory over Keith last week and tees up the Cattachs nicely for the 2nd Round William Hill [Scottish Cup tie](/2016/10/17/scottish-cup-round-2/) against SPFL side Clyde on Saturday.
