@@ -42,6 +42,10 @@ small {
       text-align: center;
       margin: 3em 0 2em 0; } }
 
+.gimme-less-space {
+  margin: 1em 0 1em 0;
+  text-align: center; }
+
 .force-newline {
   float: left;
   display: block;
@@ -492,6 +496,14 @@ small {
   border-radius: 4px;
   padding: 0.5em;
   color: #fff; }
+
+.faux-ghost-button {
+  font-size: 0.75em;
+  border: 3px solid #a01;
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 0.5em;
+  color: #a01; }
 
 .table, .main-table {
   width: 310px;

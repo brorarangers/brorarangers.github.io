@@ -63,6 +63,11 @@ small {
     }
 }
 
+.gimme-less-space  {
+  margin: 1em 0 1em 0;
+  text-align: center;
+}
+
 .force-newline  {
   @include span-columns(4);
 }

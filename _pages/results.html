@@ -96,7 +96,7 @@ description: All the recent results from Brora Rangers Football Club. Missed the
       {% for report in site.reports %}
         {% if report.match-date == details.date %}
   <ul class="list-item">
-    <li class="scoreline"><strong>{% if report.url %}<a href="{{ report.url }}">{% endif %}
+    <li class="scoreline"><strong>
         {% assign d = details.date | date: "%-d"  %}
 
         {% case d %}
@@ -106,11 +106,16 @@ description: All the recent results from Brora Rangers Football Club. Missed the
           {% else %}{{ d }}th
         {% endcase %}
         {{ details.date | date: "%B, %Y" }}
-      {% if report.url %}</a>{% endif %}</strong>
+      </strong>
         </li>
     <li class="scoreline"><img src="/images/logos/{{ details.home-team | replace: ' ', '-' }}.png" height="68px">
       <span class="home-score">{{ details.home-score }}</span>&nbsp&nbsp&nbsp<span class="away-score">{{ details.away-score }}</span>
       <img src="/images/logos/{{ details.away-team | replace: ' ', '-' }}.png" height="68px"></li>
+    {% if report.url %}
+        <div class="gimme-less-space">
+          <a class="faux-ghost-button" href="{{ report.url }}">Match Report</a>
+        </div>
+    {% endif %}
     <li class="scoreline">
       <strong>{{ details.home-team }}</strong> v <strong>{{ details.away-team }}</strong><br>
         <small>{{ details.competition }}</small>
