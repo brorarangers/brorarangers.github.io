@@ -21,7 +21,7 @@ This isn't Clyde's first trip to Dudgeon Park either, Barry Ferguson and his squ
 
 It would be very neat if we were to tidy up the stats with a home victory this time round. But we all know football doesn't work like that.
 
-Clyde currently sit in 3rd place in League 2 and come into this game on the back of a 1 goal victory in a tight meeting against newly promoted Edinburgh City at Meadowbank Stadium, whilst confidence will be high in the Cattachs squad after a 1-4 victory over Formartine Utd at North Lodge Park.
+Clyde currently sit in 3rd place in League 2 and come into this game on the back of a single goal victory in a tight meeting against newly promoted Edinburgh City at Meadowbank Stadium, whilst confidence will be high in the Cattachs squad after a 1-4 victory over Formartine Utd at North Lodge Park.
 
 Today, at 3pm, this tale will be played out at 16 grounds across the country. Annan Athletic will be expecting to deal with Lowland League new boys East Stirlingshire; Arbroath will be expecting to outdo Stirling University; Berwick Rangers will be expecting to progress at the expense of Hawick Royal Albert ... and so on. 
 
