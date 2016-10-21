@@ -2,8 +2,8 @@
 layout: preview
 season: 2016
 match-date: 22-10-2016
-description:
-image: true
+description: Brora Rangers get ready to face Clyde in the 2nd Round of the William Hill Scottish Cup on Saturday
+image: yes
 quote:
 ---
 Match Day is nearly here ... The 2nd Round of the William Hill Scottish Cup, Highland League v League 2, Brora Rangers v Clyde.
