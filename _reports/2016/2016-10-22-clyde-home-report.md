@@ -103,8 +103,6 @@ In the home dugout, Brora brought Andrew Greig on for Zander Sutherland and Stev
 
 As is so often the case, Brora's redoubled efforts to rescue the game left more openings for Clyde, and in the 78th minute another header, this time from Matthew Flynn, found the Brora net and Clyde had effectively booked their place in the 3rd Round.
 
-A Flynn header from close range 15 minutes later sealed victory and progression to Round 3 for Clyde.
-
 There's romance, excitement and adventures to be had in the Scottish Cup, and we are disappointed not to be taking a further part in that this season. However, our visitors felt we could easily hold our own in League 2, and that is where our focus lies.
 
 Our next game is at home against Clachnacuddin on the 29th October, but before that we have our all important [AGM](/2016/10/11/annual-general-meeting/) at 7pm on Tueday 25th in the Social Club. We'd love to see you at both.
