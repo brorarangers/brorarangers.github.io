@@ -3,7 +3,7 @@ layout: article
 category: match
 tags: 
 description: In a return of the 2013-14 season, Brora Rangers welcome Clyde FC to Dudgeon Park in the 2nd Round of the Scottish Cup.
-featured: yes
+featured: no
 image: yes
 quote:
 edited: 

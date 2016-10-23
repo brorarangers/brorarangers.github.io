@@ -2,7 +2,7 @@
 layout: article
 category: match
 description: Brora Rangers host Clyde in the 2nd Round of the Scottish Cup - make a day of it with our hospitality
-featured: yes
+featured: no
 image: yes
 quote:
 edited: 

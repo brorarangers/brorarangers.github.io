@@ -85,16 +85,26 @@ brora-reds:
     card-times:
       - time: 
 ---
-Two second half goals from Clyde ended Brora's Scottish Cup dream.
+Two second half goals from Clyde ended Brora's Scottish Cup dream at Dudgeon Park on Saturday.
 
-Despite a positive start from the home team, Lady Luck was not smiling on the Brora front line and it took a couple of typically athletic saves from Joe Malin to keep us in the driving seat.
+Despite a positive start from the home team, Clyde keeper John Gibson enjoyed a quiet day at the office as team mates David Gormley and Matthew Flynn ensured the Broadwood Club will be watching the William Hill Scottish Cup Third Round draw on Tuesday evening hoping for a favourable home tie to continue their progression in the Competition
 
-As the first half wore on Clyde began to get a feel for Dudgeon Park and gradually eased themselves into the game.
+Brora started the game with determination and energy and for the first 10 minutes seemed to have the better of their League 2 opponents. Brora's Ross Tokely could have opened the scoring in the opening minutes with a well placed header if it weren't for the quick reactions of Gibson. Minutes later Peter MacDonald forced a fantastic save from Brora's keeper, Joe Malin.
 
-Clyde opened the scoring on the hour mark from a poorly defended corner and it was always going to be a real battle for the Cattachs from that point. A Flynn header from close range 15 minutes later sealed victory and progression to Round 3 for Clyde.
+Whilst Brora continued to push forward, as the first half wore on Clyde began to get a feel for Dudgeon Park and gradually eased themselves into the game. The Highland League side had the lion's share of possession but Clyde always looked the more dangerous when attacking.
 
-The Scottish Cup may be over for Brora, but it's back to League business next Saturday as we welcome Clachnacuddin to Dudgeon Park.
+Both MacDonald and Sean Higgins picked up yellow cards in the first 30 minutes as Brora frustrated the Bully Wee, but the first half ended goalless.
 
-We said this would be a good yardstick to measure how a top 3 Highland League side measured up against a top 3 League 2 squad. Now we know, and it certainly isn't all doom and gloom for Brora Rangers.
+Martin Maclean replaced Gavin Morrison in the Brora midfield for the second half, but this changed little for the hosts. The Brora defence remained resolute and composed for the most part, but further up the park the rest of the team appeared to lack vision and ideas to create any real goal scoring chances. Clyde meanwhile continued to gather momentum and there was a feeling of inevitability about their opening goal.
 
-*Full report to follow*
+The deadlock was broken on the hour mark with Gormley's header from a poorly defended corner and it was always going to be a real battle for Brora from that point. With the damage done, Gormley was replaced by Martin McNiff 6 minutes later as Barry Ferguson prepared to defend his lead.
+
+In the home dugout, Brora brought Andrew Greig on for Zander Sutherland and Steven Mackay for Alan Pollock as the Highlanders made moves to chase the game.
+
+As is so often the case, Brora's redoubled efforts to rescue the game left more openings for Clyde, and in the 78th minute another header, this time from Matthew Flynn, found the Brora net and Clyde had effectively booked their place in the 3rd Round.
+
+A Flynn header from close range 15 minutes later sealed victory and progression to Round 3 for Clyde.
+
+There's romance, excitement and adventures to be had in the Scottish Cup, and we are disappointed not to be taking a further part in that this season. However, our visitors felt we could easily hold our own in League 2, and that is where our focus lies.
+
+Our next game is at home against Clachnacuddin on the 29th October, but before that we have our all important [AGM](/2016/10/11/annual-general-meeting/) at 7pm on Tueday 25th in the Social Club. We'd love to see you at both.
