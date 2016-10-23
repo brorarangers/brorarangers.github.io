@@ -105,4 +105,4 @@ As is so often the case, Brora's redoubled efforts to rescue the game left more 
 
 There's romance, excitement and adventures to be had in the Scottish Cup, and we are disappointed not to be taking a further part in that this season. However, our visitors felt we could easily hold our own in League 2, and that is where our focus lies.
 
-Our next game is at home against Clachnacuddin on the 29th October, but before that we have our all important [AGM](/2016/10/11/annual-general-meeting/) at 7pm on Tueday 25th in the Social Club. We'd love to see you at both.
+Our next game is at home against Clachnacuddin on the 29th October, but before that we have our all important [AGM](/2016/10/11/annual-general-meeting/) at 7pm on Tuesday 25th in the Social Club. We'd love to see you at both.
