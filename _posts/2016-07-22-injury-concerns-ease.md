@@ -1,7 +1,7 @@
 ---
 layout: article
 category: team
-tags: [Gavin-Morrison]
+tags: ['Gavin Morrison', 'Paul Brindle']
 description: Brora Rangers Physio is delighted with the progress of injured Gavin Morrison and Paul Brindle
 featured: yes
 image: yes

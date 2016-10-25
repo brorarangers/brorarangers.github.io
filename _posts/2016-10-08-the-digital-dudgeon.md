@@ -1,7 +1,7 @@
 ---
 layout: article
 category: boardroom
-description:
+description: Brora Rangers relaunch their website with the aim of improving communication with supporters, investors and sponsors.
 featured: yes
 image: yes
 quote:
