@@ -3,7 +3,7 @@ layout: article
 category: match
 tags: 
 description: The match between Lossiemouth and Brora Rangers scheduled for Christmas Eve has been moved a day forward.
-featured: 
+featured: yes
 image: yes
 quote:
 edited: 
