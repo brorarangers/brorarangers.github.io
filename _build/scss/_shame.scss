@@ -349,3 +349,44 @@ header.navigation {
     }
   }
 }
+
+.lotto-numbers  {
+  text-align: center;
+  a {
+    color: #fff;
+  }
+}
+
+.lotto-ball  {
+  display: inline-block;
+  width: 2em;
+  padding: 4px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1em;
+  background-color: $primary-color;
+  color: #fff;
+}
+
+.lotto-ball-big  {
+  display: inline-block;
+  margin-top: 1em;
+  width: 2em;
+  height: 2em;
+  padding: 4px;
+  border: 4px solid #000;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.6em;
+  background-color: $primary-color;
+  color: #fff;
+  @include media($first-break)  {
+    font-size: 1.8em;
+  }
+  @include media($first-break)  {
+    font-size: 2em;
+  }
+}

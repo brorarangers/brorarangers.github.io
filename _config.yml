@@ -41,6 +41,8 @@ collections:
   chairmans-chat:
     output: true
     permalink: /:year/:month/:day/:title/
+  lotto:
+    output: false
 
 #### Site settings ####
 current-season: 2016

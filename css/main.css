@@ -886,3 +886,40 @@ header.navigation {
         header.navigation .search-bar input {
           box-sizing: border-box;
           display: block; } }
+
+.lotto-numbers {
+  text-align: center; }
+  .lotto-numbers a {
+    color: #fff; }
+
+.lotto-ball {
+  display: inline-block;
+  width: 2em;
+  padding: 4px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1em;
+  background-color: #a01;
+  color: #fff; }
+
+.lotto-ball-big {
+  display: inline-block;
+  margin-top: 1em;
+  width: 2em;
+  height: 2em;
+  padding: 4px;
+  border: 4px solid #000;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.6em;
+  background-color: #a01;
+  color: #fff; }
+  @media screen and (min-width: 25em) {
+    .lotto-ball-big {
+      font-size: 1.8em; } }
+  @media screen and (min-width: 25em) {
+    .lotto-ball-big {
+      font-size: 2em; } }

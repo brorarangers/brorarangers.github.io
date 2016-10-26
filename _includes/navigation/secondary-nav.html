@@ -3,6 +3,18 @@
     <a href="/" class="logo">
       <img src="/images/logos/Rae-Energy.png" alt="Logo Image">
     </a>
+    {% unless page.url contains '/lotto/' %}
+    <section class="lotto-numbers">
+    {% for draw in site.lotto limit: 1 %}
+      <ul class="lotto">
+        {% for number in draw.numbers %}
+        <li class="lotto-ball">{{ number }}</li>
+        {% endfor %}
+      </ul>
+      <a href="/lotto/">Cattachs Lotto</a>
+    {% endfor %}
+    </section>
+    {% endunless %}
     <!--<a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu-2">More</a>
     <nav role="navigation">
       <ul id="js-navigation-menu-2" class="navigation-menu show">
@@ -10,4 +22,5 @@
         <li class="nav-link"><a href="/fixtures">Shop</a></li>
       </ul>
     </nav>-->
+  </div>
 </header>
