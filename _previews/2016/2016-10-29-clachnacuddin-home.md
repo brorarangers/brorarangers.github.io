@@ -13,7 +13,7 @@ Last weekend they ran out 2-0 victors over Inverurie Loco Works, the previous We
 
 They've claimed a few scalps this season, not least of which was a 2-2 draw against Cove Rangers last month. Food for thought indeed.
 
-It was apparent very early in the season that this was going to be an extremely competitive League season. Clubs were going to spring surprises and complacency wins no titles. Clach followed their 2-2 draw with the current title holders with a similar scoreline against opposite end of the table Rothes. Srathspey Thistle currently have 2 wins to their name this season, one of them was at Grant St Park against Clach.
+It was apparent very early in the season that this was going to be an extremely competitive League season. Clubs were going to spring surprises and complacency wins no titles. Clach followed their 2-2 draw with the current title holders with a similar scoreline against opposite end of the table Rothes. Strathspey Thistle currently have 2 wins to their name this season, one of them was at Grant St Park against Clach.
 
 Clach boss Iain Polworth knows what he needs to do, he was quoted in [Thursday's Highland News](http://www.highland-news.co.uk/Sport/Football/Only-our-best-will-do-against-rampant-Brora-say-Polworth-25102016.htm) as saying
 
