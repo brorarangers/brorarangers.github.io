@@ -8,7 +8,8 @@ banner: Cattachs Lotto
 <header>
   <div class="article-title" itemprop="articleBody">
     <h2 itemprop="name headline">Get your game on!</h2>
-  {% for draw in site.lotto limit: 1 %}
+  {% assign lotto = site.lotto | reverse %}
+  {% for draw in lotto limit:1 %}
     {% assign d = draw.date | date: "%-d"  %}
       <p>{{ draw.date | date: "%A" }}
         {% case d %}
@@ -21,7 +22,7 @@ banner: Cattachs Lotto
   {% endfor %}
   </div>
     <section class="lotto-numbers">
-    {% for draw in site.lotto limit: 1 %}
+    {% for draw in lotto limit:1 %}
       <ul class="lotto">
         {% for number in draw.numbers %}
         <li class="lotto-ball-big">{{ number }}</li>
@@ -33,7 +34,7 @@ banner: Cattachs Lotto
 
   <section class="article-content">
     <p>It's the Cattachs Lotto, pick 5 numbers from 1 to 20 and then keep your fingers crossed.</p>
-    {% for draw in site.lotto limit: 1 %}
+    {% for draw in lotto limit: 1 %}
     <p>Next week's Jackpot is <strong>£{{ draw.jackpot }}</strong></p>
     {% endfor %}
     <p>The Jackpot is a minimum of £1000.00, with £50.00 added each week the Jackpot goes unclaimed. Match four of the five winning numbers and you can collect our £50.00 Bonus prize.</p>

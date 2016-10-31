@@ -4,8 +4,9 @@
       <img src="/images/logos/Rae-Energy.png" alt="Logo Image">
     </a>
     {% unless page.url contains '/lotto/' %}
+    {% assign lotto = site.lotto | reverse %}
     <section class="lotto-numbers">
-    {% for draw in site.lotto limit: 1 %}
+    {% for draw in lotto limit: 1 %}
       <ul class="lotto">
         {% for number in draw.numbers %}
         <li class="lotto-ball">{{ number }}</li>
