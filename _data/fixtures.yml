@@ -163,8 +163,8 @@
       competition: Scottish Highland Football League
       home-team: Forres Mechanics
       away-team: Brora Rangers
-      home-score: P
-      away-score: P
+      home-score:
+      away-score:
       comment: Forres playing in the Scottish Cup
     - date: 19-11-2016
       kickoff: "15:00"
