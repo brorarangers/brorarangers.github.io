@@ -1,6 +1,7 @@
 ---
 layout: preview
 season: 2016
+headline: Strathspey Away Day
 match-date: 05-11-2016
 description:
 quote:
