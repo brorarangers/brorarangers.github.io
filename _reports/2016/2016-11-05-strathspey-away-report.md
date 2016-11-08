@@ -98,7 +98,7 @@ As new boy Jamie Duff made his debut in the red of Brora Rangers and September s
 
 Sid warmed the cockles of the travelling Brora support with a red hot 30 minutes when he came on as substitute at a near baltic Seafield Park. It seem fated that his goal also turned out to be the last kick of the match, and saw emotional scenes from Mackay and the travelling supporters who had braved the cold tundra of Grantown on Spey.
  
-After a totally dominating first half, Brora went in at the interval with just a solitary goal lead thanks to a penalty strike from Dale Gillespie, which the keeper did well to get a hand to, but the ball went into the net off the post, the keeper being a little unlucky.
+After a totally dominant first half Brora went in at the interval with just a solitary goal lead thanks to a penalty strike from Dale Gillespie, which the keeper did well to get a hand to but the ball went into the net off the post.
  
 The second half started sharply for the Cattachs and Steven Ross doubled the advantage with a well taken finish after some good work from Greig. Despite the continuing dominance of Brora, Strathspey had 5 across the back and Brora struggled to control the ball at the last pass, with some excellent work from Maclean, Gillespie and Sutherland going to waste for want of a final telling ball.
  
