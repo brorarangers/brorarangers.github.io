@@ -71,7 +71,7 @@ away-goals:
   - name: Dale Gillespie
     goal-times:
       - time: 21
-      - time: 85
+      - time: 90
   - name: Steven Ross
     goal-times:
       - time: 50
@@ -80,7 +80,7 @@ away-goals:
       - time: 75
   - name: Steven Mackay
     goal-times:
-      - time: 90
+      - time: 85
       
 brora-yellows:
   - name: 
@@ -96,7 +96,7 @@ Five goals and a clean sheet put the wintery weather to the back of the Red's mi
 
 As new boy Jamie Duff made his debut in the red of Brora Rangers and September signing Steven Ross added to his goal tally again, Steven Mackay made what may be his final appearance for the Club he captained to two League titles.
 
-Sid warmed the cockles of the travelling Brora support with a red hot 30 minutes when he came on as substitute at a near baltic Seafield Park. It seem fated that his goal also turned out to be the last kick of the match, and saw emotional scenes from Mackay and the travelling supporters who had braved the cold tundra of Grantown on Spey.
+Sid warmed the cockles of the travelling Brora support with a red hot 30 minutes when he came on as substitute at a near baltic Seafield Park. It seem fated that he would score, and saw emotional scenes from Mackay and the travelling supporters who had braved the cold tundra of Grantown on Spey.
  
 After a totally dominant first half Brora went in at the interval with just a solitary goal lead thanks to a penalty strike from Dale Gillespie, which the keeper did well to get a hand to but the ball went into the net off the post.
  
@@ -106,7 +106,7 @@ Manager Grant Munro hooked the hard working but largely ineffective Brindle back
  
 The previous defensive aerial dominance of Strathspey was dismantled by Mackay and then Campbell as Brora turned every attack into a goal scoring opportunity, and only the Strathy keeper, Stewart Black, and the woodwork kept the score at 2-0 . Andrew Greig had a excellent game and benefited greatly from the vision of Jamie Duff who on several occasions delivered 40 yard cross field balls behind the defence for Greig to run on to.
  
-The  Brora pressure was relentless and Campbell made it 3-0 when he bullied his way past the Thistle defence and planted his half volley into the top right hand corner of the net. The workmanlike Gillespie made it 4-0 with a thunderbolt of a strike from 30 yards giving the home team stopper no chance and then Mackay capped the performance off with a wonderful goal, a fitting end to the game.
+The  Brora pressure was relentless and Campbell made it 3-0 when he bullied his way past the Thistle defence and planted his half volley into the top right hand corner of the net. Sid scored the much celebrated 4th five minutes from time allowing the workmanlike Gillespie to make it it 5-0 with a thunderbolt of a strike from 30 yards almost on the whistle, giving the home team stopper no chance.
  
 Speaking after the match an emotional Mackay paid tribute to the Club and its supporters and whilst the current week will no doubt bring further transfer talk, Mackay certainly showed on this performance that despite his advancing years he lacks absolutely nothing in commitment nor fitness.
  
