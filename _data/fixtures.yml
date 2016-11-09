@@ -161,11 +161,11 @@
       kickoff: "15:00"
       venue:
       competition: Scottish Highland Football League
-      home-team: Forres Mechanics
-      away-team: Brora Rangers
+      home-team: Brora Rangers
+      away-team: Strathspey Thistle
       home-score:
       away-score:
-      comment: Forres playing in the Scottish Cup
+      comment: Rearranged due to Forres playing in the Scottish Cup
     - date: 19-11-2016
       kickoff: "15:00"
       venue:
