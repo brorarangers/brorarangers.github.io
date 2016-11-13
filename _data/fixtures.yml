@@ -183,8 +183,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Fort William
-      home-score:
-      away-score:
+      home-score: 8
+      away-score: 0
       comment:
     - date: 05-11-2016
       kickoff: "15:00"
