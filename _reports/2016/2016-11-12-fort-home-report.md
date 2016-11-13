@@ -97,4 +97,6 @@ brora-reds:
 ---
 Fort William felt the full force of a rampant Brora Rangers as they suffered their heaviest league loss this season.
 
-Brora Rangers continued their run of big wins and clean sheets to keep the pressure on at the head of the Highland Football League table. 19 goals scored with no reply in the last 3 games, with the prolific Steven Ross claiming 9 of them. 
+Brora Rangers continued their run of big wins and clean sheets to keep the pressure on at the head of the Highland Football League table. 19 goals scored with no reply in the last 3 games, with the prolific Steven Ross claiming 9 of them.
+
+*Full report to follow*
