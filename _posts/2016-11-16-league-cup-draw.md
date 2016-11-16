@@ -17,7 +17,7 @@ For Brora fans, we've had a few of these stand out days. Those 'where were you w
 
 Ahhh, memories. They are great. However, more importantly now, where will you be when we start our defence of the Breedon Aggregates League Cup? To be fair, we don't know the answer to that ourselves yet. However, what we do know, is that we will know soon.
 
-The draw for the Preliminary nd First rounds of this season's competition will take place at Inverurie Loco Works Harlaw Park on the 21st of November starting at 12 noon.
+The draw for the Preliminary and First rounds of this season's competition will take place at Inverurie Loco Works Harlaw Park on the 21st of November starting at 12 noon.
 
 Whilst we are not advocating taking the day off to await the results of the draw, it will be announced through our Twitter updates for the eager beavers, it should be a date for your diary.
 
