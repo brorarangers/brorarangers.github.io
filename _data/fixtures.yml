@@ -173,8 +173,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Nairn County
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 3
       comment:
     - date: 12-11-2016
       kickoff: "15:00"
