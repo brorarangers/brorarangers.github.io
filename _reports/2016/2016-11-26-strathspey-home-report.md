@@ -33,7 +33,7 @@ team:
     replaced-by-time:
   - name: Martin Maclean
     position: midfield
-    replaced-by:
+    replaced-by: Paul Brindle
     replaced-by-time:
   - name: Zander Sutherland
     position: midfield
@@ -65,7 +65,7 @@ bench:
 home-goals:
   - name: Zander Sutherland
     goal-times:
-      - time: 8
+      - time: 9
   - name: Martin Maclean
     goal-times:
       - time: 32
@@ -74,9 +74,12 @@ home-goals:
       - time: 61
   - name: Paul Brindle
     goal-times:
-      - time: 80
+      - time: 85
 
 away-goals:
+  - name: O’Donnell
+    goal-times:
+      - time: 25
   - name: Soto
     goal-times:
       - time: 58
