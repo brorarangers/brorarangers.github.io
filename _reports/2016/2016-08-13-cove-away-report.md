@@ -4,32 +4,32 @@ season: 2016
 match-date: 13-08-2016
 headline: Bragging rights go to Cove
 image: no
-quote: 
+quote:
 team:
   - name: Joe Malin
     position: goal
-    replaced-by: 
-    replaced-by-time: 
+    replaced-by:
+    replaced-by-time:
   - name: John Pickles
     position: defence
-    replaced-by: 
+    replaced-by:
     replaced-by-time:
   - name: Colin Williamson
     position: defence
-    replaced-by: 
-    replaced-by-time: 
+    replaced-by:
+    replaced-by-time:
   - name: Scott Houston
     position: defence
     replaced-by: Craig Campbell
     replaced-by-time: 78
   - name: Grant Munro
     position: defence
-    replaced-by: 
+    replaced-by:
     replaced-by-time:
   - name: Dale Gillespie
     position: midfield
-    replaced-by: 
-    replaced-by-time: 
+    replaced-by:
+    replaced-by-time:
   - name: Gavin Morrison
     position: midfield
     replaced-by:
@@ -44,13 +44,13 @@ team:
     replaced-by-time:
   - name: Zander Sutherland
     position: forward
-    replaced-by: 
-    replaced-by-time: 
+    replaced-by:
+    replaced-by-time:
   - name: Steven Mackay
     position: forward
     replaced-by: Andrew Greig
     replaced-by-time: 65
-    
+
 bench:
   - name: Daniel Cormack
   - name: Lewis Grant
@@ -58,8 +58,8 @@ bench:
   - name: Alan Pollock
   - name: Andrew Greig
   - name: Craig Campbell
-  - name: 
-  
+  - name:
+
 
 home-goals:
   - name: Smith
@@ -68,12 +68,12 @@ home-goals:
   - name: Megginson
     goal-times:
       - time: 75(pen)
-      
+
 away-goals:
   - name: Dale Gillespie
     goal-times:
       - time: 93
-      
+
 brora-yellows:
   - name: Colin Williamson
     card-times:
@@ -84,9 +84,9 @@ brora-yellows:
   - name: Scott Houston
     card-times:
       - time: 76
-      
+
 brora-reds:
-  - name: 
+  - name:
     card-times:
       - time:
 ---
@@ -94,7 +94,7 @@ On P&J Highland League flag day, Cove Rangers gave notice that they will be toug
 
 No titles will have been won or lost on the back of this result, but early seasonal bragging rights belong to the Aberdeen outfit.
 
-In what was an exciting match both teams had chances, but Cove always appeared to have the upper hand and set the tempo of the game. They processed the guile to slow the match down once they had taken an early lead and from then on never looked in too much difficulty.
+In what was an exciting match both teams had chances, but Cove always appeared to have the upper hand and set the tempo of the game. They possessed the guile to slow the match down once they had taken an early lead and from then on never looked in too much difficulty.
 
 Cove took an early lead through a Smith header which beat Malin, following some slack marking in the Cattachs back line. A Harry Milne cross from the left picked out Smith at the near post and his glancing header was well positioned to beat the outstretched Joe Malin.
 
