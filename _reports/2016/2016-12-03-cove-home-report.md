@@ -2,7 +2,7 @@
 layout: report
 season: 2016
 match-date: 03-12-2016
-headline: Sharper Cove bag the spoils
+headline: Honours to Cove in table top clash
 description:
 image: yes
 quote:
