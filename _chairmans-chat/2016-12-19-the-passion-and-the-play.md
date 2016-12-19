@@ -12,7 +12,7 @@ in what has been a period of change.
 
 It’s a great pity that things didn’t quite work out for Grant Munro, and I will reiterate that the 2-1 home defeat to Cove Rangers was not the contributory factor in Grant leaving the Club. In fact, the club sit top of the league and are still bang in the mix for the Championship, and have the Highland League and North of Scotland Cups to compete in, so Grant’s tenure at the helm could certainly be viewed as successful.
 
-However, as with any job in any walk of life, if you’re not enjoying it and things are not going as you wish, then the hard but difficult decision is to move on, and everybody at the club wishes him well for the future. As I’ve mentioned before, change is what keeps all of us alive and the Club is no different, so the application process has been completed and an interview shortlist will be drawn up.
+However, as with any job in any walk of life, if you’re not enjoying it and things are not going as you wish, then the hard but difficult decision is to move on, and everybody at the club wishes him well for the future. As I’ve mentioned before, change is what keeps all of us alive and the Club is no different, so the application process has been completed and an interview shortlist has now been drawn up.
 
 Football is a great game, the 90 minutes on a Saturday afternoon is what we all love, but the love affair goes deeper than that. It’s the build up to the match, the anticipation of the team selection and of course the post match analysis and opinions which give us all the oxygen to get through to the next Saturday.
 
