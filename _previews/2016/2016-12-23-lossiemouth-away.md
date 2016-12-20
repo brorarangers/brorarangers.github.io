@@ -2,6 +2,7 @@
 layout: preview
 season: 2016
 match-date: 23-12-2016
+title: Friday Night Fitba
 description: Brora Rangers get their Festive games underway at Lossiemouth's Grant Street Park on Friday night.
 quote:
 ---
