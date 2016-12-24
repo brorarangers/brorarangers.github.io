@@ -26,5 +26,3 @@ I have spent nearly 5 years at the club and when the job became available I felt
 The chance to manage these extremely talented and hard working group of players was one of the reasons I wanted the job.
 
 I will give everything I have to succeed and win more trophies for this club. The players, myself and the club will continue to compete for The trophies on offer ... I promise you that."
-
-Merry Christmas and best wishes for 2017.
