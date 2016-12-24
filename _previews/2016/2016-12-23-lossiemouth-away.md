@@ -8,8 +8,7 @@ image: true
 quote:
 ---
 We kick off our Festive games at Lossiemouth this Friday, weather permitting. It's an 8pm kick off, which may just help.
-
-Waterlogged pitches have only scuppered a couple of games so far this season, and a cold snap in mid November saw several games in the east postponed due to frozen turf, but by and large the weather has been kind to Highland League football so far this season. Dire warnings in the Press suggest Storm Barbara may make conditions less than favourable for a game of football this weekend though.
+ brorars been kind to Highland League football so far this season. Dire warnings in the Press suggest Storm Barbara may make conditions less than favourable for a game of football this weekend though.
 
 It certainly isn't a game we want to see postponed. And poor weather at our pre Christmas match last year against Clachnacuddin certainly didn't appear to have an adverse effect on the Cattachs.
 
