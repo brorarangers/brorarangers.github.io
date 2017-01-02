@@ -100,6 +100,16 @@
       home-score:
       away-score:
       comment:
+    - date: 07-01-2017
+      kickoff: "15:00"
+      venue:
+      hospitality:
+      competition: Scottish Highland Football League
+      home-team: Inverurie Loco Works
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 31-12-2016
       kickoff: "13:00"
       venue:
@@ -107,8 +117,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Huntly
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 23-12-2016
       kickoff: "20:00"
