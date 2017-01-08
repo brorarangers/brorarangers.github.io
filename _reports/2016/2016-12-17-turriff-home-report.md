@@ -89,9 +89,7 @@ Brora Rangers prevailed in a match in which the hosts had most of the play but i
 
 The win was crucial and takes the Cattachs back to the top of the league although all 3 of their main rivals have games in hand on them. However, none of their rivals managed to win to make it an even more satisfactory weekend for Brora.
 
-Turriff were without 9 players and as a result fielded a less experienced side. Gavin Morrison was the only injury absentee for the home team although Ally MacDonald and Alan Pollock were also unavailable and, as a result, both sides only had 3 oRoss Tokely has been appointed Team Manager and his support staff will be confirmed hopefully later today.
-
-Ross is a totally different kettle of fish to Grant who was totally out of his depth. Let us hope he grasps the nettle of the many difficult decisions which lie ahead. We will give him every support. utfield players on the bench. Colin Williamson deputised for MacDonald at left back with Ross Tokely and Jamie Duff at centre back and John Pickles started at right back. Dale Gillespie and Martin MacLean were in central midfield with Zander Sutherland and Andrew Greig wide whilst Paul Brindle and Craig Campbell were up front as the Cattachs started with a 4-4-2 formation.
+Turriff were without 9 players and as a result fielded a less experienced side. Gavin Morrison was the only injury absentee for the home team although Ally MacDonald and Alan Pollock were also unavailable and, as a result, both sides only had 3 outfield players on the bench. Colin Williamson deputised for MacDonald at left back with Ross Tokely and Jamie Duff at centre back and John Pickles started at right back. Dale Gillespie and Martin MacLean were in central midfield with Zander Sutherland and Andrew Greig wide whilst Paul Brindle and Craig Campbell were up front as the Cattachs started with a 4-4-2 formation.
 
 {% include article-image.html image="1" float="right" %}
 
