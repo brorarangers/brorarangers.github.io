@@ -2,7 +2,7 @@
 layout: article
 category: squad
 tags:
-headline: Brora swap Fat Cunt for Headless Chicken
+headline: Scott Graham heading back to Brora
 description:
 featured: yes
 image: yes
