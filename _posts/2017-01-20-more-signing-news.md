@@ -3,7 +3,7 @@ layout: article
 category: squad
 tags:
 headline: More Signing News
-description:
+description: Scott and Will return to Dudgeon, and a young striker joins the squad.
 featured: yes
 image: yes
 quote:
@@ -27,4 +27,4 @@ Will is delighted to be returning to Dudgeon Park, and commented, "It feels grea
 
 We have also confirmed the signing of Kyle Macleod from Ross County. The 21 year old Black Isle striker has had experience at Elgin also. He has signed for Brora despite much interest from elsewhere, and Cattachs Manager Ross Tokely was delighted at the signing.
 
-"Kyle is a proven striker, and powerful both on the park and in the air. I'm delighted that he has chosen Brora Rangers and I know he will be a great asset to the club" said Ross. 
+"Kyle is a proven striker, and powerful both on the park and in the air. I'm delighted that he has chosen Brora Rangers and I know he will be a great asset to the club" said Ross.
