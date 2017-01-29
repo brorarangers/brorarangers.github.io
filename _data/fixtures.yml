@@ -77,8 +77,8 @@
       competition: Scottish Highland Football League
       home-team: Fraserburgh
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 0
       comment:
     - date: 21-01-2017
       kickoff: "15:00"
@@ -87,8 +87,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Deveronvale
-      home-score:
-      away-score:
+      home-score: 6
+      away-score: 2
       comment:
     - date: 14-01-2017
       kickoff: "15:00"
@@ -97,8 +97,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Wick Academy
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 07-01-2017
       kickoff: "15:00"
@@ -107,8 +107,8 @@
       competition: Scottish Highland Football League
       home-team: Inverurie Loco Works
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 2
       comment:
     - date: 31-12-2016
       kickoff: "13:00"

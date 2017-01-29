@@ -1,0 +1,84 @@
+---
+layout: report
+season: 2016
+match-date: 
+headline: 
+description:
+image: yes
+quote:
+team:
+  - name: 
+    position: goal
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: defence
+    replaced-by:
+    replaced-by-time:
+  - name: 
+    position: defence
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: defence
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: defence
+    replaced-by: 
+    replaced-by-time:
+  - name: 
+    position: midfield
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: midfield
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: midfield
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: forward
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: forward
+    replaced-by: 
+    replaced-by-time: 
+  - name: 
+    position: forward
+    replaced-by: 
+    replaced-by-time: 
+    
+bench:
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  
+
+home-goals:
+  - name: 
+    goal-times:
+      - time: 
+      
+away-goals:
+  - name: 
+    goal-times:
+      - time: 
+      
+brora-yellows:
+  - name: 
+    card-times:
+      - time: 
+      
+brora-reds:
+  - name: 
+    card-times:
+      - time: 
+---

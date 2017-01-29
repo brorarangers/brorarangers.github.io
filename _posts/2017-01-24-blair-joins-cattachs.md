@@ -3,7 +3,7 @@ layout: article
 category: squad
 tags:
 headline: Blair joins the Cattachs
-description: Tough tackling, midfield playmaker Blair Maclennan has undertaken a loan spell with Brora Rangers.
+description: Tough tackling midfield playmaker Blair Maclennan has undertaken a loan spell with Brora Rangers.
 featured: yes
 image: yes
 quote:
