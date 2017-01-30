@@ -2,7 +2,8 @@
 layout: preview
 season: 2016
 match-date: 04-02-2017
-description:
+headline: The Top Two Tussle
+description: League leaders Buckie Thistle head to Dudgeon Park for some Press and Journal Big Game treatment
 quote:
 ---
 This Saturday sees the current Highland League leaders visit Dudgeon Park. Buckie Thistle have a 3 point advantage over us, with a game in hand.

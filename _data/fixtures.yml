@@ -47,6 +47,20 @@
       home-score:
       away-score:
       comment:
+    - date: 15-02-2017
+      kickoff: "20:00"
+      venue:
+      hospitality:
+      competition: League Cup
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      home-score-aet:
+      away-score-aet:
+      home-score-pens:
+      away-score-pens:
+      comment:
     - date: 11-02-2017
       kickoff: "15:00"
       venue:
