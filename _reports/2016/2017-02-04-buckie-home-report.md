@@ -76,7 +76,10 @@ away-goals:
       - time:
 
 brora-yellows:
-  - name:
+  - name: Ally Macdonald
+    card-times:
+      - time:
+  - name: Zander Sutherland
     card-times:
       - time:
 
