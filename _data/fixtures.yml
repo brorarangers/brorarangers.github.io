@@ -72,8 +72,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Buckie Thistle
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 1
       comment:
     - date: 28-01-2017
       kickoff: "15:00"
