@@ -28,6 +28,15 @@
       home-score:
       away-score:
       comment:
+    - date: 25-02-2017
+      kickoff: "15:00"
+      venue:
+      competition: League Cup
+      home-team: Huntly
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 18-02-2017
       kickoff: "15:00"
       venue:
@@ -58,8 +67,8 @@
       competition: League Cup
       home-team: Brora Rangers
       away-team: Inverurie Loco Works
-      home-score:
-      away-score:
+      home-score: 8
+      away-score: 0
       home-score-aet:
       away-score-aet:
       home-score-pens:
