@@ -105,4 +105,4 @@ It was Macleod again who added his third and Brora's fourth with another super l
 
 Brora continued to press and Gillespie was denied by a full length save from Ross Salmon and Campbell and Graham went close too.
 
-Brora boss Tokely paid credit to seventh placed Keith for their first half performance and acknowledged them as the better side in the first period. However he was delighted with the second half reaction and was especially pleased for Kyle Macleod who bagged not just a hat-trick of headers but three difficult chances to further establish himself in the Brora fold.
+Brora boss Tokely paid credit to ninth placed Keith for their first half performance and acknowledged them as the better side in the first period. However he was delighted with the second half reaction and was especially pleased for Kyle Macleod who bagged not just a hat-trick of headers but three difficult chances to further establish himself in the Brora fold.
