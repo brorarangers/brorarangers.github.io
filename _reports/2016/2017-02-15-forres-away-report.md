@@ -35,7 +35,7 @@ team:
     position: midfield
     replaced-by:
     replaced-by-time:
-  - name: Martin Malean
+  - name: Martin Maclean
     position: midfield
     replaced-by:
     replaced-by-time:
@@ -62,7 +62,7 @@ bench:
 
 
 home-goals:
-  - name: Syuart Soane
+  - name: Soane
     goal-times:
       - time: 88
 
