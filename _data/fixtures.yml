@@ -1,5 +1,14 @@
 - season: 2016
   fixtures:
+    - date: 22-04-2017
+      kickoff: "15:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: St Duthus
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 15-04-2017
       kickoff: "15:00"
       venue:
@@ -43,8 +52,8 @@
       competition: Scottish Highland Football League
       home-team: Keith
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 4
       comment:
     - date: 15-02-2017
       kickoff: "20:00"
@@ -53,8 +62,8 @@
       competition: Scottish Highland Football League
       home-team: Forres Mechanics
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 2
       home-score-aet:
       away-score-aet:
       home-score-pens:
