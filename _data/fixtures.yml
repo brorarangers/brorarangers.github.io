@@ -43,8 +43,8 @@
       competition: League Cup
       home-team: Huntly
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 3
       comment:
     - date: 18-02-2017
       kickoff: "15:00"
