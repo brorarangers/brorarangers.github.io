@@ -1,14 +1,5 @@
 - season: 2016
   fixtures:
-    - date: 22-04-2017
-      kickoff: "15:00"
-      venue:
-      competition: North of Scotland Cup
-      home-team: St Duthus
-      away-team: Brora Rangers
-      home-score:
-      away-score:
-      comment:
     - date: 15-04-2017
       kickoff: "15:00"
       venue:
@@ -18,14 +9,59 @@
       home-score:
       away-score:
       comment:
+    - date: 12-04-2017
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score:
+      away-score:
+      comment:
+    - date: 08-04-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Huntly
+      home-score:
+      away-score:
+      comment:
+    - date: 01-04-2017
+      kickoff: "15:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: St Duthus
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 25-03-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Formartine Utd
+      home-score:
+      away-score:
+      comment:
     - date: 18-03-2017
       kickoff: "15:00"
       venue:
       competition: Scottish Highland Football League
       home-team: Clachnacuddin
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 5
+      comment:
+    - date: 11-03-2017
+      kickoff: "15:00"
+      venue:
+      competition: League Cup
+      home-team: Brora Rangers
+      away-team: Cove Rangers
+      home-score: 0
+      away-score: 1
       comment:
     - date: 04-03-2017
       kickoff: "15:00"
@@ -34,8 +70,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Formartine Utd
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 25-02-2017
       kickoff: "15:00"
