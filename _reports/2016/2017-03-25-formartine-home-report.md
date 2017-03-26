@@ -21,7 +21,7 @@ team:
     replaced-by-time:
   - name: Colin Williamson
     position: defence
-    replaced-by:
+    replaced-by: John Pickles
     replaced-by-time:
   - name: Jamie Duff
     position: defence
@@ -29,7 +29,7 @@ team:
     replaced-by-time:
   - name: Gavin Morrison
     position: midfield
-    replaced-by:
+    replaced-by: Scott Lisle
     replaced-by-time:
   - name: Martin Maclean
     position: midfield
@@ -49,7 +49,7 @@ team:
     replaced-by-time:
   - name: Andrew Greig
     position: forward
-    replaced-by:
+    replaced-by: Steven Ross
     replaced-by-time:
 
 bench:
@@ -93,10 +93,27 @@ brora-reds:
 ---
 For the second weekend in a row Brora kept a clean sheet while smashing five goals past their opposition.
 
-Hat trick hero, Kyle Macleod had Brora 2-0 ahead within the first five minutes and Formartine were always going to struggle to get themselves back into the game from such an explosive start from the Cattachs.
+In doing so we moved back to the top and one point clear at the head of the P&J Highland League after a clinical display of finishing against title chasing Formartine United at Dudgeon Park on Saturday.
 
-A 23rd minute goal from Scott Graham, followed by a cheeky lob from Zander on the half hour mark saw Brora head up the tunnel at half time 4-0 ahead.
+Two goals from Kyle MacLeod in the opening six minutes, the second from the penalty spot, gave Brora a dream start. Further goals from Scott Graham and Zander Sutherland put the home side 4-0 up a the break.
 
-Kyle claimed his hat trick in the 51st minute, and Formartine were unable to trouble the back four enough to get any shots into Ross Munro in the Brora goal.
+MacLeod completed his hat-trick early in the second half as Brora kept their title hopes alive with this win.
 
-*Full report to follow*
+Brora went ahead after just two minutes when MacLeod scored with a wonderfully placed header after he got on the end of an Andrew Greig cross.
+
+The home side doubled their lead four minutes later after they were awarded a penalty when Formartine defender Russell McBride fouled MacLeod inside the box. MacLeod took the spot kick  himself and made no mistake from 12 yards.
+
+Brora goalkeeper Ross Munro did well to turn a snap shot from Scott Barbour behind for a corner, but most of the action was at the other end.
+MacLeod was presented with a chance to net his hat-trick shortly afterwards but Formartine keeper Andy Reid was quick off his line to make a  point-blank save.
+
+Brora stretched their advantage in the 24th minute when the ever busy Greig squared the ball for Scott Graham who drilled a spectacular 25-yard shot past Reid.
+
+The goals kept coming and it was 4-0 eight minutes later when Sutherland scored from even further out with a stunning shot which flew high into the net.
+
+Formartine made a double substitution at the start of the second half with Scott Ferries and Jamie Masson coming on but Brora went further ahead in the 52nd minute when MacLeod tucked away a Sutherland cut back to claim his second hat-trick since joining Brora in January.
+
+Formartine went in search of a consolation counter and Graeme Rodger was not too far away with a speculative shot from outside the 18-yard box, which cleared the crossbar.
+
+Barbour forced a goal-line clearance from Brora sub John Pickles but that was the extend of Formartine's attack  as messrs, Houston, Mackay,Williamson and Duff were imperious at the back for the Cattachs.
+
+Brora finished strongly as they rang the changes in the last 20 minutes. Sutherland, Graham and Ross should have perhaps turned the goal counter further, but overall it was a very very good day at the office for Brora Rangers.
