@@ -33,8 +33,8 @@
       competition: North of Scotland Cup
       home-team: St Duthus
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 9
       comment:
     - date: 25-03-2017
       kickoff: "15:00"
