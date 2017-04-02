@@ -107,6 +107,6 @@ On a day where the Brora Rangers Legends recorded a famous 5-3 victory over the 
 
 The Tain Club held on well to keep the score at 0-1 at half time, despite efforts from Kyle Macleod, Zander and Chubbs. However, Brora changed up a gear in the second half, with Andrew Greig and Steven Ross scoring two apiece within the opening 10 minutes.
 
-We now await the meeting of Strathspey Thistle and Nairn County on the 22nd April to see who we meet in the 2nd Round
+We now await the meeting of Strathspey Thistle and Nairn County on the 8th April to see who we meet in the 2nd Round
 
 *Full report to follow*
