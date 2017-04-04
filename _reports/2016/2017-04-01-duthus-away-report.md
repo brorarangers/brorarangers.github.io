@@ -137,7 +137,3 @@ Brora centre back Colin Williamson was taken to hospital with concussion after a
 Brora will now play the winners of the first round tie between Strathspey Thistle and Nairn County.
 
 Brora manager, Ross Tokely admitted it took time for his side to get going, he said: “They made it difficult for us in the first half, we weren't doing the basics. We had a wee chat at half time and it was miles better in the second half. We scored some good goals, and kept another clean sheet, which was pleasing. Whilst Will Counsell did not have much to do, what he did do he did well and we clearly have a very able deputy to Joe Malin in our ranks. All credit to St Duthus for implementing their game plan so well. They are having a great season and we all wish them well. "
-
-We now await the meeting of Strathspey Thistle and Nairn County on the 8th April to see who we meet in the 2nd Round
-
-*Full report to follow*
