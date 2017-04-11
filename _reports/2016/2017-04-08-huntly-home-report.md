@@ -85,12 +85,16 @@ brora-reds:
     card-times:
       - time:
 ---
-Brora Rangers racked up their 7th League victory in a row to keep the pressure on at the top of the table with a 2-0 win over Huntly at Dudgeon Park on Saturday.
+Brora Rangers maintained their Press and Journal Highland League title challenge with dominating 2-0 victory over a hard working Huntly side at Dudgeon Park on Saturday.
 
-Goals from Andrew Greig and Kyle Macleod see Brora, Buckie and Cove heading into Wednesday evenings games all sitting on 75 points.
+Brora's dominance was so great that the Aberdeenshire side never had a single shot on target throughout the 90 minutes, as the homeside took total control from the first whistle.
 
-Scott Houston, Scott Graham, Martin Maclean, Steven Mackay and keeper Joe Malin all returned to the starting line up.
+The Cattachs fans were delighted to see the return of Joe Malin in goal, who had undergone medical treatment at Leicester for an injured knee and ankle, replacing in the goals  young 16 year old Ross Munro who is on loan from Ross County.
 
-It was a fine afternoon for football, made all the better with the opportunity to retire to the Social Club at full time for our Player of the Year awards for this season.
+Brora's dominance was deservedly rewarded after 23 minutes when a hallmark strike from Andrew Greig beat the Huntly keeper to put the home side 1 up. Despite continued pressure Brora could not increase their advantage, although Kyle Macleod was unlucky when his effort came back off the post.
 
-*Full report to follow*
+Huntly started the second half a little brighter, but the Brora back line is very strong, marshalled by the talented Jamie Duff, and repelled with relative ease any Huntly attack.
+
+Brora doubled their lead after 72 minutes when a ball whipped in from Andrew Greig on the left was met with a gazelle type leap from Kyle Macleod who placed the ball low in the corner of the net evading the diving Huntly stopper.
+
+Despite several other good chances, Brora did not add to their tally, but the 3 points leave them sitting on 75 points alongside Cove Rangers and Buckie at the head of the table, albeit having played one game more.
