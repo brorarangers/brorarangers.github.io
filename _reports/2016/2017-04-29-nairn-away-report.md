@@ -71,7 +71,7 @@ away-goals:
   - name: Andrew Greig
     goal-times:
       - time: 2
-      - time: 4
+      - time: 48
   - name: Zander Sutherland
     goal-times:
       - time: 60
