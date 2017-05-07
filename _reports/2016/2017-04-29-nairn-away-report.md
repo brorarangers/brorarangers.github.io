@@ -19,7 +19,7 @@ team:
     position: defence
     replaced-by: Dale Gillespie
     replaced-by-time:
-  - name: JColin Williamson
+  - name: Colin Williamson
     position: defence
     replaced-by:
     replaced-by-time:
