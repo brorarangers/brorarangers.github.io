@@ -13,7 +13,7 @@ Launching the Hebridean Celtic Festival was a bold move to ensure the Long Islan
 
 Wolfstone were the headline event that year. They've been followed by Runrig, Hothouse Flowers, The Waterboys, The Saw Doctors ... the list goes on. But this summer the Peatbog Faeries and Skerryvore have some real competition.
 
-The first weekend of July sees Brora Rangers return across The Minch to play a Lewis & Harris select 11 in our first pre-season match of the 2017-18 season. The island that saw us swoop for the 'Blackpudding Brothers' of Martin, and then younger brother Colin, a few seasons ago are about to get a taste of ho Highland Leaue football has brought our midfield mainstay on in hs game.
+The first weekend of July sees Brora Rangers return across The Minch to play a Lewis & Harris select 11 in our first pre-season match of the 2017-18 season. The island that saw us swoop for the 'Blackpudding Brothers' of Martin, and then younger brother Colin, a few seasons ago are about to get a taste of how Highland Leaue football has brought our midfield mainstay on in his game.
 
 We are currently finalising plans for other pre-season trips further south, but it is a party you are looking for, an excuse to spend some time with the squad, and what promises to be a fantastic game against the cream of the Western Isles footballing crop, Stornoway is a trip not to be missed.
 
