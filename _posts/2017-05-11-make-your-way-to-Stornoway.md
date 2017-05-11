@@ -15,7 +15,7 @@ Wolfstone were the headline event that year. They've been followed by Runrig, Ho
 
 The first weekend of July sees Brora Rangers return across The Minch to play a Lewis & Harris select 11 in our first pre-season match of the 2017-18 season. The island that saw us swoop for the 'Blackpudding Brothers' of Martin, and then younger brother Colin, a few seasons ago are about to get a taste of how Highland Leaue football has brought our midfield mainstay on in his game.
 
-We are currently finalising plans for other pre-season trips further south, but if it is a weekend with the squad a weekend with several fanatical supporters, afew sociable drinks and a chance of seasickness you are after .... look no further.
+We are currently finalising plans for other pre-season trips further south, but if it is a weekend with the squad a weekend with several fanatical supporters, a few sociable drinks and a chance of seasickness you are after .... look no further.
 
 Despite the photo, one of our long time ardent supporters, Callum Duff, promises to leave the gas tanker at home and leave plenty of room on the Saturday Ferry. It promises to be a weekend to remember ... the HebCelt festival has grown significantly since 1996 ... but so have Brora Rangers Football Club. 2017-18 promises to be a fantastic season for us, now is the time to get on board right from the start.
 
