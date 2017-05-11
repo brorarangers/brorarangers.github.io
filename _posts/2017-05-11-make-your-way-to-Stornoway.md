@@ -7,7 +7,9 @@ image: yes
 quote:
 edited:
 ---
-Back in 1996 the Isle of Lewis made a play for becoming one of the headline events of the summer. Launching the Hebridean Celtic Festival was a bold move to ensure the Long Island was a must visit venue for the summer.
+Back in 1996 the Isle of Lewis made a play for becoming one of the headline events of the summer.
+
+Launching the Hebridean Celtic Festival was a bold move to ensure the Long Island was a must visit venue for the summer.
 
 Wolfstone were the headline event that year. They've been followed by Runrig, Hothouse Flowers, The Waterboys, The Saw Doctors ... the list goes on. But this summer the Peatbog Faeries and Skerryvore have some real competition.
 
