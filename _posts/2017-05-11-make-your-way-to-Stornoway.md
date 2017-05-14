@@ -29,6 +29,6 @@ The Club have been in contact with Caledonian MacBrayne and they have confirmed 
 
 The return fare is £18.50 return and the return journey is valid for 1 month.
 
-[Goathill Park](https://www.google.co.uk/maps/dir/Stornoway+Lewis+Ferry+Terminal,+Stornoway/Goathill+Park,+Stornoway/@58.2102284,-6.3854426,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x488df7d37c0f8b97:0xdb150b1948f2184f!2m2!1d-6.387208!2d58.206131!1m5!1m1!1s0x48920827e8278029:0x2e12610b0b96678!2m2!1d-6.374949!2d58.214214!3e2) is only a short walk from the ferry terminal or any of Stornoway's finest watering holes
+[Goathill Park](https://www.google.co.uk/maps/dir/Stornoway+Lewis+Ferry+Terminal,+Stornoway/Goathill+Park,+Stornoway/@58.2102284,-6.3854426,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x488df7d37c0f8b97:0xdb150b1948f2184f!2m2!1d-6.387208!2d58.206131!1m5!1m1!1s0x48920827e8278029:0x2e12610b0b96678!2m2!1d-6.374949!2d58.214214!3e2) is only a short walk from the ferry terminal or any of Stornoway's finest watering holes.
 
 It would be great to see as many supporters as possible join us as we kick our season off.
