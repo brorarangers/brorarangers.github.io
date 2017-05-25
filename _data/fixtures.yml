@@ -4,10 +4,10 @@
       kickoff: "15:00"
       venue:
       competition: North of Scotland Cup
-      home-team: Fort William
-      away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-team: Brora Rangers
+      away-team: Fort William
+      home-score: 4
+      away-score: 1
       comment:
     - date: 06-05-2017
       kickoff: "15:00"
