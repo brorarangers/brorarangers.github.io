@@ -1,7 +1,7 @@
 ---
 layout: article
 category: match
-description: Brora Rangers confirm a pre-season match for against an Aberdeen FC XI at Dudgeon Park in early July
+description: Brora Rangers confirm a pre-season match against an Aberdeen FC XI at Dudgeon Park in early July
 featured: yes
 image: yes
 quote:
