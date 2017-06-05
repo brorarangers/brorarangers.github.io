@@ -23,6 +23,11 @@ banner: news
       <img class="feature-image"
         src="/images/typewriter.jpg"
         alt="{{ page.description }}">
+    {% elsif page.category == "breaking" %}
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/typewriter.jpg"
+        alt="{{ page.description }}">
     {% endif %}
     </div>
     <div class="article-excerpt">

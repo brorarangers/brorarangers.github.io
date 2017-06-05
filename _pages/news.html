@@ -28,7 +28,12 @@ description: The latest news from Brora Rangers | Stay up to date with Sutherlan
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
         </a>
     {% else %}
-
+      <div class="snippet-image">
+      <a href="{{ featured.url }}">
+      <img class="feature-image"
+        src="/images/typewriter.jpg"
+        alt="{{ page.description }}">
+        </a>
     {% endif %}
     </div>
     <div class="article-excerpt">
