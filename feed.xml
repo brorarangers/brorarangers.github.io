@@ -7,7 +7,7 @@ layout: null
     <title>{{ site.title | xml_escape }}</title>
     <subtitle>{{ site.description | xml_escape }}</subtitle>
     <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <updated>{{ site.time | date_to_rfc822 }}</updated>
+    <updated>{{ site.time }}</updated>
     <author>
       <name>{{ site.title | xml_escape }}</name>
       <email>{{ site.web-email | xml_escape }}</email>
