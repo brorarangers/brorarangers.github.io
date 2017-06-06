@@ -29,6 +29,9 @@ future: true
 include: [_pages]
 exclude: [package.json, node_modules, Gemfile, Gemfile.lock, README.md, gulpfile.js]
 
+gems:
+  - jekyll-feed
+
 collections:
   previews:
     output: true
