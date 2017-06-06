@@ -306,6 +306,42 @@
       home-score:
       away-score:
       comment:
+    - date: 12-07-2017
+      kickoff: "19:45"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Ross County
+      home-score:
+      away-score:
+      comment:
+    - date: 08-07-2017
+      kickoff: "15:00"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Aberdeen
+      home-score:
+      away-score:
+      comment:
+    - date: 04-07-2017
+      kickoff: "19:45"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Brora Rangers
+      away-team: Inverness Caledonian Thistle
+      home-score:
+      away-score:
+      comment:
+    - date: 01-07-2017
+      kickoff: "15:00"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Lewis & Harris Select
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
 - season: 2016
   fixtures:
     - date: 20-05-2017
