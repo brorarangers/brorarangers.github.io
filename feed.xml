@@ -3,7 +3,6 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
     <title>{{ site.title | xml_escape }}</title>
     <subtitle>{{ site.description | xml_escape }}</subtitle>
     <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
@@ -15,12 +14,13 @@ layout: null
     </author>
     <id>{{  site.baseurl | prepend: site.url }}/</id>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+{% assign autopost = site.posts | where: 'category', 'breaking' %}
+    {% for post in autopost limit:10 %}
       <entry>
         <title>{{ post.title | xml_escape }}</title>
         <summary>{{ post.description | xml_escape }}</summary>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"/>
+        <link rel="alternate" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"/>
         <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
         {% for cat in post.categories %}
         <category term="{{ cat | xml_escape }}"/>
