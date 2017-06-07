@@ -10,30 +10,36 @@ description: The Who's Who for the current Brora Rangers Football Club 1st Team 
   <li class="block"><a href="{{ player.url }}">{{ player.title }}</a>
     <ul>
       <li>{{ player.squad-number }}</li>
-      {% assign stats = site.reports where 'season', site.current-season %}
-      {% assign bench-stats = site.reports where 'season', site.current-season %}
+      {% assign stats = site.reports %}
+      {% assign bench-stats = site.reports %}
       {% assign start-counter = 0 %}
       {% for starts in stats %}
         {% for appearance in starts.team %}
+        {% if starts.season == site.current-season %}
           {% if player.title == appearance.name %}
             {% assign start-counter = start-counter | plus: 1 %}
           {% endif %}
+        {% endif %}
         {% endfor %}
       {% endfor %}
       {% assign subbed-counter = 0 %}
       {% for starts in stats %}
         {% for appearance in starts.team %}
+        {% if starts.season == site.current-season %}
           {% if player.title == appearance.replaced-by %}
             {% assign subbed-counter = subbed-counter | plus: 1 %}
           {% endif %}
+        {% endif %}
         {% endfor %}
       {% endfor %}
       {% assign bench-counter = 0 %}
       {% for bench in bench-stats %}
         {% for appearance in bench.bench %}
+        {% if bench.season == site.current-season %}
           {% if player.title == appearance.name %}
             {% assign bench-counter = bench-counter | plus: 1 %}
           {% endif %}
+        {% endif %}
         {% endfor %}
       {% endfor %}
       <li>{{ start-counter | plus: bench-counter }} appearances</li>
