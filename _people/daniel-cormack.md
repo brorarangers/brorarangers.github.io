@@ -1,5 +1,5 @@
 ---
 layout: people-profile
-category: current-squad
+category: past-squad
 squad-number: 19
 ---

@@ -1,6 +1,6 @@
 ---
 layout: people-profile
-category: management-team
+category: past-squad
 squad-number: 14
 position: manager
 ---
