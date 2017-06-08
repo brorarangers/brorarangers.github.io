@@ -21,6 +21,8 @@ layout: default
     <div class="article-excerpt">
       <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
     </div>
+    <br>
+    <p>Sponsored by <strong>Adrian Boyle</strong></p>
   </header>
 
   {% assign stats = site.reports where 'season', site.current-season %}
