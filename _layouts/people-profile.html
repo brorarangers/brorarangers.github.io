@@ -139,7 +139,7 @@ layout: default
 {% endfor %}
   </ul>
   <ul>
-  {% for reports in site.reports %}
+  {% for reports in site.reports | limit: 15 %}
     {% for scorer in reports.home-goals %}
     {% if scorer.name == page.title %}
     <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
@@ -148,7 +148,7 @@ layout: default
     {% endfor %}
   {% endfor %}
 
-  {% for reports in site.reports %}
+  {% for reports in site.reports | limit: 15 %}
     {% for scorer in reports.away-goals %}
     {% if scorer.name == page.title %}
     <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
