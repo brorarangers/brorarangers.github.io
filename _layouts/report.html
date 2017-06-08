@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+
+{% comment %}{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}{% endcomment %}
+
+{% assign fixtures = site.data.fixtures %}
+
 {% assign date = page.date | date: '%d-%m-%Y' %}
 {% for matches in fixtures %}
   {% for details in matches.fixtures %}
@@ -39,7 +43,7 @@ layout: default
       sizes="
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
     {% else %}
-
+    Stuff in here
     {% endif %}
     </div>
     <section class="report-image">

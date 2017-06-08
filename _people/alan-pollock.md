@@ -1,6 +1,7 @@
 ---
 layout: people-profile
 category: past-squad
+sponsored-by:
 squad-number: 8
 ---
 Alan signed from Nairn County in July 2016 after catching our eye in several games, not least the Highland League Cup Final at Grant Street Park.
