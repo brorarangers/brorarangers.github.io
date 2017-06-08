@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% comment %}{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}{% endcomment %}
+{% comment %}
+Changed to line below to allow linking back to previous seasons' reports
+{% assign fixtures = site.data.fixtures | where: "season", site.current-season %}
+{% endcomment %}
 
 {% assign fixtures = site.data.fixtures %}
 
