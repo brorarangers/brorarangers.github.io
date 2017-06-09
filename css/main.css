@@ -1014,3 +1014,11 @@ header.navigation {
 
 .share-button.google-plus svg {
   fill: #DB4437; }
+
+.enlarge {
+  font-size: 3em; }
+  @media screen and (min-width: 45em) {
+    .enlarge {
+      float: left;
+      padding-left: 0.5em;
+      padding-right: 0.15em; } }

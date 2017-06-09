@@ -462,3 +462,16 @@ header.navigation {
 .share-button.google-plus svg {
   fill: #DB4437;
 }
+
+
+// Some real messy stuff for the people profile pages
+
+.enlarge  {
+  font-size: 3em;
+  @include media($second-break){
+    //position: relative;
+    float: left;
+    padding-left: 0.5em;
+    padding-right: 0.15em;
+  }
+}

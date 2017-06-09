@@ -6,9 +6,7 @@ description: Welcome to the Digital Dudgeon Park. All the news, views, reports a
 ---
 {% assign news = site.posts | where: 'featured', true %}
 <article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
-{% for lead in news limit: 1 %}
-  {% capture lead-url %}{{ lead.url }}{%endcapture %}
-
+{% for lead in news limit: 1 %}{% capture lead-url %}{{ lead.url }}{%endcapture %}
   <header>
     <div class="article-title" itemprop="articleBody">
       <h1 itemprop="name headline">{{ lead.title }}</h1>

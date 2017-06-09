@@ -3,10 +3,13 @@ layout: default
 ---
 <article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
-    <div class="article-headline" itemprop="articleBody">
-      <h1 itemprop="name headline">{{ page.title }}</h1>
-    </div>
 
+    <div class="article-title" itemprop="articleBody">
+      <h1 class="" itemprop="name headline">{{ page.title }}</h1>
+    </div>
+    <div class="article-title enlarge">
+      <h1>{{ page.squad-number }}</h1>
+    </div>
     <div class="article-image">
       <img class="feature-image"
         src="/images/people/{{ page.title | replace: ' ','-' }}-large.jpg"
@@ -22,8 +25,17 @@ layout: default
       <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
     </div>
     <br>
-    <p>Sponsored by <strong>Adrian Boyle</strong></p>
+    <section class="article-content">
+    {% if page.sponsored-by %}
+    <p>Sponsored by <strong>{{ page.sponsored-by }}</strong></p>
+    {% else %}
+    <p><strong>Available for Sponsorship</strong></p>
+    {% endif %}
+  </section>
   </header>
+  <section class="article-content">
+    {{ content | remove: page.excerpt }}
+  </section>
 
   {% assign stats = site.reports where 'season', site.current-season %}
 
@@ -99,8 +111,8 @@ layout: default
   {% assign unused = bench-counter | minus: subbed-counter %}
   {% if featured > 0 %}
 {% if page.category == 'current-squad' %}
-  <section class="stats">
-  <h2>{{ page.title | split: ' ' | first }}'s season in numbers</h2>
+  <section class="stats article-content">
+  <h3>{{ page.title | split: ' ' | first }}'s season in numbers</h3>
     <ul>
       {% if start-counter > 0 %}
       <li>{{ start-counter }}<span class="counter">Starts</span></li>
@@ -124,9 +136,6 @@ layout: default
   {% endif %}
   </section>
 {% endif %}
-  <section class="article-content">
-    {{ content | remove: page.excerpt }}
-  </section>
 </article>
 
 <section class="additional-info">
