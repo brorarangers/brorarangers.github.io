@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Ross Munro', 'Steven Mackay']
 headline: No Dudgeon Doldrums
 description: It may be the doldrums between Christmas and the New Year but new Manager Ross Tokely has been busy.
 featured: yes

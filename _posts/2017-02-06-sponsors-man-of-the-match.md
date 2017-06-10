@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Gavin Morrison']
 headline: Sponsors' Man of the Match
 description: Brora Rangers Match Sponsors voted Gavin Morrison their Man of the Match after our meeting with Buckie Thistle
 featured: yes

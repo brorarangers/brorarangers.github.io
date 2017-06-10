@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Scott Graham']
 headline: I Won't Be Distracted
 description: Making a welcome return to Brora Rangers, Scott Graham shares his thoughts on the rest of the season.
 featured: yes

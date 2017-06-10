@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Mark Nicolson']
 headline: Mark Nicholson becomes a Cattach
 description: Brora Rangers FC are delighted to announce the signing of experienced 28 year old defender Mark "Twiggy" Nicholson from Elgin City FC.
 featured: yes

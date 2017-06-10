@@ -154,35 +154,33 @@ layout: default
 </article>
 
 <section class="additional-info">
+  <section class="article-list">
+  <h3>Featured games</h3>
+  <ul>
+  {% for reports in site.reports reversed %}
+  {% if reports.season == site.current-season %}
+    {% for player in reports.team %}
+    {% if player.name == page.title or player.replaced-by == page.title %}
+    <li><a href="{{ reports.url }}">{{ reports.title | remove: 'Report' }}</a><small> - {{ reports.date | date_to_string }}</small></li>
+    {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% endfor %}
+  </ul>
+  </section>
+  <br>
+  <section class="article-list">
   <h3>The {{ page.title | split: ' ' | last }} files ... </h3>
   {% assign person = page.title %}
   <ul>
 {% for posts in site.posts %}
   {% if posts.tags contains person %}
-    <li><a href="{{ posts.url }}">{{ posts.title }}</a></li>
-    <li>{{ posts.excerpt | truncatewords: 20 }}</li>
+    <li><a href="{{ posts.url }}">{{ posts.title }}</a><small> - {{ posts.date | date_to_string }}</small></li>
+    <li>{{ posts.description | truncatewords: 10 }}</li>
   {% endif %}
 {% endfor %}
   </ul>
-  <ul>
-  {% for reports in site.reports | limit: 15 %}
-    {% for scorer in reports.home-goals %}
-    {% if scorer.name == page.title %}
-    <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
-    <li>{{ reports.excerpt | truncatewords: 20 }}</li>
-    {% endif %}
-    {% endfor %}
-  {% endfor %}
-
-  {% for reports in site.reports | limit: 15 %}
-    {% for scorer in reports.away-goals %}
-    {% if scorer.name == page.title %}
-    <li><a href="{{ reports.url }}">{{ reports.headline }}</a></li>
-    <li>{{ reports.excerpt | truncatewords: 20 }}</li>
-    {% endif %}
-    {% endfor %}
-  {% endfor %}
-  </ul>
+  </section>
 </section>
 <section class="additional-info">
   <h3>More of our {{ page.category | replace: '-', ' ' }}</h3>

@@ -95,8 +95,8 @@ layout: default
   <section class="article-content">
   {% if page.hospitality == 'classic' %}
     <p>We are offering our Classic Hospitality Package for this fixture</p>
-  {% else %}
-
+  {% elsif page.hospitality == 'premium' %}
+    <p>We are offering our Premium Hospitality Package for this fixture</p>
   {% endif %}
   </section>
 {% endif %}

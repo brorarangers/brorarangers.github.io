@@ -1,7 +1,7 @@
 ---
 layout: article
 category: event
-tags:
+tags: ['Zander Sutherland', 'John Pickles', 'Ally Macdonald']
 headline: Players of the Year
 description: Brora Rangers held their Player of the Year awards on Saturday evening, with some very worthy winners.
 featured: yes

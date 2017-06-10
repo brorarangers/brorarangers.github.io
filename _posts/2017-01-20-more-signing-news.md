@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Alan Pollock', 'Scott Graham', 'Will Counsell', 'Kyle MacLeod']
 headline: More Signing News
 description: Scott and Will return to Dudgeon, and a young striker joins the squad.
 featured: yes

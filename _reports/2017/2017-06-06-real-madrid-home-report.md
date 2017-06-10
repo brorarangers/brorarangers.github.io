@@ -34,7 +34,7 @@ team:
     position: midfield
     replaced-by: Paul Brindle
     replaced-by-time: 64
-  - name:
+  - name: Gavin Morrison
     position: midfield
     replaced-by:
     replaced-by-time:
@@ -62,24 +62,24 @@ bench:
 
 
 home-goals:
-  - name:
-    goal-times:
-      - time:
+- name: Steven Mackay
+  goal-times:
+    - time: 2
+- name: Zander Sutherland
+  goal-times:
+    - time: 60
+- name: James Ross
+  goal-times:
+    - time: 80
+- name: Paul Brindle
+  goal-times:
+    - time: 86
+    - time: 87
 
 away-goals:
-  - name: Steven Mackay
+  - name: Ronaldo
     goal-times:
       - time: 2
-  - name: Zander Sutherland
-    goal-times:
-      - time: 60
-  - name: James Ross
-    goal-times:
-      - time: 80
-  - name: Paul Brindle
-    goal-times:
-      - time: 86
-      - time: 87
 
 brora-yellows:
   - name: Colin Williamson

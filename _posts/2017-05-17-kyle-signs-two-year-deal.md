@@ -1,8 +1,8 @@
 ---
 layout: article
 category: squad
-tags:
-headline: Kyle Macleod Signs New Deal
+tags: ['Kyle Macleod']
+headline: Kyle MacLeod Signs New Deal
 description: Brora Rangers are delighted to announce that Kyle MacLeod has penned a 2 year deal at Dudgeon Park
 featured: yes
 image: yes

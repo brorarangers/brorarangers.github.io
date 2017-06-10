@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['Gavin Morrison']
 headline: Morrison Pens Contract Extension
 description: The Former Inverness Caledonian Thistle Midfielder joined Brora back in 2013 and has today committed his future to the Cattachs until the end of season 2019/2020.
 featured: yes

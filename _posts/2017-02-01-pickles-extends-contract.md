@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: ['John Pickles']
 headline: Pickles Extends Contract
 description: Hot defender John Pickles extended his contract with Brora Rangers until the end of the 2018/19 season.
 featured: yes

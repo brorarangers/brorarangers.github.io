@@ -469,10 +469,13 @@ header.navigation {
 .enlarge  {
   font-size: 3em;
   @include media($second-break){
-    //position: relative;
     float: left;
     padding-left: 0.5em;
     padding-right: 0.15em;
+  }
+  @include media($third-break){
+    font-size: 4em;
+    padding-left: 1em;
   }
 }
 

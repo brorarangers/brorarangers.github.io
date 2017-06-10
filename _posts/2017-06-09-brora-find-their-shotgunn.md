@@ -7,6 +7,7 @@ category: squad
 date: '2017-06-09T15:40:03+00:00'
 description: Ex Elgin City FC striker Craig Gunn has completed a switch to Dudgeon
   Park
+tags: ['Craig Gunn']
 ---
 Ex Elgin City FC striker Craig Gunn has completed a switch to Dudgeon Park as Ross Tokely further strengthens for the upcoming campaign.
 
