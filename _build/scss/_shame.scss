@@ -475,3 +475,12 @@ header.navigation {
     padding-right: 0.15em;
   }
 }
+
+.push-right {
+  @include media($second-break){
+    margin-left: 5em;
+  }
+  @include media($third-break){
+    margin-left: 6em;
+  }
+}
