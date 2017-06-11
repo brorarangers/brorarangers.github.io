@@ -25,6 +25,8 @@ layout: default
       <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
     </div>
     <br>
+
+    {% if page.category == 'current-squad' %}
     <section class="article-content">
     {% if page.sponsored-by %}
     <p>Sponsored by <strong>{{ page.sponsored-by }}</strong></p>
@@ -32,6 +34,8 @@ layout: default
     <p><strong>Available for Sponsorship</strong></p>
     {% endif %}
   </section>
+  {% endif %}
+  
   </header>
   <section class="article-content">
     {{ content | remove: page.excerpt }}
@@ -183,6 +187,7 @@ layout: default
   </section>
 </section>
 <section class="additional-info">
+  <section class="article-list">
   <h3>More of our {{ page.category | replace: '-', ' ' }}</h3>
   <ul>
   {% for people in site.people %}
@@ -194,4 +199,5 @@ layout: default
   {% endif %}
   {% endfor %}
   </ul>
+</section>
 </section>

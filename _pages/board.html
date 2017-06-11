@@ -1,0 +1,109 @@
+---
+layout: default
+permalink: /board/
+category: 'Board'
+description: The Who's Who for the current Brora Rangers Football Club Board | Get the low down on your favourite players.
+---
+{% assign board = site.people | where: 'category', 'current-board' | sort: 'squad-number' %}
+<section class="article-wrapper">
+<header>
+  <div class="article-title" itemprop="articleBody">
+    <h1 itemprop="name headline">{{ site.current-season }} - {{ site.current-season | plus: 1}}</h1>
+  </div>
+  <div class="snippet-image">
+
+    <img class="feature-image"
+      src="/images/squad-large.jpg"
+      alt="{{ page.description }}"
+      srcset="
+      /images/squad-large.jpg 768w,
+      /images/squad-med.jpg 380w,
+      /images/squad-small.jpg 425w"
+    sizes="
+      (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+  </div>
+  <div class="article-excerpt">
+    <p>Brora Rangers have been competing since 1878. Meet the team that will carry on the tradition of proudly bearing the Cattach on their chest this season.</p>
+  </div>
+</header>
+
+<section class="match-article-list">
+  <div class="section-header">
+    <h2>The Men in Red</h2>
+  </div>
+  {% for member in board %}
+<ul class="list-item">
+  <li class="match-list-image"><a href="{{ member.url }}"><img class="" src="/images/people/{{ player.title | replace: ' ', '-' }}-thumbnail.jpg" height="65px"></a></li>
+
+      <li class="list-title"><a href="{{ member.url }}">{{ member.title }}</a></li>
+      {% if player.sponsored-by %}
+      <small class="right">Sponsored By: {{ player.sponsor }}</small>
+      {% else %}
+      <small class="right">Available for Sponsorship</small>
+      {% endif %}
+      {% assign stats = site.reports %}
+      {% assign bench-stats = site.reports %}
+      {% assign start-counter = 0 %}
+      {% for starts in stats %}
+        {% for appearance in starts.team %}
+        {% if starts.season == site.current-season %}
+          {% if player.title == appearance.name %}
+            {% assign start-counter = start-counter | plus: 1 %}
+          {% endif %}
+        {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% assign subbed-counter = 0 %}
+      {% for starts in stats %}
+        {% for appearance in starts.team %}
+        {% if starts.season == site.current-season %}
+          {% if player.title == appearance.replaced-by %}
+            {% assign subbed-counter = subbed-counter | plus: 1 %}
+          {% endif %}
+        {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% assign bench-counter = 0 %}
+      {% for bench in bench-stats %}
+        {% for appearance in bench.bench %}
+        {% if bench.season == site.current-season %}
+          {% if player.title == appearance.name %}
+            {% assign bench-counter = bench-counter | plus: 1 %}
+          {% endif %}
+        {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% capture appearances %}{{ start-counter | plus: bench-counter }}{% endcapture %}
+      {% if appearances != '0' %}
+      <li>{{ appearances }} appearances</li>
+      {% endif %}
+
+  </ul>
+{% endfor %}
+</section>
+</section>
+
+<section class="additional-info">
+<div class="section-header">
+  <h2>Don't miss</h2>
+</div>
+
+<section class="article-list">
+
+{% for post in site.posts limit: 3 %}
+{% unless post.url == lead-url %}
+    <ul class="list-item">
+    <li class="list-image">
+      <a href="{{ post.url }}">
+      <img src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    <li class="list-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    </ul>
+{% endunless %}
+{% endfor %}
+</section>
+
+</section>
