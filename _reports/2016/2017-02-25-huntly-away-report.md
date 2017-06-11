@@ -29,7 +29,7 @@ team:
     replaced-by-time:
   - name: Gavin Morrison
     position: midfield
-    replaced-by: Blair Maclennan
+    replaced-by:
     replaced-by-time:
   - name: Kyle Macleod
     position: midfield
@@ -41,7 +41,7 @@ team:
     replaced-by-time:
   - name: Steven Mackay
     position: forward
-    replaced-by: John Pickles
+    replaced-by: 
     replaced-by-time:
   - name: Zander Sutherland
     position: forward
