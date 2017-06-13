@@ -291,7 +291,11 @@ description: Welcome to the Digital Dudgeon Park. All the news, views, reports a
   {% endfor %}
   </header>
   <div class="gimme-space">
+    {% if games-remaining =='true' %}
     <a class="faux-button" href="{{ url }}">Read the full report</a>
+    {% else %}
+    
+    {% endif %}
   </div>
 </article>
 
