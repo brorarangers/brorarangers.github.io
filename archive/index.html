@@ -1,0 +1,88 @@
+---
+layout: default
+banner: News Archive
+---
+<!-- This loops through the paginated posts -->
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+{% for post in paginator.posts %}
+{% if forloop.index == 1 %}
+<div class="gimme-space">
+  {% if paginator.previous_page %}
+    <a class="" href="{{ paginator.previous_page_path }}" class="previous"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#a01c01" d="M7,12L12,7V10H16V14H12V17L7,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z" />
+</svg></a>
+  {% else %}
+    <span class="previous"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#d3d3d3" d="M7,12L12,7V10H16V14H12V17L7,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z" />
+</svg></span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="" href="{{ paginator.next_page_path }}" class="next"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#a01c01" d="M17,12L12,17V14H8V10H12V7L17,12M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12Z" />
+</svg></a>
+  {% else %}
+    <span class="next "><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#d3d3d3" d="M17,12L12,17V14H8V10H12V7L17,12M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12Z" />
+</svg></span>
+  {% endif %}
+</div>
+{% endif %}
+<header>
+<div class="article-title">
+  <h1>{{ post.title }}</h1>
+</div>
+{% if post.image %}
+  <div class="snippet-image">
+    <a href="{{ post.url }}">
+    <img class="feature-image"
+      src="/images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}large.jpg"
+      alt="{{ post.description }}"
+      srcset="
+      /images/articles/{{ post.url | remove_first: '/' | replace: '/', '-' }}large.jpg 768w,
+      /images/articles/{{ post.url| remove_first: '/' | replace: '/', '-' }}med.jpg 380w,
+      /images/articles/{{ post.url| remove_first: '/' | replace: '/', '-' }}small.jpg 425w"
+    sizes="
+      (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+      </a>
+  {% else %}
+    <div class="snippet-image">
+    <a href="{{ post.url }}">
+    <img class="feature-image"
+      src="/images/breaking.jpg"
+      alt="{{ post.description }}">
+      </a>
+  {% endif %}
+  </div>
+  <div class="article-excerpt">
+    {{ post.excerpt }}
+  </div>
+  <div class="gimme-space">
+    <a class="faux-button" href="{{ post.url }}">Read the full article</a>
+  </div>
+
+</header>
+{% endfor %}
+<!-- Pagination links -->
+<div class="gimme-space">
+  {% if paginator.previous_page %}
+    <a class="" href="{{ paginator.previous_page_path }}" class="previous"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#a01c01" d="M7,12L12,7V10H16V14H12V17L7,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z" />
+</svg></a>
+  {% else %}
+    <span class="previous"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#d3d3d3" d="M7,12L12,7V10H16V14H12V17L7,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z" />
+</svg></span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="" href="{{ paginator.next_page_path }}" class="next"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#a01c01" d="M17,12L12,17V14H8V10H12V7L17,12M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12Z" />
+</svg></a>
+  {% else %}
+    <span class="next "><svg style="width:44px;height:44px" viewBox="0 0 24 24">
+    <path fill="#d3d3d3" d="M17,12L12,17V14H8V10H12V7L17,12M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12Z" />
+</svg></span>
+  {% endif %}
+</div>
+</article>

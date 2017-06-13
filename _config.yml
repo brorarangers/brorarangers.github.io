@@ -31,6 +31,7 @@ exclude: [package.json, node_modules, Gemfile, Gemfile.lock, README.md, gulpfile
 
 gems:
   - jekyll-feed
+  - jekyll-paginate
 
 collections:
   previews:
@@ -47,6 +48,8 @@ collections:
   lotto:
     output: false
 
+paginate: 15
+paginate_path: "/archive/page:num/"
 #### Site settings ####
 current-season: 2017
 

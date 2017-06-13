@@ -36,48 +36,7 @@ description: The Who's Who for the current Brora Rangers Football Club Board | G
   <li class="match-list-image"><a href="{{ member.url }}"><img class="" src="/images/people/{{ player.title | replace: ' ', '-' }}-thumbnail.jpg" height="65px"></a></li>
 
       <li class="list-title"><a href="{{ member.url }}">{{ member.title }}</a></li>
-      {% if player.sponsored-by %}
-      <small class="right">Sponsored By: {{ player.sponsor }}</small>
-      {% else %}
-      <small class="right">Available for Sponsorship</small>
-      {% endif %}
-      {% assign stats = site.reports %}
-      {% assign bench-stats = site.reports %}
-      {% assign start-counter = 0 %}
-      {% for starts in stats %}
-        {% for appearance in starts.team %}
-        {% if starts.season == site.current-season %}
-          {% if player.title == appearance.name %}
-            {% assign start-counter = start-counter | plus: 1 %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-      {% endfor %}
-      {% assign subbed-counter = 0 %}
-      {% for starts in stats %}
-        {% for appearance in starts.team %}
-        {% if starts.season == site.current-season %}
-          {% if player.title == appearance.replaced-by %}
-            {% assign subbed-counter = subbed-counter | plus: 1 %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-      {% endfor %}
-      {% assign bench-counter = 0 %}
-      {% for bench in bench-stats %}
-        {% for appearance in bench.bench %}
-        {% if bench.season == site.current-season %}
-          {% if player.title == appearance.name %}
-            {% assign bench-counter = bench-counter | plus: 1 %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-      {% endfor %}
-      {% capture appearances %}{{ start-counter | plus: bench-counter }}{% endcapture %}
-      {% if appearances != '0' %}
-      <li>{{ appearances }} appearances</li>
-      {% endif %}
-
+      <li class="">{{ member.position | capitalize }}</li>
   </ul>
 {% endfor %}
 </section>
