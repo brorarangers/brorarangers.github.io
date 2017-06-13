@@ -50,7 +50,13 @@ banner: News Archive
     <path fill="#d3d3d3" d="M7,12L12,7V10H16V14H12V17L7,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12Z" />
 </svg></span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+{% for i in (1..paginator.total_pages) %}
+  {% if i == 1 %}
+  <span><a {% if paginator.page == i %}style="color: #d3d3d3"{% endif %} href="/archive/">{{ i }}&nbsp;</a></span>
+  {% else %}
+  <span><a {% if paginator.page == i %}style="color: #d3d3d3"{% endif %} href="/archive/page{{i}}/">&nbsp;{{ i }}&nbsp;</a></span>
+  {% endif %}
+{% endfor %}
   {% if paginator.next_page %}
     <a class="" href="{{ paginator.next_page_path }}" class="next"><svg style="width:44px;height:44px" viewBox="0 0 24 24">
     <path fill="#a01c01" d="M17,12L12,17V14H8V10H12V7L17,12M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12Z" />
