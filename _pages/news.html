@@ -53,7 +53,7 @@ description: The latest news from Brora Rangers | Stay up to date with Sutherlan
 
 <section class="article-list">
 
-{% for post in site.posts offset: 5 limit: 18 %}
+{% for post in site.posts offset: 5 limit: 17 %}
 {% unless post.url == lead-url %}
     <ul class="list-item">
     <li class="list-image">
@@ -68,4 +68,7 @@ description: The latest news from Brora Rangers | Stay up to date with Sutherlan
 {% endunless %}
 {% endfor %}
 </section>
+<div class="gimme-space">
+  <a class="faux-button" href="/archive/">News Archive</a>
+</div>
 </section>
