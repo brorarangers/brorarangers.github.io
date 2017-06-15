@@ -68,3 +68,33 @@ banner: News Archive
   {% endif %}
 </div>
 </article>
+<section class="additional-info">
+  {% assign last-season = site.current-season | minus: 1 %}
+  {% assign reports = site.reports | where: "season", last-season %}
+  <div class="section-header">
+    <h3>Last Season's Match Reports</h3>
+  </div>
+  <section class="article-list">
+    {% for match in reports %}
+  <ul class="list-item">
+    {% if match.image %}
+    <li class="list-image">
+      <a href="{{ match.url }}">
+        <img src="/images/articles/{{ match.url | remove_first: '/' | replace: '/', '-' }}thumbnail.jpg">
+      </a>
+    </li>
+    {% else %}
+    <li class="list-image">
+      <a href="{{ match.url }}">
+        <img src="/images/generic-report.jpg">
+      </a>
+    </li>
+    {% endif %}
+    <li class="list-title">
+      <a href="{{ match.url }}">{{ match.title | remove: "Report" }}</a>
+    </li>
+    <li class="list-title"><small>{{ match.date | date: "%d/%m/%y" }}</small></li>
+  </ul>
+  {% endfor %}
+  </section>
+</section>
