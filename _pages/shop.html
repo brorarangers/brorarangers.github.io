@@ -4,17 +4,13 @@ permalink: /shop/
 title: Brora Rangers Football Club | Shop
 banner: Shop
 ---
+<article class="article-wrapper">
 If you've stumbled across this ... be patient ... the Brora Rangers Online Shop is coming soon
 <ul>
 {% for product in site.merchandise %}
-  <li>{{ product.data-item-name }}</li>
+  <li>{{ product.data-item-name }} - {{ product.url }}</li>
 {% endfor %}
 </ul>
+</article>
 
-<button
-    class="snipcart-add-item"
-    data-item-id="2"
-    data-item-name="Jersey"
-    data-item-price="30.00">
-    Buy Now
-</button>
+<a href="#" class="snipcart-checkout">Click here to checkout</a>
