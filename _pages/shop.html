@@ -5,12 +5,29 @@ title: Brora Rangers Football Club | Shop
 banner: Shop
 ---
 <article class="article-wrapper">
-If you've stumbled across this ... be patient ... the Brora Rangers Online Shop is coming soon
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">Coming Soon!</h1>
+    </div>
+    <div class="snippet-image">
+      <img class="feature-image"
+        src="/images/shop.jpg"
+        alt="{{ page.description }}">
+    </div>
+    <div class="article-excerpt">
+      <p>Hot on the heels of our new shop which will be open at Dudgeon Park on match days, you will soon be able to buy your Brora Rangers merchandise online</p>
+    </div>
+  </header>
+{% assign merchandise = site.merchandise | sort: 'sku' %}
+<div class="article-content">
+  <p>In the meantime, have a browse through all our merchandise.</p>
+  <p>Our online shop assures secure shopping, with all your card details handled by PayPal to keep your details secure.</p>
 <ul>
-{% for product in site.merchandise %}
-  <li>{{ product.data-item-name }} - {{ product.url }}</li>
+{% for product in merchandise %}
+  <li>{{ product.name }} - {{ product.sku }} - {{ product.url }}</li>
 {% endfor %}
 </ul>
+</div>
 </article>
 
 <a href="#" class="snipcart-checkout">Click here to checkout</a>

@@ -1,5 +1,5 @@
 ---
-data-item-name: 'Home Jersey'
-data-item-id: 001
-data-item-price: 30
+name: 'Home Jersey'
+sku: 1
+price: 30
 ---
