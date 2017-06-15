@@ -16,3 +16,7 @@ They missed out on the chance to meet us in the playoff that season thanks to th
 Which makes the last of our pre-season matches all the more interesting.
 
 After a run of home games against higher League competition, (you have bought your [Season Ticket Taster](/2017/06/05/season-ticket-taster/)?) we head down to Edinburgh for the perfect test before our season begins in earnest.
+
+**The Spartans v Brora Rangers, 22nd July 2017, Ainslie Park, Edinburgh.**
+
+Full match preview coming soon at [Playoff Precursor?](/2017/07/22/spartans-away/)
