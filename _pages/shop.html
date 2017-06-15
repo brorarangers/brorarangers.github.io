@@ -4,3 +4,9 @@ permalink: /shop/
 title: Brora Rangers Football Club | Shop
 banner: Shop
 ---
+If you've stumbled across this ... be patient ... the Brora Rangers Online Shop is coming soon
+<ul>
+{% for product in site.merchandise %}
+  <li>{{ product.data-item-name }}</li>
+{% endfor %}
+</ul>
