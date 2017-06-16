@@ -21,13 +21,13 @@ banner: Shop
 {% assign merchandise = site.merchandise | sort: 'sku' %}
 <div class="article-content">
   <p>In the meantime, have a browse through all our merchandise.</p>
-  <p>Our online shop assures secure shopping, with all your card details handled by PayPal to keep your details secure.</p>
-<ul>
+  <p>Our online shop assures secure shopping, with all your card details handled by PayPal.</p>
+<section class="article-list">
 {% for product in merchandise %}
+<ul class="list-item">
   <li>{{ product.name }} - {{ product.sku }} - {{ product.url }}</li>
-{% endfor %}
 </ul>
+{% endfor %}
+</section>
 </div>
 </article>
-
-<a href="#" class="snipcart-checkout">Click here to checkout</a>
