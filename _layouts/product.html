@@ -22,7 +22,16 @@ layout: default
     </div>
 
       <div class="gimme-space">
-        <a class="faux-button" href="#">Buy Now for {{ page.price | prepend: '£' }}</a>
+        <button
+          class="snipcart-add-item faux-button"
+          data-item-id="{{ page.id }}"
+          data-item-name="{{ page-name }}"
+          data-item-price="{{ page.price }}"
+          data-item-weight="{{ page.weight }}"
+          data-item-url="{{ page.url | prepend: site.url}}"
+          data-item-description="{{ page.exerpt }}">
+          Buy Now for {{ page.price | prepend: '£' }}
+</      button>
       </div>
 
   </header>
