@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="article-title" itemprop="articleBody">
+      <h1 itemprop="name headline">{{ page.name }}</h1>
+    </div>
+    <div class="article-image">
+      <img class="feature-image"
+        src="/images/merchandise/{{ page.url | remove_first: '/' | replace: '/', '-' | remove: 'merchandise-' }}large.jpg"
+        alt="{{ page.description }}"
+        srcset="
+        /images/merchandise/{{ page.url | remove_first: '/' | replace: '/', '-' | remove: 'merchandise-' }}large.jpg 768w,
+        /images/merchandise/{{ page.url | remove_first: '/' | replace: '/', '-' | remove: 'merchandise-' }}med.jpg 380w,
+        /images/merchandise/{{ page.url | remove_first: '/' | replace: '/', '-' | remove: 'merchandise-' }}small.jpg 425w"
+      sizes="
+        (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
+    </div>
+    <div class="article-excerpt">
+      <p>{{ featured.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+    <div class="article-excerpt">
+      <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
+    </div>
+  </header>
+</article>

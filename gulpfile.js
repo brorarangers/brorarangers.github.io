@@ -159,7 +159,49 @@ gulp.task('people-images', function () {
     .pipe(gulp.dest('images/people'));
 });
 
+// Task for creating responsive images for merchandise
+gulp.task('merchandise-images', function () {
+  return gulp.src('_build/images/merchandise/*.{png,jpg}')
+    .pipe(responsive({
+
+      // Resize all post images and ensure jpeg format
+      '*': [{
+        width: 425,
+        quality: 80,
+        progressive: true,
+        withoutEnlargement: false,
+        errorOnUnusedConfig: false,
+        withMetadata: false,
+        rename: { suffix: '-small' },
+      }, {
+        width: 520,
+        quality: 70,
+        progressive: true,
+        withoutEnlargement: false,
+        errorOnUnusedConfig: false,
+        withMetadata: false,
+        rename: { suffix: '-med' },
+      }, {
+        width: 768,
+        quality: 70,
+        progressive: true,
+        withoutEnlargement: false,
+        errorOnUnusedConfig: false,
+        withMetadata: false,
+        rename: { suffix: '-large' },
+      }, {
+        width: 90,
+        height: 90,
+        quality: 90,
+        progressive: true,
+        withoutEnlargement: false,
+        errorOnUnusedConfig: false,
+        withMetadata: false,
+        rename: { suffix: '-thumbnail' },
+      }],
+    }))
+    .pipe(gulp.dest('images/merchandise'));
+});
 
 
-
-gulp.task('default', ['watch','article-images','people-images','build','serve']);
+gulp.task('default', ['watch','article-images','logo-images','people-images','merchandise-images','build','serve']);

@@ -25,7 +25,15 @@ banner: Shop
 <section class="article-list">
 {% for product in merchandise %}
 <ul class="list-item">
-  <li>{{ product.name }} - {{ product.sku }} - {{ product.url }}</li>
+  <li class="list-image">
+    <a href="{{ product.url }}">
+    <img class="list-image" src="/images/merchandise/{{ product.url | remove_first: '/' | replace: '/', '-' | remove: 'merchandise-' }}thumbnail.jpg">
+    </a>
+  </li>
+  <li class="list-title"><strong>{{ product.name }}</strong> - {{ product.price | prepend: '£'}}</li>
+  <li class="list-title">
+    <a href="{{ product.url }}">Full details</a>
+  </li>
 </ul>
 {% endfor %}
 </section>

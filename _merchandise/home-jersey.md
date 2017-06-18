@@ -1,5 +1,6 @@
 ---
+layout: product
 name: 'Home Jersey'
 sku: 1
-price: 30
+price: 35.99
 ---
