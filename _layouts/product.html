@@ -18,10 +18,12 @@ layout: default
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
     </div>
     <div class="article-excerpt">
-      <p>{{ featured.excerpt | strip_html | strip_newlines }}</p>
-    </div>
-    <div class="article-excerpt">
       <p>{{ page.excerpt | strip_html | strip_newlines }}</p>
     </div>
+
+      <div class="gimme-space">
+        <a class="faux-button" href="#">Buy Now for {{ page.price | prepend: '£' }}</a>
+      </div>
+
   </header>
 </article>
