@@ -19,4 +19,4 @@ And we think Wille Huggan is a perfect example to start a series of posts about 
 
 As the first of our spotlighlights on a Cattach it would be great to report that Willie was one of a kind, he may well be, but not to us. To us, Willie is just 'one of us'
 
-We like that at Dudgeon Park, folk with a common dream. Folk who believe come Hell or High Water, we will progress. We have them, whether it is the Board. the Committee, our Hall of Fame members, or Willie and his ilk. We have them.
+We like that at Dudgeon Park, folk with a common dream. Folk who believe come Hell or High Water, we will progress. We have them, whether it is the Board, the Committee, our Hall of Fame members, or Willie and his ilk. We have them.
