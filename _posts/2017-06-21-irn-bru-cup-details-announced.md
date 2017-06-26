@@ -9,7 +9,7 @@ edited:
 ---
 There have been a few revisions to the format for the 2017-18 Irn Bru Cup with two new participants, one less round, and an increase in prize money.
 
-The 2017/18 IRN-BRU Cup First Round Draw takes place this coming **Tuesday, 27 June at 1pm, streamed live on the SPFL Facebook page**, with the 24 ties to be played on Tuesday 15 and Wednesday 16 August.
+The 2017/18 IRN-BRU Cup First Round Draw takes place this coming **Tuesday, 27 June at 1pm**, [streamed live on the SPFL Facebook page](https://www.facebook.com/spflofficial/videos/10156191407133998/), with the 24 ties to be played on Tuesday 15 and Wednesday 16 August.
 
 The first round will be a regionalised draw, with the North Section being:
 
