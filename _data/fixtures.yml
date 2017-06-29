@@ -270,6 +270,15 @@
       home-score:
       away-score:
       comment:
+    - date: 15-08-2017
+      kickoff: "19:45"
+      venue:
+      competition: Irn Bru Cup
+      home-team: Raith Rovers
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 12-08-2017
       kickoff: "15:00"
       venue:
