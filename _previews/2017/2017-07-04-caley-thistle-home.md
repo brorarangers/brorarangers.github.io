@@ -3,7 +3,7 @@ layout: preview
 season: 2017
 match-date: 04-07-2017
 headline: Pre Season Promotion Push
-description: Two Clubs determined to secure promotion at the end of the season meet at Dudgeon Park on Saturday 4th July.
+description: Two Clubs determined to secure promotion at the end of the season meet at Dudgeon Park on Tuesday 4th July.
 quote:
 ---
 It's the first of our Season Ticket Taster matches as we welcome Inverness Caledonian Thistle back to Dudgeon Park.
