@@ -357,8 +357,8 @@
       competition: Pre Season Friendly
       home-team: Lewis & Harris Select
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 4
       comment:
 - season: 2016
   fixtures:
