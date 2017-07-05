@@ -348,8 +348,8 @@
       competition: Pre Season Friendly
       home-team: Brora Rangers
       away-team: Inverness Caledonian Thistle
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 4
       comment:
     - date: 01-07-2017
       kickoff: "15:00"
