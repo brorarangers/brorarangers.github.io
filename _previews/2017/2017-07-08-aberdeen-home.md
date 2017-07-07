@@ -5,6 +5,7 @@ match-date: 08-07-2017
 headline: Get Reddy
 description: The Aberdeen Development Squad travel to Dudgeon Park for a pre season friendly which is bound to be a crowd pleaser.
 quote:
+image: yes
 ---
 We are not entirely oblivious to the fact that some of our pre season meetings are bound to cause a degree of split loyalty amongst our support - and we expect this to be a tough test for a fair few of you.
 
