@@ -21,4 +21,6 @@ Fully aware of the dangers that Miller Mackay and his striking partners pose, ru
 
  We are aware we have a loyal band of supporters from the Lairg area and are delighted to be able to be part of their Gala Week entertainment. It's a great opportunity for the Brora fans to turn up in numbers and support those that support our club.
 
+ **Ferrycroft, 7:30pm - Free Entry**
+
  **See you there**
