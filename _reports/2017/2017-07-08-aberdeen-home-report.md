@@ -14,3 +14,5 @@ Despite an early goal from the Dons Toby Wells; Colin Williamson, Paul Brindle a
 Aberdeen U20s head down to Montrose next for a Tuesday night meeting at Links Park.
 
 Brora make the trip along the A839 for a Gala Match against [Lairg Rovers on Monday evening](/2017/07/10/lairg-away/)
+
+*Full Report to Follow*
