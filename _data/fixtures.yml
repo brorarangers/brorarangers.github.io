@@ -333,14 +333,23 @@
       home-score:
       away-score:
       comment:
+    - date: 10-07-2017
+      kickoff: "19:30"
+      venue:
+      competition: Pre Season Friendly
+      home-team: Lairg Rovers
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 08-07-2017
       kickoff: "15:00"
       venue:
       competition: Pre Season Friendly
       home-team: Brora Rangers
       away-team: Aberdeen
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 1
       comment:
     - date: 04-07-2017
       kickoff: "19:45"
