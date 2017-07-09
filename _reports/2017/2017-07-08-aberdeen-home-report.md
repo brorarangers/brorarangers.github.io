@@ -2,7 +2,7 @@
 layout: report
 season: 2017
 match-date: 08-07-2017
-headline: The Battle f the Reds
+headline: The Battle of the Reds
 description: The Dons U20 suffer the first defeat of their Highland Tour at Dudgeon Park
 image: yes
 quote:
