@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /documents/
+category: Club Documents
+description: Club Policies and Documents
+---
+<article class="article-wrapper">
+
+  <section class="article-list">
+    <ul>
+{% for document in site.policies %}
+      <li><a href="{{ document.url }}">{{ document.title }}</a></li>
+{% endfor %}
+    </ul>
+  </section>
+</article>

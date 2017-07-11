@@ -49,6 +49,8 @@ collections:
     output: false
   merchandise:
     output: true
+  policies:
+    output: true
 
 paginate: 15
 paginate_path: "/archive/page:num/"

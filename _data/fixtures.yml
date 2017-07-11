@@ -339,8 +339,8 @@
       competition: Pre Season Friendly
       home-team: Lairg Rovers
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 5
       comment:
     - date: 08-07-2017
       kickoff: "15:00"
