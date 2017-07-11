@@ -27,7 +27,7 @@ Brora scorers were; Lisle, Campbell,Griffiths,Webster and, much to the delight o
 
 Speaking after the game Brora Chairman, William Powrie, thanked Lairg Rovers for their hospitality and the support that the people of Lairg give to Brora Rangers throughout the season, adding that it was a pleasure to come over to the Gala Week and play "The Wild Rovers".
 
-For those looking for a pre-seaon match to give an indiction of how Brora will fare in their quest for a 3rd League Championship, little will have been learned from this fixture. For Ross, Dale and William who have an eye on Youth Development within our Club, there were many positives to take away.
+For those looking for a pre-seaon match to give an indication of how Brora will fare in their quest for a 3rd League Championship, little will have been learned from this fixture. For Ross, Dale and William who have an eye on Youth Development within our Club, there were many positives to take away.
 
 {% include article-image.html image="2" float="left" %}
 
