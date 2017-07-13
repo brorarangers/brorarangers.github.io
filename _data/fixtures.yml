@@ -261,6 +261,15 @@
       home-score:
       away-score:
       comment:
+    - date: 23-08-2017
+      kickoff: "15:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Brora Rangers
+      away-team: Clachnacuddin
+      home-score:
+      away-score:
+      comment:
     - date: 19-08-2017
       kickoff: "15:00"
       venue:
@@ -330,8 +339,8 @@
       competition: Pre Season Friendly
       home-team: Brora Rangers
       away-team: Ross County U20
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
       comment:
     - date: 10-07-2017
       kickoff: "19:30"

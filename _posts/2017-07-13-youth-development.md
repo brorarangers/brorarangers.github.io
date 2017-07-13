@@ -17,7 +17,7 @@ The tournament pitted Brora, Helmsdale and Golspie Primary Schools against each 
 
 {% include article-image.html image="2" float="right" %}
 
-On the success of the tournament Brora Rangers Head of Youth Development, Dale Pryde-MacDonald, was delighted “It was a truly monumental day for the club. We had a great tournament, which was really well-attended by parents and families and made the day really special for the kids, and for the club too.”
+On the success of the tournament Brora Rangers Head of Youth Development, Dale Pryde-MacDonald, was delighted, “It was a truly monumental day for the club. We had a great tournament, which was really well-attended by parents and families and made the day really special for the kids, and for the club too.”
 
 {% include article-image.html image="3" float="left" %}
 
