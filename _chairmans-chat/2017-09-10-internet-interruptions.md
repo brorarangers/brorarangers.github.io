@@ -1,7 +1,7 @@
 ---
 layout: article
 banner: "chairman's chat"
-description: William Powrie gives a short update on our Lewis trip.
+description: William Powrie welcomes the return of the Brora Rangers Website
 quote:
 edited:
 ---
