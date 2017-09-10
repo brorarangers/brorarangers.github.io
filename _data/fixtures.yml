@@ -198,6 +198,15 @@
       home-score:
       away-score:
       comment:
+    - date: 04-10-2017
+      kickoff: "20:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Forres Mechanics
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 30-09-2017
       kickoff: "15:00"
       venue:
@@ -231,8 +240,17 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Buckie Thistle
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
+      comment:
+    - date: 06-09-2017
+      kickoff: "20:00"
+      venue:
+      competition: North of Scotland Cup
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score: 0
+      away-score: 4
       comment:
     - date: 02-09-2017
       kickoff: "15:00"
@@ -240,8 +258,8 @@
       competition: Scottish Highland Football League
       home-team: Deveronvale
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 3
       comment:
     - date: 30-08-2017
       kickoff: "20:00"
@@ -249,8 +267,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Forres Mechanics
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
       comment:
     - date: 26-08-2017
       kickoff: "15:00"
@@ -258,8 +276,8 @@
       competition: Scottish Highland Football League
       home-team: Fraserburgh
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 1
       comment:
     - date: 23-08-2017
       kickoff: "15:00"
@@ -267,8 +285,8 @@
       competition: North of Scotland Cup
       home-team: Brora Rangers
       away-team: Clachnacuddin
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 0
       comment:
     - date: 19-08-2017
       kickoff: "15:00"
@@ -276,8 +294,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Inverurie Loco Works
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 2
       comment:
     - date: 15-08-2017
       kickoff: "19:45"
@@ -285,8 +303,8 @@
       competition: Irn Bru Cup
       home-team: Raith Rovers
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
       comment:
     - date: 12-08-2017
       kickoff: "15:00"
@@ -294,8 +312,8 @@
       competition: Scottish Highland Football League
       home-team: Fort William
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 4
       comment:
     - date: 05-08-2017
       kickoff: "15:00"
@@ -303,8 +321,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Strathspey Thistle
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
       comment:
     - date: 02-08-2017
       kickoff: "20:00"
@@ -312,8 +330,8 @@
       competition: Scottish Highland Football League
       home-team: Huntly
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 0
       comment:
     - date: 29-07-2017
       kickoff: "15:00"
@@ -321,8 +339,8 @@
       competition: Scottish Highland Football League
       home-team: Lossiemouth
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 2
       comment:
     - date: 22-07-2017
       kickoff: "15:00"
@@ -330,8 +348,8 @@
       competition: Pre Season Friendly
       home-team: Spartans
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 1
       comment:
     - date: 12-07-2017
       kickoff: "19:45"

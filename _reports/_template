@@ -1,84 +1,84 @@
 ---
 layout: report
-season: 2016
-match-date: 
-headline: 
+season: 2017
+match-date:
+headline:
 description:
 image: yes
 quote:
 team:
-  - name: 
+  - name:
     position: goal
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: defence
     replaced-by:
     replaced-by-time:
-  - name: 
+  - name:
     position: defence
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
-    position: defence
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
-    position: defence
-    replaced-by: 
+    replaced-by:
     replaced-by-time:
-  - name: 
+  - name:
+    position: defence
+    replaced-by:
+    replaced-by-time:
+  - name:
+    position: defence
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: midfield
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: midfield
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: midfield
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: forward
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: forward
-    replaced-by: 
-    replaced-by-time: 
-  - name: 
+    replaced-by:
+    replaced-by-time:
+  - name:
     position: forward
-    replaced-by: 
-    replaced-by-time: 
-    
+    replaced-by:
+    replaced-by-time:
+
 bench:
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  
+  - name:
+  - name:
+  - name:
+  - name:
+  - name:
+  - name:
+  - name:
+
 
 home-goals:
-  - name: 
+  - name:
     goal-times:
-      - time: 
-      
+      - time:
+
 away-goals:
-  - name: 
+  - name:
     goal-times:
-      - time: 
-      
+      - time:
+
 brora-yellows:
-  - name: 
+  - name:
     card-times:
-      - time: 
-      
+      - time:
+
 brora-reds:
-  - name: 
+  - name:
     card-times:
-      - time: 
+      - time:
 ---
