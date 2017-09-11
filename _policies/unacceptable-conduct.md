@@ -1,5 +1,6 @@
 ---
 layout: article
+banner: Documents
 ---
 Brora Rangers Football Club will not tolerate unacceptable conduct from the Club's employees, committee members, players or supporters at Dudgeon Park or at any other away football stadia.
 
