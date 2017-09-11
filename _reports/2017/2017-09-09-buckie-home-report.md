@@ -65,13 +65,13 @@ bench:
 home-goals:
   - name: Craig Campbell
     goal-times:
-      - time:
+      - time: 19
   - name: Paul Brindle
     goal-times:
-      - time:
+      - time: 54 pen
   - name: Scott Graham
     goal-times:
-      - time:
+      - time: 85
 
 away-goals:
   - name:
@@ -90,6 +90,6 @@ brora-reds:
 ---
 Brora Rangers continued their run of improved performances with an hard working but profitable performance against current P&J Highland League winners Buckie Thistle
 
-Goals from Craig Campbell, Paul Brindle( pen) and Scott Graham secured all three points and sets the Cattachs up well, ahead of their midweek clash with Clachnacuddin on Wednesday at Dudgeon Park.
+Goals from Craig Campbell, Paul Brindle and Scott Graham secured all three points and sets the Cattachs up well, ahead of their midweek clash with Clachnacuddin on Wednesday at Dudgeon Park.
 
 *Full report to follow.*
