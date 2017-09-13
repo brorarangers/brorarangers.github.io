@@ -231,8 +231,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Clachnacuddin
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 1
       comment:
     - date: 09-09-2017
       kickoff: "15:00"
