@@ -21,3 +21,7 @@ We'll be looking for a few upsets in amongst these fixtures, just not at Dudgeon
 Let's be honest, the weather forecast is anything but promising for this evening's meeting, but that shouldn't dampen anyones enthusiasm for a meeting against Clach ... those Cattachs who made a [Boxing Day trip to Grant Street Park](/2015/12/26/clach-away-report/) at the end of 2015 will recall that a downpour did little to prevent the Reds from flooding the Lilywhites goal.
 
 It's likely to be a real pie and Bovril night to keep the damp at bay, but you're not going to let that stop you from roaring the lads on to a 4th successive League win are you?
+
+**Dudgeon Park, 8pm.**
+
+**See you there**
