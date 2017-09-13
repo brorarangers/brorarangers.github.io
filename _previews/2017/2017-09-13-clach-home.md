@@ -10,9 +10,9 @@ Clachnacuddin were last at Dudgeon Park only 3 short weeks ago where they caught
 
 This week they face us on League business on the back of a pleasing performance against Buckie Thistle as the Brora ship appears to have steadied.
 
-Currently sitting in 12th place in the League, Clach have had a mixed start to the season, with wins against Lossiemouth, Keith and memorable victory against Formartine Utd at Pitmedden. So far September hasn't been going so well, with heavy defeats at the hands of the revitalised Rothes and the ever consistent Cove.
+Currently sitting in 12th place in the League, Clach have had a mixed start to the season, with wins against Lossiemouth, Keith and a memorable victory against Formartine Utd at Pitmedden. So far September hasn't been going so well, with heavy defeats at the hands of the revitalised Rothes and the ever consistent Cove.
 
-Brora's home record at this stage of the season would suggest the Dudgeon Park is not going to be a favourite venue for visiting players, despite the loss to Inverurie, we have conceded only 2 goals on home turf whilst on League business. At the other end of the park Craig Campbell, Paul Brindle and Scott Graham seem to have dug out their shooting boots - and it is unlikely that any of the home support need reminded that Scott Houston has already surpassed his previous season's scoring record!
+Brora's home record at this stage of the season would suggest that Dudgeon Park is not going to be a favourite venue for visiting players, despite the loss to Inverurie, we have conceded only 2 goals on home turf whilst on League business. At the other end of the park Craig Campbell, Paul Brindle and Scott Graham seem to have dug out their shooting boots - and it is unlikely that any of the home support need reminded that Scott Houston has already surpassed his previous season's scoring record!
 
 Elsewhere tonight Turriff Utd travel to Harlaw Park to meet current League leaders, Cove Rangers, whilst the Harlaw Park lads head to Fraserburgh; Buckie Thistle host the tricky Huntly and Nairn County make the trip to what should be a great game at Rothes.
 
