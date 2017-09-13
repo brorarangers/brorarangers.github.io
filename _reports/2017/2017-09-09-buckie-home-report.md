@@ -3,7 +3,7 @@ layout: report
 season: 2017
 match-date: 09-09-2017
 headline: Buckie Buckle at Brora
-description:
+description: Brora Rangers continued their run of improved performances with a hard working but profitable performance against current P&J Highland League winners Buckie Thistle
 image: yes
 quote:
 team:
@@ -88,7 +88,7 @@ brora-reds:
     card-times:
       - time:
 ---
-Brora Rangers continued their run of improved performances with an hard working but profitable performance against current P&J Highland League winners Buckie Thistle
+Brora Rangers continued their run of improved performances with a hard working but profitable performance against current P&J Highland League winners Buckie Thistle
 
 Goals from Craig Campbell, Paul Brindle and Scott Graham secured all three points and sets the Cattachs up well ahead of their midweek clash with Clachnacuddin on Wednesday at Dudgeon Park.
 

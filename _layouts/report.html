@@ -46,7 +46,7 @@ Changed to line below to allow linking back to previous seasons' reports
       sizes="
         (min-width: 31.25em) 50vw, (min-width: 63.50em) 33vw, 85vw">
     {% else %}
-    
+
     {% endif %}
     </div>
     <section class="report-image">
@@ -90,7 +90,7 @@ Changed to line below to allow linking back to previous seasons' reports
     {{ content | remove: page.excerpt }}
   </section>
 </article>
-
+{% if page.team %}
 <section class="additional-info">
   <div class="section-header">
     <h3>Match Stats</h3>
@@ -175,6 +175,7 @@ Changed to line below to allow linking back to previous seasons' reports
   </ul>
   </div>
 </section>
+{% endif %}
 <section class="page-footer">
 
 </section>
