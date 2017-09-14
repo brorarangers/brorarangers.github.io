@@ -89,7 +89,7 @@ Brora Rangers grabbed all 3 points with second half goals from Ally Macdonald an
 
 A well taken goal from Clach's Maclennan in the 40th minute delighted the travelling support, especially given the amount of possession Brora had commanded throughout the first half.
 
-Ally Macdonald levelled the scores shortly after Tokelys no doubt robust half time team talk with a fantastic dipping volley.
+Ally Macdonald levelled the scores shortly after Tokely's no doubt robust half time team talk with a fantastic dipping volley.
 
 Whilst the Inverness side appeared to be content to return south with a point, the sound of fraying nerves was almost audible from the home support as Brora attacked time after time and the clocked ticked down.
 

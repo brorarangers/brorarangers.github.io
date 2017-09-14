@@ -216,6 +216,15 @@
       home-score:
       away-score:
       comment:
+    - date: 23-09-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Brora Rangers
+      away-team: Girvan
+      home-score:
+      away-score:
+      comment:
     - date: 16-09-2017
       kickoff: "15:00"
       venue:
