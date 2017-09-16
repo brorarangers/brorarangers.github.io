@@ -2,8 +2,8 @@
 layout: report
 season: 2017
 match-date: 16-09-2017
-headline:
-description:
+headline: The Haughs Hiatus
+description: Due to a waterlogged pitch, the fixture between Turriff Utd and Brora Rangers was postponed.
 image: yes
 quote:
 ---
