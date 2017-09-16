@@ -231,8 +231,8 @@
       competition: Scottish Highland Football League
       home-team: Turriff Utd
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 13-09-2017
       kickoff: "20:00"
