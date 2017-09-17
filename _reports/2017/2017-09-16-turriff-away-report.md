@@ -9,7 +9,7 @@ quote:
 ---
 You know what they say, when it rains, it pours. Given the recent weather and the forecast for Friday night the biggest surprise is probably that ths was the only fixture to fall foul of the weather.
 
-However, as Turriff no doubt were keen to make ammends for Wednesday night's result againts Cove, and we were keen to keep up the momentum of wins in the past few weeks, both clubs and their supporters were left to find alternative entertainment.
+However, despite Turriff no doubt itching to make ammends for Wednesday night's result againts Cove, and our desire to keep up the momentum of wins in the past few weeks, both clubs and their supporters were left to find alternative entertainment.
 
 Meanwhile, Formartine and Deveronvale picked up 3 points. Cove and Buckie also gained 3 points in real style, keeping clean sheets in the process, and Fraserburgh continue to keep the pressure on in the top section of the table.
 
