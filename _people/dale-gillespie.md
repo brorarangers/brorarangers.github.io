@@ -1,6 +1,6 @@
 ---
 layout: people-profile
-category: current-squad
+category: past-squad
 sponsored-by:
 squad-number: 13
 ---
