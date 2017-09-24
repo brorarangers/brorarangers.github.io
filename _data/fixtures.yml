@@ -189,6 +189,15 @@
       home-score:
       away-score:
       comment:
+    - date: 14-10-2017
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Cup
+      home-team: Civil Service Strollers
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 07-10-2017
       kickoff: "15:00"
       venue:
@@ -222,8 +231,8 @@
       competition: Scottish Cup
       home-team: Brora Rangers
       away-team: Girvan
-      home-score:
-      away-score:
+      home-score: 5
+      away-score: 0
       comment:
     - date: 16-09-2017
       kickoff: "15:00"
