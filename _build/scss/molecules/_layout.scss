@@ -201,7 +201,7 @@
   color: #fff;
   .sponsor-bar  {
     background-color: $secondary-color;
-    //text-align: center;
+    text-align: center;
   }
   .address {
     @include span-columns(6);

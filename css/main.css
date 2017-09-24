@@ -346,7 +346,8 @@ small {
   .main-footer:last-child {
     margin-right: 0; }
   .main-footer .sponsor-bar {
-    background-color: #333; }
+    background-color: #333;
+    text-align: center; }
   .main-footer .address {
     float: left;
     display: block;
