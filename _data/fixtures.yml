@@ -204,8 +204,8 @@
       competition: Scottish Highland Football League
       home-team: Wick Academy
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 3
       comment:
     - date: 04-10-2017
       kickoff: "20:00"
