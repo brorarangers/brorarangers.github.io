@@ -15,3 +15,5 @@ It's over a decade since Lossie got their name on the trophy, whereas we've been
 With the date of this final having moved back to it's more traditional time of year, we think it's only fair to point out that we really aren't ready to let go of it just yet.
 
 Memories of a dark December night last season haven't quite faded away amongst the Cattachs, and we won't be letting respective League positions lull us into any false sense of security.
+
+Then again, memories of two recent NoS Cup finals at Grant Street Park against Nairn County and Elgin City haven't faded yet either.
