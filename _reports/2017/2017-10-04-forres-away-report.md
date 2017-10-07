@@ -86,7 +86,7 @@ brora-reds:
 ---
 Brora Rangers eased themselves into the North of Scotland Cup Final with a victory over Forres Mechanics.
 
-A couple of goals from Paul Brindle along with one from Mark Nicolson sets us up nicely for the final at Nairn County's Station Park on the 4th November against Lossiemouth.
+A couple of goals from Paul Brindle along with one from Mark Nicolson sets us up nicely for the final at Clachnacuddin's Grant Street Park on the 4th November against Lossiemouth.
 
 It is an opportunity for us to win the trophy for the 4th time in the last 5 seasons.
 
