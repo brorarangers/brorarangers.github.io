@@ -45,7 +45,7 @@ team:
     replaced-by-time:
   - name: Andrew Greig
     position: forward
-    replaced-by: Jamie Duff
+    replaced-by: Craig Campbell
     replaced-by-time:
   - name: Steven Mackay
     position: forward
@@ -54,7 +54,7 @@ team:
 
 bench:
   - name: Scott Lisle
-  - name: Craig Cameron
+  - name: Craig Campbell
   - name: Craig Gunn
   - name: Ryan Paterson
   - name: Will Counsell
