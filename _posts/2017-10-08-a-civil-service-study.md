@@ -21,6 +21,6 @@ As far as we can see, the 2-1 victory over Strathspey Thistle at the end of last
 
 Not that past campaigns can lull us into any false sense of security. Having joined the Lowland League only last season, the Strollers are definitely on form. To follow their Scottish Cup win they have since been the first team in the Lowland League to take 3 points away from BSC Glasgow with a 4-2 win at Christie Gillies Park on Saturday.
 
-We are quite happy to discuss form, though. A disappointing and frustrating August seems like a long time ago now. We are now on a run of 7 wins in a row, with 22 goals scored, 5 conceded, 4 clean sheets and the all important Derby victory over Wick Academy to lead us into our trip to Edinburgh.
+We are quite happy to discuss form, though. A disappointing and frustrating August seems like a long time ago now. We are now on a run of 7 wins in a row, with 22 goals scored, 5 conceded, 4 clean sheets and the all important Derby victory over Wick Academy to lead us into our William Hill Scottish Cup trip to Edinburgh.
 
 [Strollers TV Stevie Stuart](https://www.youtube.com/watch?v=nSR85juQc74) and Strollers manager, Alex Cunningham, certainly don't seem to expect this match to be a stroll in the Christie Gillies Park.
