@@ -138,12 +138,12 @@
     - date: 18-11-2017
       kickoff: "15:00"
       venue:
-      competition: Scottish Highland Football League
-      home-team: Brora Rangers
-      away-team: Huntly
+      competition: Scottish Cup
+      home-team: Stranraer
+      away-team: Brora Rangers
       home-score:
       away-score:
-      comment:
+      comment: Was originally a league game against Huntly
     - date: 11-11-2017
       kickoff: "15:00"
       venue:
