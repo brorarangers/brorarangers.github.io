@@ -195,8 +195,8 @@
       competition: Scottish Cup
       home-team: Civil Service Strollers
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 5
       comment:
     - date: 07-10-2017
       kickoff: "15:00"
