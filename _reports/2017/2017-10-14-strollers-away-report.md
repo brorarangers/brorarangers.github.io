@@ -3,7 +3,7 @@ layout: report
 season: 2017
 match-date: 14-10-2017
 headline: Brora in the 'Burgh
-description: Brora return from Harmsworth Park with 3 points
+description: Brora continue their William Hill Scottish Cup campaign with another emphatic win against the Civil Service Strollers.
 image: yes
 quote:
 team:
@@ -94,7 +94,7 @@ brora-reds:
 ---
 So far, so good as far as our William Hill Scottish Cup campaign goes. Goals for: 10; Goals against: 0. And the 3rd Round beckons.
 
-It was a bright start for Brora with both Gavin and Paul Brindle disappointed to see their efforts come to nothing. Craig Campbell was similarly dissapointed on the half hour mark not to make more of a cross from Scotty Graham.
+It was a bright start for Brora with both Gavin and Paul Brindle disappointed to see their efforts come to nothing in the opening 10 minutes. Craig Campbell was similarly dissapointed on the half hour mark not to make more of a cross from Scotty Graham.
 
 Perseverance paid off shortly afterwards as a well worked attack from Maclean and Macdonald sent a cross into the Strollers box which Scotty headed neatly into the corner of the home sides net.
 
