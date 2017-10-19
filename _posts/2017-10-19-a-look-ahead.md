@@ -28,7 +28,7 @@ There would appear to be little to separate us at this stage, and it will surely
 
 Whatever the result, at full time we will be checking the SPFL League 1 results ... Stranraer v Raith Rovers should give us some indication of what we can expect come the 18th November given that we felt we conducted ourselves fairly well [against Raith in the Irn Bru Cup](/2017/08/15/raith-away-report/) back in August.
 
-Wednesday evening sees us take to the A96 to Keith's Kynoch Park. This is becoming a painful season for Keith FC, currently sitting 3rd from the bottom of the league table with their only league victory of the season so far being a 2-1 win over Fort William.
+Wednesday evening sees us take the A96 to Keith's Kynoch Park. This is becoming a painful season for Keith FC, currently sitting 3rd from the bottom of the league table with their only league victory so far being a 2-1 win over Fort William.
 
 {% include article-image.html image="2" float="left" %}
 
@@ -48,7 +48,7 @@ Rothes currently sit in 8th place in the League. With 19 points so far, that's o
 
 We certainly expect things to be a fair bit tighter and it could be the perfect game to enjoy one of our Hospitality Packages as we end the month and ready ourselves for a Cup Final in Inverness.
 
-Talking of Match Day Hospitality, we've got some cracking matches coming up later in the year which would be perfect to make that little bit special with a group offriends, workmates or business associates.
+Talking of Match Day Hospitality, we've got some cracking fixtures coming up later in the year which would be perfect to make that little bit special with a group offriends, workmates or business associates.
 
 The **16th of December** sees Fraserburgh come to town. The Broch have always been a team to push the league challengers, but this season they've taken that extra step and were only knocked off the top spot themselves after Cove's demolition of the current title holders.
 
