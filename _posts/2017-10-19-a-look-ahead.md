@@ -1,7 +1,7 @@
 ---
 layout: article
 category: boardroom
-description: A look ahead to our home games until the end of the year.
+description: A look ahead to rest of October for Brora Rangers.
 headline:
 featured: yes
 image: yes
