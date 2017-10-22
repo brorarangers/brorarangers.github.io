@@ -1,11 +1,11 @@
 ---
 layout: article
 category: team
-description:
+description: Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley Thistle
 featured: yes
 image: yes
 quote:
-edited: 
+edited:
 ---
 Under the watchful eye of Ally Macleod, the Brora players enjoyed a lighter than normal Thursday training session following their match against Inverness Caley Thistle on Tuesday night.
 

@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: [Joe Malin]
 headline: Sponsors' Man of the Match
 description: Brora Rangers Match Sponsors voted Joe Malin their Man of the Match after our meeting with Turriff Utd
 featured: yes

@@ -1,11 +1,11 @@
 ---
 layout: article
 category: team
-tags: 'Richard Brittain'
+tags: [Richard Brittain]
 description: Brora Rangers manager, Richard Brittain, steps down ahead of the new season.
 featured: no
 image: yes
-quote: 
+quote:
 edited:
 ---
 The Board of Brora Rangers have reluctantly accepted the resignation of Richard Britain as team manager with immediate effect.

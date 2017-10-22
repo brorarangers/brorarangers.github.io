@@ -186,8 +186,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Formartine Utd
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 5
       comment:
     - date: 14-10-2017
       kickoff: "15:00"

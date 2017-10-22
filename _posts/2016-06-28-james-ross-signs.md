@@ -1,11 +1,11 @@
 ---
 layout: article
 category: team
-tags: [James-Ross]
+tags: [James Ross]
 description:
 featured: no
 image: yes
-quote: 
+quote:
 edited:
 ---
 Brora Rangers are absolutely delighted to confirm that James Ross has joined the club and signed a three year contract.

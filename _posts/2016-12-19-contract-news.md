@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: [John Pickles, Cameron Lisle, Scott Lisle]
 headline: Contract News
 description: Brora Rangers look to Pickles contract renewal and Lisle twins to sign contract extensions
 featured: yes

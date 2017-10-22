@@ -1,7 +1,8 @@
 ---
 layout: article
 category: team
-description:
+tags: [Scott Graham]
+description: Brora Rangers can confirm that they have agreed terms with Forres Mechanics for the transfer of Scotty Graham.
 featured: yes
 image: yes
 quote:

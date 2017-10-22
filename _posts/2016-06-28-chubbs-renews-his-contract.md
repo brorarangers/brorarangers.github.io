@@ -1,14 +1,14 @@
 ---
 layout: article
 category: team
-tags: [Andrew-Greig]
+tags: [Andrew Greig]
 description:
 featured: no
 image: yes
 quote:
 edited:
 ---
-Brora Rangers moved swiftly to counter rumours surrounding one of the hottest properties in the Highland League, when flying winger Andrew Greig signed a four year contract up to the end of the 2020 season. 
+Brora Rangers moved swiftly to counter rumours surrounding one of the hottest properties in the Highland League, when flying winger Andrew Greig signed a four year contract up to the end of the 2020 season.
 
 Andrew was delighted with the offer from the club, and acknowledged it was indicative of the club's and his ambitions.
 

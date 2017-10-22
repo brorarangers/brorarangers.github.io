@@ -1,7 +1,7 @@
 ---
 layout: article
 category: team
-description:
+description: Brora Rangers are delighted to announce two additions to their coaching staff to assist Grant Munro and Steven MacDonald.
 featured: yes
 image: yes
 quote:

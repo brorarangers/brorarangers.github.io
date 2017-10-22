@@ -1,7 +1,7 @@
 ---
 layout: article
 category: squad
-tags:
+tags: [Ross Tokely]
 headline: Manager Appointed
 description: Brora Rangers Football Club are delighted to announce that Ross Tokely has been appointed to the position of Manager from Saturday 24th December.
 featured: yes
