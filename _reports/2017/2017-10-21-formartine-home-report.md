@@ -98,12 +98,18 @@ We've handed out a couple of 5 goal victories in recent weeks, this weekend it w
 
 In what could have been a 13 game unbeaten streak, it appeared to be more than a dose of bad luck which saw Brora become unstuck against a strong performance from Formartine Utd.
 
-Early goals from Gary Wood and Scott Barbour within the opening 7 minutes put Brora very much on the back foot right from the get go. Graeme Rodger added to the visitors tally on the half hour mark.
+Whilst it was a beautiful autumnal day for football, the pitch was very slippy underfoot, conditions which the home side never really grasped and their inability to adapt was to cost them dearly. As early as the 3rd minute the visitors were ahead when both Brora central defenders, Duff and Williamson, misjudged a cross field ball, slipped over and left Gary Wood free at the far post to shoot through the legs of the slow to respond Brora keeper, Mackay.
 
-Andrew Greig replaced Paul Brindle before half time, and Craig Gunn and Zander came on for Cammy and Ally Macdonald early in the second half. For a short period of time the Reds seemed to be battling their way back into the game.
+Things did not get any better for the Brora stopper when in the 8th minute an innocuous cross come shot from Scott Barbour slipped through the keepers hands and into the back of the net.
 
-However, a red card for Steven Mackay turned an uphill task into mission impossible.
+Buoyed on by their fine start,Formartine kept pressing the defence and and it came as no surprise when Graeme Rodger thumped home a loose ball in the box.
 
-Further goals from Liam Burnett and Scott Ferries ensured the 3 points left on the bus to Pitmedden and Formartine fans feeling very much avenged for the match back in March 2015 where the scoreline was reversed
+Andrew Greig replaced Paul Brindle well before half time to give some badly needed width to the home side, but despite his efforts Brora were not able to pull anything back before the interval.
 
-*Full report to follow*
+Craig Gunn and Zander Sutherland came on for Craig Campbell and Ally Macdonald early in the second half, and for a short period of time the Reds seemed to be battling their way back into the game, gradually establishing a foothold in midfield. However, a red card for Steven Mackay for a two footed challenge turned an uphill task into mission impossible.
+
+Further goals from Liam Burnett and Scott Ferries following clumsy defensive errors ensured the 3 points left on the bus to Pitmedden and Formartine fans feeling very much avenged for the match back in March 2015 where the scoreline was reversed.
+
+Post match, Brora Manager Ross Tokely could offer no explanation for the exceedingly poor performance which saw the Cattachs have only one shot at the Formartine goal from Greig, and that sailed high and wide towards the social club.
+
+"Sometimes in football things go very badly wrong and that was the case today. We do not judge Cammy Mackay on those completely uncharacteristic errors in goal, nor our defenders who up until today have been a fortress at the back. We will pick ourselves up, regroup at training on Monday evening, and ready ourselves for the trip to Keith on Wednesday evening".  
