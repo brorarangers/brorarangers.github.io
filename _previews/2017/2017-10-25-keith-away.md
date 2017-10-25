@@ -3,7 +3,8 @@ layout: preview
 season: 2017
 match-date: 25-10-2017
 headline:
-description:
+opengraph: yes
+description: It's Wednesday evening football at Kynoch Park this week as we play our League away fixture against Keith FC
 quote:
 ---
 It's Wednesday evening football at Kynoch Park this week as we play our League away fixture against Keith FC. If history teaches us anything, it hopefully teaches us that the fixture list is unkind to Keith.
@@ -19,5 +20,7 @@ Their win against Gala Fairydean in the opening round of the Scottish Cup handed
 A Wednesday evening 5 hour round trip to the far side of Moray is unlikely to be the ideal midweek football fix for the travelling support, but given your attendance at away games so far this season, we know we can still say with confidence ...
 
 Wednesday 25th October, Kynoch Park, 8pm.
+
+It looks like it's going to be a fine evening.
 
 **See you there**
