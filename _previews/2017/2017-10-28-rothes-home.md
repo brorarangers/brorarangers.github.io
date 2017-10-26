@@ -3,7 +3,8 @@ layout: preview
 season: 2017
 match-date: 28-10-2017
 headline:
-description:
+description: Biscuits returns to Dudgeon Park with his rejuvenated Rothes squad this weekend.
+opengraph: yes
 quote:
 ---
 This weekend sees a couple of kent faces return to Dudgeon Park as Rothes travel west to Dudgeon Park. It promises to be a cracker!
