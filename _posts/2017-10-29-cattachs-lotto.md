@@ -16,7 +16,7 @@ We've been thinking about what we'd do with a windfall like that arriving in our
 
 On the 23rd December it is El Clasico, Real Madrid vs Barcelona. We could pick up a couple of VIP tickets for around £700.00 each.
 
-British Airways can take us from Inverness to Madrid on the Friday afternoon and home again on the Sunday for a measly £600.00 each. Given that we'll probably looking for some refreshments on our trip, let's add £200 and keep our travelling expenses to a round £1,500.00.
+British Airways can take us from Inverness to Madrid on the Friday afternoon and home again on the Sunday for a measly £600.00 each. Given that we'll probably looking for some refreshments on our trip, let's add £100 and keep our travelling expenses to a round £2,000.00.
 
 That leaves us plenty for a swanky hotel. Trip Advisor recommends Hotel Ritz. We can get a couple of rooms there for the Friday and Saturday night for another £1,200.00. We can see the Jackpot beginning to dwindle here, so we've chosen the 'Superior Rooms' rather than the £4,500.00 Deluxe Suite.
 
