@@ -10,7 +10,7 @@ edited:
 ---
 As everyone involved with Brora Rangers looks forward to 'Getting our Game On' next weekend, we've got seven (thousand) reasons for you to do the same.
 
-Our weekly Cattachs Lotto is sitting with a Jackpot of **£7,250.00** just waiting to be won. That's seven tantalising weeks to grab the main prize before Christmas arrives.
+Our weekly Cattachs Lotto is sitting with a Jackpot of **£7,300** just waiting to be won. That's seven tantalising weeks to grab the main prize before Christmas arrives.
 
 We've been thinking about what we'd do with a windfall like that arriving in our bank account in time for the Festive period ...
 
@@ -31,3 +31,5 @@ We'd better get some last minute Christmas gifts bought for those that we didn't
 All in all it sounds like a great way to blow our Cattachs Lotto win ... apart from two things. We need to 'Get Our Game On' first. We will need to [download our Standing Order form from here](/lotto/), and we've already got a game away to Forres that Saturday.
 
 El Clasico will need to wait, and we'll need to come up with another way to enjoy our Lotto win.
+
+How would you spend the Cattachs Lotto Jackpot?
