@@ -10,7 +10,7 @@ edited:
 ---
 Yesterday we considered what we would do with a Cattachs Lotto win, finally cancelling plans for a trip to Madrid in favour of Mosset Park.
 
-Today we've decided to blow the **£7,250.00** Jackpot on something to benefit more than a couple of us on a luxury weekend.
+Today we've decided to blow the **£7,300.00** Jackpot on something to benefit more than a couple of us on a luxury weekend.
 
 The Brora Rangers Supporters Club really live up to their name. Their support goes beyond turning up home and away to cheer on the lads and enjoy a Saturday with friends. The funds they raise every season are vital to the Club; their attendance at games is invaluable.
 
