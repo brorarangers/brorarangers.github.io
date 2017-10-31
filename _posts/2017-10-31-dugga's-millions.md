@@ -22,4 +22,4 @@ You can appreciate our problem here, it appears we find it harder to spend this 
 
 Of course, there are those [£2,750.00 bottles of 1974 Brora](https://www.thewhiskyexchange.com/p/1283/brora-1974-26-year-old-old-malt-cask) just begging to be bought. We are confident that our website editor and Chairman would happily blow the winnings on a couple of these and barely consider sharing.
 
-All the more reason to **Get Your Game On** and win the Jackpot before they do. There really has to be a more deserving cause for the Cattachs Jackpot.
+All the more reason to **Get Your Game On** and win the Jackpot before they do. There really has to be a more deserving cause for the Cattachs Lotto.
