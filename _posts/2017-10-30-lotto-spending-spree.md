@@ -18,7 +18,7 @@ We think the Brora Rangers Supporters Club deserve their own transport, and we'v
 
 {% include article-image.html image="1" float="right" %}
 
-However, they are classy bunch of travellers, and the added cost of luxury upholstery and the oh so necessary toilet is going to be beyond our budget unless the Cattachs Lotto continues to roll over for a good few months. Perhaps we need to look for something else. Something with a it more panache, and hopefully a bit lighter on fuel costs.
+However, they are classy bunch of travellers, and the added cost of luxury upholstery and the oh so necessary toilet is going to be beyond our budget unless the Cattachs Lotto continues to roll over for a good few months. Perhaps we need to look for something else. Something with a bit more panache, and hopefully a bit lighter on fuel costs.
 
 {% include article-image.html image="2" float="left" %}
 
