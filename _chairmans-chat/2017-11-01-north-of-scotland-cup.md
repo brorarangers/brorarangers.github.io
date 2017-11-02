@@ -6,7 +6,7 @@ description: Brora Rangers travel to Grant Street Inverness on Saturday to defen
 quote:
 edited:
 ---
-Brora Rangers travel to Grant Street Inverness on Saturday to defend the North of Scotland FA Cup,where they will face Lossiemouth in the final.
+Brora Rangers travel to Grant Street Park, Inverness on Saturday to defend the North of Scotland FA Cup,where they will face Lossiemouth in the final.
 
 We have won this competition in 3 of the last 4 seasons and are definitely not ready to relinquish the trophy quite yet. Whilst success has become relatively recent for ourselves, Lossiemouth are no strangers to taking the trophy home.
 
