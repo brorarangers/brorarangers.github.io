@@ -150,8 +150,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Lossiemouth
-      home-score:
-      away-score:
+      home-score: 7
+      away-score: 0
       comment:
     - date: 04-11-2017
       kickoff: "15:00"
