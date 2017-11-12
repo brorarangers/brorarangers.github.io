@@ -5,7 +5,7 @@ title: Brora Rangers Football Club | News
 banner: Latest News
 description: The latest news from Brora Rangers | Stay up to date with Sutherland's Highland Football League Club.
 ---
-{% assign news = site.posts where 'featured', true %}
+{% assign news = site.posts | where: 'featured', true %}
 <article class="article-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
 {% for featured in news limit: 5 %}
   {% capture lead-url %}{{ featured.url }}{%endcapture %}

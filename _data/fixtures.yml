@@ -148,8 +148,8 @@
       kickoff: "15:00"
       venue:
       competition: Scottish Highland Football League
-      home-team: Lossiemouth
-      away-team: Brora Rangers
+      home-team: Brora Rangers
+      away-team: Lossiemouth
       home-score:
       away-score:
       comment:
@@ -159,8 +159,8 @@
       competition: North of Scotland Cup
       home-team: Brora Rangers
       away-team: Lossiemouth
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 0
       comment:
     - date: 28-10-2017
       kickoff: "15:00"
