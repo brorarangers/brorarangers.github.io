@@ -25,7 +25,7 @@ Actually, what really matters is what we take away from this game. Did Saturday'
 
  Whilst the decisions made by Ross before the game, and the attitude and performance of the lads during the game will have a decisive impact on the outcome of these questions, there is a further factor to consider ... the 12th man.
 
- Thanks to the SFA and William Hill, the Supporters bus making it's 14 hour return trip to An t-Sròn Reamhar will be free. Thanks to Colin McBeath the whole shebang is going to be organised and you can get a seat.
+ Thanks to the SFA and William Hill, the Supporters bus making it's 14 hour return trip to An t-Sròn Reamhar will be free. Thanks to Colin MacBeath the whole shebang is going to be organised and you can get a seat.
 
  Are you still thinking about the former Stranraer FC and Brora Rangers player? He won't be on the bus, but he'll be in Stranraer in his role as founder of the Brora Rangers Supporters Club (Dumbarton Branch)
 
