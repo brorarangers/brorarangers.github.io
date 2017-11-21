@@ -57,12 +57,12 @@
     - date: 20-01-2018
       kickoff: "15:00"
       venue:
-      competition: Scottish Highland Football League
-      home-team: Brora Rangers
-      away-team: Turriff Utd
+      competition: Scottish Cup
+      home-team: East Fife
+      away-team: Brora Rangers
       home-score:
       away-score:
-      comment:
+      comment: Was Home v Turriff
     - date: 13-01-2018
       kickoff: "15:00"
       venue:
