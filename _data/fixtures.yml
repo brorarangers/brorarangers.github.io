@@ -141,8 +141,8 @@
       competition: Scottish Cup
       home-team: Stranraer
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 0
+      away-score: 1
       comment: Was originally a league game against Huntly
     - date: 11-11-2017
       kickoff: "15:00"
