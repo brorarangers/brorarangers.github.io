@@ -9,7 +9,7 @@ image: yes
 quote:
 edited:
 ---
-Saturday sees the Third Round of the Scottish Cup take place around the country. 16 Clubs will be competing from Aberdeen to Stranraer in a bid to progress into the next round.
+Saturday sees the Third Round of the Scottish Cup take place around the country. 32 Clubs will be competing from Aberdeen to Stranraer in a bid to progress into the next round.
 
 Before we go further, as you read this article, you can ponder which footballer has played for both Stranraer and Brora Rangers in his career ..
 
