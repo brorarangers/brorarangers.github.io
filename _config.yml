@@ -56,8 +56,3 @@ paginate: 15
 paginate_path: "/archive/page:num/"
 #### Site settings ####
 current-season: 2017
-
-
-## Prose stuff
-prose:
-  rooturl: "_chairmans-chat"
