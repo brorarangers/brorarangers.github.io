@@ -29,7 +29,7 @@ future: true
 include: [_pages]
 exclude: [package.json, node_modules, Gemfile, Gemfile.lock, README.md, gulpfile.js]
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 

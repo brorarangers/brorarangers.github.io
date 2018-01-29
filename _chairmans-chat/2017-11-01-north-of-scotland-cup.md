@@ -1,7 +1,7 @@
 ---
 layout: article
 banner: "chairman's chat"
-title: North 0f Scotland Cup
+title: North of Scotland Cup
 description: Brora Rangers travel to Grant Street Inverness on Saturday to defend the North of Scotland FA Cup,where they will face Lossiemouth in the final
 quote:
 edited:

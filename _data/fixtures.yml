@@ -105,8 +105,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Fraserburgh
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 09-12-2017
       kickoff: "15:00"
@@ -114,8 +114,8 @@
       competition: Scottish Highland Football League
       home-team: Inverurie Loco Works
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 02-12-2017
       kickoff: "15:00"
@@ -123,8 +123,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Fort William
-      home-score:
-      away-score:
+      home-score: 16
+      away-score: 0
       comment:
     - date: 25-11-2017
       kickoff: "15:00"
@@ -132,8 +132,8 @@
       competition: Scottish Highland Football League
       home-team: Strathspey Thistle
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 18-11-2017
       kickoff: "15:00"
