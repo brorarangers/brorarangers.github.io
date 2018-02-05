@@ -27,11 +27,29 @@
       home-score:
       away-score:
       comment:
+    - date: 24-02-2018
+      kickoff: "15:00"
+      venue:
+      competition: Breedon Highland League Cup
+      home-team: Turriff Utd
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 17-02-2018
       kickoff: "15:00"
       venue:
       competition: Scottish Highland Football League
       home-team: Formartine Utd
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 14-02-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
       away-team: Brora Rangers
       home-score:
       away-score:
@@ -51,8 +69,8 @@
       competition: Breedon Highland League Cup
       home-team: Brora Rangers
       away-team: Inverurie Loco Works
-      home-score:
-      away-score:
+      home-score: 4
+      away-score: 1
       comment: Was home v Wick in League
     - date: 27-01-2018
       kickoff: "15:00"
