@@ -16,7 +16,9 @@ Fingers were crossed for a favourable home tie. Ahhh, the power of positive thou
 
 Stephen Mackay's [93rd minute winning goal](/2017/11/18/stranraer-away-report/) earned us yet more media attention and an historic victory against SPFL League 1 opposition.
 
-Our Round 4 opponents were to be East Fife, a Club neck and neck with Stranraer in the League 1 battle, giving us hope that if we could win at Stair Park, there was no reason why we couldn't do the same after the relatively short trip to Bayview Stadium. [And so it proved to be](/2018/01/20/east-fife-away-report/). Despite a lack of competitive game time due to weather enforced postponements in the lead up to the tie, the team put in a shift which put the Fifers on the back foot for the whole of the first half and followed it up with a backs to the wall performance which saw the 1938 winners crash out of the Scottish Cup.
+Our Round 4 opponents were to be East Fife, a Club neck and neck with Stranraer in the League 1 battle, giving us hope that if we could win at Stair Park, there was no reason why we couldn't do the same after the relatively short trip to Bayview Stadium. [And so it proved to be](/2018/01/20/east-fife-away-report/).
+
+Despite a lack of competitive game time due to weather enforced postponements in the lead up to the tie, the team put in a shift which put the Fifers on the back foot for the whole of the first half and followed it up with a backs to the wall performance which saw the 1938 winners crash out of the Scottish Cup.
 
 That second half do or die performance was driven in part, according to Captain Jamie Duff, by the noise and passion exhibited by our fantastic 250 strong travelling support. Yet again, the 12th man earned their reward for the fantastic backing they have given the lads throughout this Cup campaign.
 
@@ -30,4 +32,4 @@ And that neatly brings us up to date ... 4 rounds safely negotiated, 12 goals sc
 
 All the signs are that we are going to take a massive support to this game ...
 
-**Last one to leave the village, switch the lights out.**
+**Last one to leave the village, switch the lights off.**
