@@ -45,7 +45,7 @@ If you're looking for someone who can be part of Scottish Cup headlines, Tokes i
 
 His belief and attitude very clearly rubs off on the squad. Training at the Highland Football Academy on Monday night had a feeling of anticipation rather than apprehension.
 
->**The best-laid schemes o' mice an 'men
+>**The best-laid schemes o' mice an' men,
 Gang aft agley,
 An' lea'e us nought but grief an' pain,
 For promis'd joy!**
