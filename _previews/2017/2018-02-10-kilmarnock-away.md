@@ -3,6 +3,7 @@ layout: preview
 season: 2017
 match-date: 10-02-2018
 headline:
+image: true
 description:
 quote:
 ---
@@ -26,7 +27,7 @@ If Jamie felt that possibly Stranraer and East Fife had underestimated Highland 
 
 Indeed, the Ayrshire club seem to be as excited about this tie as we are. There is a feeling of the red carpet treatment being offered to us ahead of the match, with an especially warm welcome for the travelling supporters.
 
-Ticket prices are £20 with those over 65, under 21 and students enjoying a £15 concession, with cash turnstiles on the day. Of real note is the great sounding [Hospitality offer](http://www.kilmarnockfc.co.uk/Article?id=6772&ShowCat=) offering a tour of Rugby Park, some traditional Scottish fare (including, obviously, Killie pies), executive seating, access to the bar and the post match presentations all for £30.
+Ticket prices are £20 with those over 65, under 21 and students enjoying a £15 concession, with cash turnstiles on the day. Of real note is the great sounding [Hospitality offer](http://www.kilmarnockfc.co.uk/Article?id=6772&ShowCat=) providing a tour of Rugby Park, some traditional Scottish fare (including, obviously, Killie pies), executive seating, access to the bar and the post match presentations all for £30.
 
 And that neatly brings us up to date ... 4 rounds safely negotiated, 12 goals scored, no goals conceded. This is it. The 5th Round of the William Hill Scottish Cup, and we're off to Kilmarnock.
 
