@@ -17,7 +17,7 @@ Those who travelled to Palmerston for our 4th Round Scottish Cup tie against Que
 
 For it to happen at Kilmarnock, of all places, is a pain few could live with.
 
-Again, to be fair, it is a problem purely of the supporters own making. Tokes can do all the homework he wants, he can inspire the players in any way he pleases, he can mastermind a game plan which narrows the gap between Premiership and Highland League all he likes. But it won't alleviate the current anxiety that is currently gripping the Brora fans over the past few days.
+Again, to be fair, it is a problem purely of the supporters own making. Tokes can do all the homework he wants, he can inspire the players in any way he pleases, he can mastermind a game plan which narrows the gap between Premiership and Highland League all he likes. But it won't alleviate the current anxiety that is gripping the Brora fans over the past few days.
 
 # Pies
 
