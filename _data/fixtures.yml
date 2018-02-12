@@ -18,6 +18,15 @@
       home-score:
       away-score:
       comment:
+    - date: 07-03-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score:
+      away-score:
+      comment:
     - date: 03-03-2018
       kickoff: "15:00"
       venue:
@@ -27,11 +36,29 @@
       home-score:
       away-score:
       comment:
+    - date: 28-02-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Cove Rangers
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 24-02-2018
       kickoff: "15:00"
       venue:
       competition: Breedon Highland League Cup
-      home-team: Turriff Utd
+      home-team: Brora Rangers
+      away-team: Turriff Utd
+      home-score:
+      away-score:
+      comment:
+    - date: 21-02-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Clachnacuddin
       away-team: Brora Rangers
       home-score:
       away-score:
