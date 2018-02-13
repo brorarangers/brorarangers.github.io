@@ -19,7 +19,7 @@ Other rearranged matches see us travelling to Grant Street Park to play Clachnac
 
 With the final League match of the season already set for Saturday 14th April, when we host Cove Rangers, and the 24th of February already earmarked for our Breedon Highland League Cup tie at Dudgeon Park against Turriff Utd, that leaves us with only four free Saturdays to squeeze in seven League fixtures. You can strike Saturday 10th of March off that list too if all goes well against Turriff on the 24th as the winner of that tie will be travelling to Keith looking for a place in the Semi Final of the League Cup.
 
-So 'Saturday - Wednesday - Saturday' football time it is again, not necesarily a bad thing for those who can catch up on their footy fix twice a week, but having games that traditionally attract a healthy Hospitality attendance shifted from a Saturday afternoon to a Wednesday evening can have a detrimental effect on all the Highland League clubs.
+So 'Saturday - Wednesday - Saturday' football time it is again, not necessarily a bad thing for those who can catch up on their footy fix twice a week, but having games that traditionally attract a healthy Hospitality attendance shifted from a Saturday afternoon to a Wednesday evening can have a detrimental effect on all the Highland League clubs.
 
 However, there is little any of us can do about the weather, and who amongst us would swap our Scottish Cup run for a couple of extra League games?
 
