@@ -78,8 +78,8 @@
       competition: Scottish Highland Football League
       home-team: Strathspey Thistle
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 10-02-2018
       kickoff: "15:00"
