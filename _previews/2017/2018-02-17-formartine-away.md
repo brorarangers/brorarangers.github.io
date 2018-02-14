@@ -4,7 +4,7 @@ season: 2017
 match-date: 17-02-2018
 headline:
 image: yes
-description:
+description: Brora Rangers head to North Lodge Park this weekend
 quote:
 ---
 It's another away day for Brora Rangers this Saturday as we head east to Pitmedden seeking revenge for a 5-0 thrashing back in October at Dudgeon Park.
