@@ -60,8 +60,8 @@
       competition: Scottish Highland Football League
       home-team: Clachnacuddin
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 2
       comment:
     - date: 17-02-2018
       kickoff: "15:00"
@@ -69,8 +69,8 @@
       competition: Scottish Highland Football League
       home-team: Formartine Utd
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 2
       comment:
     - date: 14-02-2018
       kickoff: "20:00"
