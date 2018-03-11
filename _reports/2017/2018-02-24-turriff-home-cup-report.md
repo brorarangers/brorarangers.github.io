@@ -3,7 +3,7 @@ layout: report
 season: 2017
 match-date: 24-02-2018
 headline:
-description: Brora Rangers leave Grant Street Park with another League defeat.
+description: A Paul Brindle double guided Brora Rangers into the quarter-finals of the Breedon Highland League Cup
 image: yes
 quote:
 team:
@@ -60,7 +60,6 @@ bench:
   - name: Kyle Macleod
   - name: Scott Graham
   - name: Daniel Hoban
-
 
 home-goals:
   - name: Paul Brindle
