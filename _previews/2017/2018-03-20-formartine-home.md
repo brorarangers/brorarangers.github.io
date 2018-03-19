@@ -4,6 +4,7 @@ season: 2017
 match-date: 20-03-2018
 headline: League Cup Semi Final
 description:
+image: true
 quote:
 ---
 Tuesday night sees Brora Rangers meet Formartine Utd in the semi final of the Breedon Highland League Cup at Dudgeon Park.
