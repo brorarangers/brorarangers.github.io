@@ -18,14 +18,23 @@
       home-score:
       away-score:
       comment:
+    - date: 20-03-2018
+      kickoff: "20:00"
+      venue:
+      competition: Breedon Highland League Cup
+      home-team: Brora Rangers
+      away-team: Formartine Utd
+      home-score:
+      away-score:
+      comment:
     - date: 17-03-2018
       kickoff: "15:00"
       venue:
       competition: Breedon Highland League Cup
       home-team: Keith
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 2
       comment:
     - date: 14-03-2018
       kickoff: "20:00"
