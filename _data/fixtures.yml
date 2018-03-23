@@ -9,6 +9,51 @@
       home-score:
       away-score:
       comment:
+    - date: 11-04-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Strathspey Thistle
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 07-04-2018
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Inverurie Loco Works
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
+    - date: 04-04-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Wick Academy
+      home-score:
+      away-score:
+      comment:
+    - date: 31-03-2018
+      kickoff: "15:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Brora Rangers
+      away-team: Turriff Utd
+      home-score:
+      away-score:
+      comment:
+    - date: 28-03-2018
+      kickoff: "20:00"
+      venue:
+      competition: Scottish Highland Football League
+      home-team: Nairn County
+      away-team: Brora Rangers
+      home-score:
+      away-score:
+      comment:
     - date: 24-03-2018
       kickoff: "15:00"
       venue:
@@ -24,8 +69,8 @@
       competition: Breedon Highland League Cup
       home-team: Brora Rangers
       away-team: Formartine Utd
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 3
       comment:
     - date: 17-03-2018
       kickoff: "15:00"
