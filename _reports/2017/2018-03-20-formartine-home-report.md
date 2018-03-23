@@ -11,23 +11,23 @@ team:
     position: goal
     replaced-by:
     replaced-by-time:
-  - name: John Pickles
+  - name: James Ross
     position: defence
     replaced-by:
     replaced-by-time:
   - name: Ally Macdonald
     position: defence
-    replaced-by:
+    replaced-by: Scott Graham
     replaced-by-time:
   - name: Colin Williamson
     position: defence
     replaced-by:
     replaced-by-time:
-  - name: Mark Nicolson
+  - name: Jamie Duff
     position: defence
     replaced-by:
     replaced-by-time:
-  - name: James Pickles
+  - name: Paul Brindle
     position: midfield
     replaced-by:
     replaced-by-time:
@@ -41,38 +41,42 @@ team:
     replaced-by-time:
   - name: Zander Sutherland
     position: forward
-    replaced-by:
+    replaced-by: Kyle Macleod
     replaced-by-time:
   - name: Steven Mackay
     position: forward
     replaced-by:
     replaced-by-time:
-  - name: Kyle Macleod
+  - name: Mark Nicolson
     position: forward
     replaced-by:
     replaced-by-time:
 
 bench:
-  - name: Paul Brindle
+  - name: Scott Graham
   - name: Scott Lisle
   - name: Aiden Wilson
-  - name: James Ross
-  - name: Jamie Duff
+  - name: Colin Macrae
+  - name: Craig Campbell
+  - name: Kyle Macleod
   - name: Daniel Hoban
 
 
 home-goals:
-  - name: Keith
+  - name: Paul Brindle
     goal-times:
-      - time: 36
+      - time: 44
+  - name: Zander Sutherland
+    goal-times:
+      - time: 67
 
 away-goals:
-  - name: Steven Mackay
+  - name: McPhee
     goal-times:
-      - time: 34
-  - name: Martin Maclean
+      - time:
+  - name: McKeown
     goal-times:
-      - time: 88
+      - time:
 
 brora-yellows:
   - name:
