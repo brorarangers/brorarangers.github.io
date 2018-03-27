@@ -60,8 +60,8 @@
       competition: Scottish Highland Football League
       home-team: Rothes
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: P
+      away-score: P
       comment:
     - date: 20-03-2018
       kickoff: "20:00"
