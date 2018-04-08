@@ -3,7 +3,7 @@ layout: article
 category: event
 tags:
 title: "Time to Celebrate"
-description: Grab your voting slips at our home game against Deveronvale on Saturday
+description: Brora Rangers get ready to celebrate this weekend
 featured: yes
 image: yes
 quote:
