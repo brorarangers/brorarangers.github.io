@@ -69,8 +69,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Deveronvale
-      home-score:
-      away-score:
+      home-score: 3
+      away-score: 0
       comment:
     - date: 04-04-2018
       kickoff: "20:00"
