@@ -60,8 +60,8 @@
       competition: Scottish Highland Football League
       home-team: Inverurie Loco Works
       away-team: Brora Rangers
-      home-score:
-      away-score:
+      home-score: 2
+      away-score: 1
       comment:
     - date: 07-04-2018
       kickoff: "15:00"
