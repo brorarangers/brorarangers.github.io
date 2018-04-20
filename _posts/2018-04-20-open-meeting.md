@@ -3,7 +3,7 @@ layout: article
 category: event
 tags:
 title: Open Meeting
-description: Brora Rangers are holding an pen meeting on Tuesday 24th April to discuss the operation and usage of the Social Club
+description: Brora Rangers are holding an open meeting on Tuesday 24th April to discuss the operation and usage of the Social Club
 featured: yes
 image: yes
 quote:
