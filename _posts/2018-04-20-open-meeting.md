@@ -15,6 +15,6 @@ It is an incredibly busy time for all involved, and this coming Tuesday we urge 
 
 There will be an open meeting on Tuesday evening at 7.30pm in the Social Club. Whilst this will involve a Fans Forum allowing supporters to raise issues with the Board of the Football Club, and put forward any ideas for the development of the club, the meat of the meeting will focus on the use and operaton of the Social Club itself.
 
-The Social Club is integral to the operation of the football club, and withut it our pre-matchhospitality, post match food, meetings and functions would be in extreme jeopardy.
+The Social Club is integral to the operation of the football club, and withut it our pre-match hospitality, post match food, meetings and functions would be in extreme jeopardy.
 
-It is hoped that as many of the users of the facilities and supporters of the football club will make an effort to attend and contribute to the meeting. 
+It is hoped that as many of the users of the facilities and supporters of the football club will make an effort to attend and contribute to the meeting.
