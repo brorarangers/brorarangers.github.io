@@ -42,8 +42,8 @@
       competition: Scottish Highland Football League
       home-team: Brora Rangers
       away-team: Fraserburgh
-      home-score:
-      away-score:
+      home-score: 1
+      away-score: 3
       comment:
     - date: 14-04-2018
       kickoff: "15:00"
