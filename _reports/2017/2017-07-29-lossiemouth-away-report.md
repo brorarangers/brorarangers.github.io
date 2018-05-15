@@ -112,6 +112,6 @@ Graham, Brindle and latterly Gunn took their turn in the fray but no further pro
 
 Brora Manager Ross Tokley was delighted with the 3 points but frustrated with the home sides tactics. "Lossiemouth set out on a damage limitation exercise and to that end they will be pleased. We've travelled away to a ground we lost 4-1 at last season, so we have righted a wrong. We could have had half a dozen or more but sometimes it just doesn't go your way. 3 points is what matters and we've brought home the bacon"
 
-Captain Jamie Duff was sanguine about the scoreline " they set out to defend and they did it well. We were frustrated but fundamentals were good and on another day things would be very different. We know we will be facing these tactics from other sides this season and we will have to work hard on our counter tactics"  
+Captain Jamie Duff was sanguine about the scoreline "They set out to defend and they did it well. We were frustrated but fundamentals were good and on another day things would be very different. We know we will be facing these tactics from other sides this season and we will have to work hard on our counter tactics"  
 
 With 8 games to be played by the end of August, Tokely will be keeping his selection options open.
