@@ -23,8 +23,8 @@ Whilst the half-time warm up for our subs is the riskiest time to be loitering b
 
 Likewise, stray balls at the school end can cause frustration and wasted time.
 
-Thanks to the commitment of the BRIT members, work has now started on erecting nets behind both ends of the pitch. Indeed, if you are free this Saturday morning there is a request for helpers to make your way up to the park to help with the installation of the poles.
+Thanks to the commitment of the BRIT members, work has now started on erecting nets behind both ends of the pitch.
 
-This is a fantastic first project for the members of the supporters group. Not only will it greatly improve the match experience of those visiting our home ground, but we can only assume it will raise the profile of the Improvement Trust and encourage more supporters of our Club to get involved.
+This is a fantastic first project for the members of the supporters group. Not only will it greatly improve the match day experience of those visiting our home ground, but we can only assume it will raise the profile of the Improvement Trust and encourage more supporters of our Club to get involved.
 
 Interested? Drop them an [email here](mailto:fansbrit@btinternet.com) for more information.
