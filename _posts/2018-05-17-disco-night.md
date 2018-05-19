@@ -17,6 +17,8 @@ Little interest in the fortunes of the respective teams since Kilmarnock halted 
 
 Fear not ... for we have the answer.
 
+It is disco time ...
+
 [Ronnie and Donnie](https://www.facebook.com/ronnien.donnie) are getting a break from their usual slot of entertaining the village (we guess they were just to young to remember that decade) and the [Brora Rangers Youth Initiative](https://bryi.org/) have organised an 80s Disco at Dudgeon Park.
 
 Move seamlessly from Meghan to Madonna, leave The Queen for *the* Queen, swap Chelsea for Culture Club or Utd for U2, or just follow up the clash between Celtic and Motherwell for *The Clash*.
