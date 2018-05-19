@@ -11,13 +11,13 @@ edited:
 ---
 It matters little where your interests lie, the 19th March 2018 has already been filling your news feeds for a while now.
 
-If the Royal Wedding isn't up your street, that's OK. If the FA Cup does little to stir the blood, that's OK. At least it is Scottish Cup Day.
+If the Royal Wedding isn't up your street, that's OK. If the FA Cup does little to stir the blood, no bother. At least it is Scottish Cup Day.
 
 Little interest in the fortunes of the respective teams since Kilmarnock halted our most [successful Scottish Cup run](/2018/02/10/kilmarnock-away-report/) ever? Or just looking to finish off the day once the wedding fever is over and Kevin Clancy blows the final whistle?
 
 Fear not ... for we have the answer.
 
-[Ronnie and Donnie](https://www.facebook.com/ronnien.donnie) are getting a break from their usual slot of entertaining the village ( we guess they were just to young to remember that decade) and the [Brora Rangers Youth Initiative](https://bryi.org/) have organised an 80s Disco at Dudgeon Park.
+[Ronnie and Donnie](https://www.facebook.com/ronnien.donnie) are getting a break from their usual slot of entertaining the village (we guess they were just to young to remember that decade) and the [Brora Rangers Youth Initiative](https://bryi.org/) have organised an 80s Disco at Dudgeon Park.
 
 Move seamlessly from Meghan to Madonna, leave The Queen for *the* Queen, swap Chelsea for Culture Club or Utd for U2, or just follow up the clash between Celtic and Motherwell for *The Clash*.
 
