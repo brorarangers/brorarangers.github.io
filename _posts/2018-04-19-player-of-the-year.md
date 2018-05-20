@@ -3,7 +3,7 @@ layout: article
 category: event
 tags:
 title: "Players of the year"
-description: Brora Rangers aknowledge those who stood out this season ...
+description: Brora Rangers acknowledge those who stood out this season ...
 featured: yes
 image: yes
 quote:
