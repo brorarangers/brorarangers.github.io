@@ -55,4 +55,4 @@ collections:
 paginate: 15
 paginate_path: "/archive/page:num/"
 #### Site settings ####
-current-season: 2017
+current-season: 2018
