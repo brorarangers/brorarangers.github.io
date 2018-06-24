@@ -146,4 +146,36 @@ Data Subjects have certain rights when it comes to how we handle their Personal 
 
 These include rights to: withdraw consent to Processing; receive certain information about the Data Controller’s Processing activities; request access to the Personal Data that we hold; ask us to erase Personal Data if it is no longer required for the purpose for which it was collected or Processed; to rectify inaccurate data; to complete incomplete data; restrict Processing in specific circumstances; challenge Processing which has been justified on the basis of our legitimate interests or in the public interest; prevent Processing that is likely to cause damage or distress to the Data Subject or anyone else; be notified of a Personal Data Breach which is likely to result in high risk to their rights and freedoms; make a complaint to the supervisory authority.
 
-You must immediately forward any Data Subject request you make or receive to Brora Rangers FC and comply with the Company’s Data Subject response process. 
+You must immediately forward any Data Subject request you make or receive to Brora Rangers FC and comply with the Company’s Data Subject response process.
+
+## 10. ACCOUNTABILITY
+
+We implement appropriate technical and organisational measures to ensure compliance with data protection principles. Our policies and procedures are one way in which we demonstrate our compliance with the GDPR and Data Protection Act 2018.
+
+## 11. RECORD KEEPING
+
+Where required by the GDPR [and Data Protection Act 2018] we will keep full and accurate records of all our data Processing activities. In addition, we will keep records of Data Subjects’ consents and procedures for obtaining consents, in accordance with the Company’s record keeping guidelines.
+
+## 12. TRAINING AND AUDIT
+
+We require all Company Personnel to read and understand the Data Protection Policy when they are inducted. In addition, you will be required to undergo training appropriate to your role to enable you to comply with the GDPR [and Data Protection Act 2018].
+
+## 13. SHARING PERSONAL DATA
+
+We will only share Personal Data with third parties where certain safeguards and contractual arrangements have been put in place.
+
+We only share the Personal Data we hold with third parties, including but not limited to our service providers such as benefits providers, payroll providers and professional advisors if:
+
+a) we have a lawful basis for doing so;
+
+b) sharing the Personal Data complies with the Privacy Notices provided to the Data Subject and, if applicable, consent has been obtained; and
+
+c) the third party has agreed to comply with the required data security policies and procedures and put adequate security measures in place.
+
+We may share the Personal Data we hold with another employee, agent or representative of our group [(which includes our subsidiaries and our ultimate holding company along with its subsidiaries)] if the recipient has a job-related need to know the information.
+
+## 14. CHANGES TO THIS DATA PROTECTION POLICY
+
+We reserve the right to change this Data Protection Policy at any time without notice to you.
+
+This Data Protection Policy does not override any applicable national data privacy laws and regulations in countries where the Company operates. 
