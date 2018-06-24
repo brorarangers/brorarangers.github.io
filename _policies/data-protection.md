@@ -74,4 +74,76 @@ name, address, phone numbers - for individual and next of kin
 
 - training details
 
-Relevant individuals should refer to the Company’s Privacy Notice for more information on the reasons for its processing activities, the lawful bases it relies on for the Processing and data retention periods. 
+Relevant individuals should refer to the Company’s Privacy Notice for more information on the reasons for its processing activities, the lawful bases it relies on for the Processing and data retention periods.
+
+## 5. PERSONAL DATA PROTECTION PRINCIPLE
+
+### 5.1 LAWFULNESS AND FAIRNESS
+
+Data may only be collected by the Company if the Processing is fair, lawful and for specified purposes, some of which are set out below:
+
+(a) the Data Subject has given his or her consent;
+
+(b) the Processing is necessary for the performance of a contract with the Data Subject;
+
+(c) to meet our legal compliance obligations;
+
+(d) to protect the Data Subject’s vital interests;
+
+(e) to pursue our legitimate interests
+
+### 5.2 CONSENT
+
+In some circumstances consent maybe required. Consent should be freely given, specific and informed. It may also be withdrawn at any time.
+
+### 5.3 TRANSPARENCY
+
+Information in relation to how and why we collect data will be provided through appropriate Privacy Notices.
+
+### 5.4 PURPOSE LIMITATION
+
+Personal Data will be collected only for specified, explicit and legitimate purposes. It will not be further Processed in any manner incompatible with those purposes. We will not Process Personal Data for new, different or incompatible purposes from that disclosed when it was first obtained unless the Data Subject has been informed and has consented where necessary.
+
+### 5.5 DATA MINIMISATION
+
+Personal Data will be adequate, relevant and limited to what is necessary in relation to the purposes for which it is Processed. When Personal Data is no longer needed, it is deleted or anonymised in accordance with the Company’s data retention guidelines.
+
+### 5.6 ACCURACY
+
+We will ensure that the Personal Data we use and hold is accurate, complete, kept up to date and relevant to the purpose for which we collected it. We will take all reasonable steps to destroy or amend inaccurate or out-of-date Personal Data.
+
+### 5.7. STORAGE LIMITATION
+
+Personal Data will be kept in an identifiable form for no longer than is necessary for the purposes for which the data is processed.
+
+## 6. SECURITY INTEGRITY AND CONFIDENTIALITY
+
+### 6.1 PROTECTING PERSONAL DATA
+
+Personal Data will be secured by appropriate technical and organisational measures against unauthorised or unlawful Processing, and against accidental loss, destruction or damage.
+
+You must follow all procedures and technologies we put in place to maintain the security of all Personal Data from the point of collection to the point of destruction as set out in our Information Technology Policy. Where you work remotely, whether at home or at client sites, or Process Personal Data on personal devices, you must follow our [remote/home working policy OR all guidance we issue in relation to this.]
+
+Failure to follow the Company’s rules on data security may be dealt with via the Company’s disciplinary procedure. Appropriate sanctions include dismissal with or without notice dependent on the severity of the failure.
+
+### 6.2 REPORTING A PERSONAL DATA BREACH
+
+The GDPR [and Data Protection Act 2018] requires Data Controllers to notify any Personal Data Breach to the applicable regulator and, in certain instances, the Data Subject. We have put in place procedures to deal with any suspected Personal Data Breach and will notify Data Subjects or any applicable regulator where we are legally required to do so within 72 hours.
+
+If you know or suspect that a Personal Data Breach has occurred, you should contact Brora Rangers FC immediately
+
+## 7. TRANSFER LIMITATION
+
+If we transfer data out with the EU. Brora Rangers Football Club is required to provide limited information to FIFA. At all time, Brora Rangers Football Club shall ensure that the transfer of personal data over an international border is protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission or to an overseas We will comply with the Company’s guidelines on cross border data transfers which through binding corporate rules
+
+## 8. COMPANY PROCEDURES
+
+The Company has appointed Club Secretary with a specific responsibility for protecting the personal data of individuals in respect of processing and controlling the data. If you wish further information in relation to the steps taken please contact brorarangersfc@highlandleague.com.
+
+## 9. DATA SUBJECT’S RIGHTS AND REQUESTS
+
+Data Subjects have certain rights when it comes to how we handle their Personal Data.
+
+These include rights to: withdraw consent to Processing; receive certain information about the Data Controller’s Processing activities; request access to the Personal Data that we hold; ask us to erase Personal Data if it is no longer required for the purpose for which it was collected or Processed; to rectify inaccurate data; to complete incomplete data; restrict Processing in specific circumstances; challenge Processing which has been justified on the basis of our legitimate interests or in the public interest; prevent Processing that is likely to cause damage or distress to the Data Subject or anyone else; be notified of a Personal Data Breach which is likely to result in high risk to their rights and freedoms; make a complaint to the supervisory authority.
+
+You must immediately forward any Data Subject request you make or receive to Brora Rangers FC and comply with the Company’s Data Subject response process. 
