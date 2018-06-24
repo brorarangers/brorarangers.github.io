@@ -52,7 +52,7 @@ Please contact [name/Data Protection Compliance Manager/the DPO] with any questi
 
 Personal data is kept in personnel files or within the Company’s HR systems. The type of data held by the Company includes but is not limited to the following:
 
-name, address, phone numbers - for individual and next of kin
+- name, address, phone numbers - for individual and next of kin
 
 - National Insurance numbers
 
@@ -178,4 +178,4 @@ We may share the Personal Data we hold with another employee, agent or represent
 
 We reserve the right to change this Data Protection Policy at any time without notice to you.
 
-This Data Protection Policy does not override any applicable national data privacy laws and regulations in countries where the Company operates. 
+This Data Protection Policy does not override any applicable national data privacy laws and regulations in countries where the Company operates.
