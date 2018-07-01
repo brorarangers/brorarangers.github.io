@@ -36,7 +36,7 @@ Our new manager Steven Mackay has been busy putting in place the systems and sta
 
 On the player front, again Steven has been working very hard to identify players that will add value and depth to his squad. Steven is determined to sign only players who share his playing philosophy and can fulfil a role for the club. I think it is fair to say that we will have a smaller but tighter squad this coming season.
 
-I’m pleased also that we will again be running 3 teams beneath our A Team. We will compete  in the U20’s, U17’s and U13’s leagues as well as moving forward with the vibrant ladies section.
+I’m pleased also that we will again be running 3 teams beneath our A Team. We will compete  in the U20, U17 and U15 leagues as well as moving forward with the vibrant ladies section.
 
 It’s unfortunate that our friends from Ross County and Inverness Caledonian Thistle will not be visiting us for a preseason fixture, but their calendars  just didn’t work for them this year. We are however delighted to be playing in the annual Kelty Hearts Tournament on the weekend of 21st/22nd of July. We shall be playing Clydebank at 4pm on the Saturday and either Kelty or Thornton on the Sunday. These fixtures are exactly what we will need in preparation for our first Breedon Highland League fixture against our derby rivals Wick Academy the following Saturday.
 
@@ -44,4 +44,4 @@ We are gearing up for a busy year for our matchday hospitality. Russell and Denn
 
 Our admission prices and various season ticket packages have now been finalised including early bird deals, and these will appear on the website very shortly.
 
-In concluding this brief overview, I would thank everybody who has been down at the ground working to deliver the improvements. Likewise those who have been busy on the never ending cycle of fundraising, who also play such an important role in the club. 
+In concluding this brief overview, I would thank everybody who has been down at the ground working to deliver the improvements. Likewise those who have been busy on the never ending cycle of fundraising, who also play such an important role in the club.
