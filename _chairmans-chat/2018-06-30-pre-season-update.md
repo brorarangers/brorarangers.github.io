@@ -2,7 +2,7 @@
 layout: article
 banner: "chairman's chat"
 title: Pre Season Update
-description: I hope you are all enjoying the closed season break, although with the World Cup going on in Russia, the beautiful game has never been too far away.
+description: A catch up on close season matters ahead of the 2018-19 season from the Brora Rangers Chairman.
 quote:
 edited:
 ---
