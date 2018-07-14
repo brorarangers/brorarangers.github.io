@@ -5,7 +5,7 @@ tags:
 title: "Season Ticket Prices"
 description: Season Ticket prices for the 2018-19 season released.
 featured: yes
-image:
+image: yes
 quote:
 edited:
 ---
